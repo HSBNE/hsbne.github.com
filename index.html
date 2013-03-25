@@ -1,0 +1,77 @@
+---
+layout: index
+---
+
+<div class="herobar">
+	<div class="container">
+		<div class="row">
+			<div class="span6">
+				<p class="lead">
+					Build something amazing. Our community is here to help
+					make ideas a reality. HSBNE provides the space, the tools
+					and the resources;
+				</p>
+				<p class="lead">
+					You provide the idea.
+				</p>
+				<p class="calltoaction">
+					<a href="/join.html" class="btn btn-success btn-large">Become A Member</a>
+					<a href="/about.html" class="btn btn-info btn-large">Learn More</a>
+				</p>
+			</div>
+
+			<div class="span6">
+				<div id="heroCarousel" class="carousel slide">
+				  <ol class="carousel-indicators">
+					<li data-target="#heroCarousel" data-slide-to="0" class="active"></li>
+					<li data-target="#heroCarousel" data-slide-to="1"></li>
+					<li data-target="#heroCarousel" data-slide-to="2"></li>
+				  </ol>
+				  <!-- Carousel items -->
+				  <div class="carousel-inner">
+					  <div class="active item"><img src="http://placehold.it/460x270/FFB629/000&text=One" /></div>
+					<div class="item"><img src="http://placehold.it/460x270/F14400/000&text=Two" /></div>
+					<div class="item"><img src="http://placehold.it/460x270/A0C9D0/000&text=Three" /></div>
+				  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row">
+		<div class="span4">
+			<h3>Get Involved</h3>
+			<ul class="nav nav-list">
+				<li> <a href="/thespace.html"><i class="icon-map-marker"></i> Visit HSBNE</a> </li>
+				<li> <a href="http://groups.google.com/group/hackerspace_brisbane"><i class="icon-envelope"></i> Join the mailing list</a> </li>
+				<li> <a href="http://webchat.freenode.net/?channels=hsbne&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTA9dHJ1ZQ75"><i class="icon-comment"></i> Talk on IRC</a> </li>
+				<li> <a href="http://porthack.hsbne.org:52169/local/CamClient/"><i class="icon-facetime-video"></i> View the Space Webcam</a> </li>
+				<li> <a href="/donate.html"><i class="icon-gift"></i> Donate to HSBNE</a> </li>
+				<li> <a href="/media.html"><i class="icon-pencil"></i> Write about HSBNE</a> </li>
+				<li> <a href="/join.html"><i class="icon-user"></i> Become a Member</a> </li>
+			</ul>
+		</div>
+		<div class="span4">
+			<h3>Blog</h3>
+			<ul class="nav nav-list">
+				{% for post in site.posts limit:7 %}
+				<li><a href="{{ post.url }}"><i class="icon-chevron-right"></i><span class="date">{{ post.date | date_to_string }}</span> &raquo; {{ post.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="span4">
+			<h3>Events / Classes</h3>
+			<ul class="nav nav-list">
+				<li> <a href="/events/tuesday.html"><i class="icon-calendar"></i><strong>Every Tuesday : Weekly Open Night</strong></a> </li>
+			</ul>
+		</div>
+	</div>
+</div>
+		<!--<p class="span6">
+		HSBNE Inc is Hackerspace Brisbane. We're a membership based community
+		organisation that exists so that anyone can build, create and learn.
+		We're a core part of maker culture, and we're here to help the tinkerer,
+		the inventor, the small business, the mad scientist, but most
+		importantly: the curious.
+		</p>-->
