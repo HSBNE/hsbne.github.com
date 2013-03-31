@@ -27,7 +27,8 @@ script: join.js
       </li>
       <li>
         <p><strong>Tell us about yourself</strong></p>
-        <form class="join" action="https://docs.google.com/spreadsheet/formResponse?formkey=ckJkaU1nWldWazd4MkZTamJfbFFjNFE6MQ&theme=0AX42CRMsmRFbUy02YWQwYTNiZC04Yjc1LTRkNWUtYTQ4My03Y2NlZmY1NjMzZjM&ifq" method="post">
+        <iframe name="iframe_joinform" id="iframe_joinform" class="hidden"></iframe>
+        <form class="join" action="https://docs.google.com/spreadsheet/formResponse?formkey=ckJkaU1nWldWazd4MkZTamJfbFFjNFE6MQ&theme=0AX42CRMsmRFbUy02YWQwYTNiZC04Yjc1LTRkNWUtYTQ4My03Y2NlZmY1NjMzZjM&ifq" target="iframe_joinform" method="post">
           <fieldset class="control-group">
             <input type="text" name="entry.2.single" required="required" class="span4" placeholder="Full Name" />
           </fieldset>
@@ -54,15 +55,18 @@ script: join.js
             <button type="submit" name="" class="btn btn-success btn-small"><i class="icon-user icon-white"></i> Apply</button>
             </fieldset>
         </form>
+        <div class="thanks hidden alert alert-success">
+          You're on our list, congratulations!
+        </div>
       </li>
       <li>
         <p><strong>Email the Executive</strong></p>
-        <p>Just to make sure that we know you applied! Sometimes the apply form doesn't tell us.</p>
+        <p>Tell us about yourself! We'll check your details and send you payment information.</p>
         <p> <a href="mailto:executive@hsbne.org" class="btn btn-small btn-primary"><i class="icon-envelope icon-white"></i> Email the Executive</a> </p>
       </li>
       <li>
         <p><strong>Send payment to HSBNE</strong></p>
-        <p>We currently only accept direct deposit, we'll send you an email with the details.</p>
+        <p>We currently only accept direct deposit</p>
       </li>
       <li>
         <p><strong>Talk to an Executive on a Tuesday</strong></p>
