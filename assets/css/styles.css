@@ -19,6 +19,16 @@
  */
 
 /*
+ * TOOLS
+ */
+.hidden {
+    display: none;
+}
+.invisible {
+    visibility: none;
+}
+
+/*
  * LAYOUT
  */
 
