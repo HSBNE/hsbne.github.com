@@ -1,3 +1,5 @@
 <script src="http://code.jquery.com/jquery.js"></script>
 <script src="/assets/vendor/bootstrap/js/bootstrap.min.js"></script>
-
+{% if page.script %}
+  <script src="/assets/js/inline/{{ page.script }}"></script>
+{% endif %}
