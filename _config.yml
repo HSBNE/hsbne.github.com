@@ -1,5 +1,9 @@
 permalink: /blog/:year/:month/:day/:title
-description: ""
-title: "HSBNE"
+title: "Hackerspace Brisbane - HSBNE"
 title_long: "Hackerspace Brisbane"
 title_legal: "HSBNE Inc"
+description: "We're a membership based community organisation that exists so that anyone can build, create and learn. We're a core part of maker culture, and we're here to help the tinkerer, the inventor, the small business, the mad scientist, but most importantly: the curious."
+robots: "index, follow"
+keywords: "hackspace, hacerspace, community, create, learn, invent, science, math, robotics, mechatronics, arduino, programing"
+copyright: "&copy; 2009-2013 HSBNE Inc."
+googlebot: "archive"
