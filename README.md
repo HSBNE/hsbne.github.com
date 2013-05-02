@@ -60,7 +60,9 @@ html pages, you can go through the github edit button.
     * 1.9.3 is optional, i think anything higher will also work. RVM defaults to
       2.0.0 at the moment.
 3. `gem install jekyll`
-4. `jekyll --auto --server`
+4. `jekyll`
+
+   The options that jekyll will execute with are specified in config.yml
 5. The site is now running on port [4000](http://localhost:4000/), and it's
    watching the directory for changes. Edit things and see how hilariously
    broken everything becomes. Some changes aren't picked up by auto, just
