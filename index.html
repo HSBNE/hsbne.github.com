@@ -55,8 +55,11 @@ script: index.js
 		<div class="span4">
 			<h3>Blog</h3>
 			<ul class="nav nav-list">
-				{% for post in site.posts limit:7 %}
+				{% for post in site.posts limit:8 %}
 				<li><a href="{{ post.url }}"><i class="icon-chevron-right"></i><span class="date">{{ post.date | date_to_string }}</span> &raquo; {{ post.title }}</a></li>
+				{% else %}
+				<strong>No Blog Posts!</strong>
+				<p>Maybe you could write something for us?</p>
 				{% endfor %}
 			</ul>
 		</div>
