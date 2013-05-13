@@ -26,7 +26,7 @@ title: Member Information
     <h3>Meetings</h3>
     <p>Agendas and their corresponding minutes of past HSBNE meetings.</p>
     <dl>
-      {% for meeting in site.pages %}
+      {% for meeting in site.pages reversed %}
         {% assign urlparts = meeting.url | split:'/' %}
         {% capture route %}{% for part in urlparts limit:2 offset:1 %}{{ part }}{% endfor %}{% endcapture %}
         {% if route == 'adminmeeting' %}
