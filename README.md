@@ -53,7 +53,7 @@ html pages, you can go through the github edit button.
 1. Fork this repo
 2. Clone your fork to a local drive
 
-#### OSX
+#### OSX / Linux
 
 1. System ruby sucks. Install [RVM](http://rvm.io)
 2. Go to your copy of the site, `rvm use 1.9.3 --rvmrc`
@@ -68,12 +68,31 @@ html pages, you can go through the github edit button.
    broken everything becomes. Some changes aren't picked up by auto, just
    restart the server.
 
+*Important:* Jekyll recently upgraded to v1, but github pages uses 0.12. v1 is
+an ideal upgrade and the nicest to run on your system, but the commands differ
+slightly. To start the server run `jekyll server --watch`. The directions above
+are for jekyll pre 1.x.
+
+If you're experiencing weirdness where your changes don't work once up on
+github, you can run the site in compatibility mode using the included Gemfile.
+
+1. `gem install bundler`
+2. `bundle install`
+3. `bundle exec jekyll`
+
+Keep in mind that 0.12 seems to be a bit buggy and the `--auto` option does
+not seem to work properly for some people.
+
 Once you have changes you like:
 
 1. `git commit -am "My amazing changes"`
 2. `git push origin master`
 3. Go to your repo on github, make a pull request.
 4. Wait for me to accept it.
+
+#### Windows
+
+Instructions coming, maybe from you?
 
 ## This document
 
