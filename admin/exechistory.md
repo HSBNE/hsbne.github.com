@@ -43,5 +43,5 @@ Secretary (Feb '11 > May '11)
 : Alex Wilson
 
 Treasurer
-: Luke Hovington
+: Joel Byrnes
 
