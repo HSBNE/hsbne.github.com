@@ -9,6 +9,22 @@ This is a record of the members who have donated their time to make HSBNE run su
 
 ## History
 
+### May '13 > May '14
+President
+: James Bowler
+
+Vice-President
+: Simon Shea
+
+Secretary
+: Sidney Watters
+
+Treasurer
+: Will Gebers
+
+Patron
+: Seppo Saario
+
 ### May '12 > May '13
 
 President
