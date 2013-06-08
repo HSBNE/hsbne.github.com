@@ -37,7 +37,7 @@ easier. If you feel up for it, that would be an amazing way to help out.
 
 Contribute like you would any other github project. Fork and make a pull
 request.
-
+(If you haven't tried this before goto www.github.com and register an account, then go to our page and click on fork)
 If you become a trusted contributor, I'm happy to give you direct commit rights
 to this repo.
 
@@ -51,7 +51,11 @@ html pages, you can go through the github edit button.
 ### The slower, but more powerful way
 
 1. Fork this repo
-2. Clone your fork to a local drive
+2. Clone your fork to a local drive (git clone git://git@github.com:YOURUSERNAME/hsbne.github.com.git
+3. cd hsbne.github.com.git
+4. Tell your local installation of git to track the upstream master (git remote add upstream https://github.com/HSBNE/hsbne.github.com.git)  
+5. You can now get the latest version from the original site using (git fetch upstream)
+6. Now go ahead and make your changes
 
 #### OSX / Linux
 
@@ -90,6 +94,7 @@ Once you have changes you like:
 3. Go to your repo on github, make a pull request.
 4. Wait for me to accept it.
 
+If it says that you have no changes, you may have to run git add FILENAME
 #### Windows
 
 Instructions coming, maybe from you?
