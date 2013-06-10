@@ -8,6 +8,8 @@ This is a master list of policies or by-laws at HSBNE that fall outside the scop
 
 ## Dispute Resolution Process
 
+**This policy is currently voted to be replaced. [See the meeting notes](/admin/meeting/20130521.html)**
+
 If two members have a dispute they must first attempt to reconcile it between themselves privately.
 
 If necessary, one or both member/s can then contact the comittee who will attempt ( within 7 days ) to assist in reconciliation of the two parties privately.
@@ -17,6 +19,18 @@ If this fails, then either of the members shall formally ( in writing to the exe
 The member/s all shall be given an opportunity to be heard, either orally or in writing. The meeting shall be held, and/or the written statements considered by the members. The members  (all present ) shall then vote on the specifics of the problem,  in the normal way, and  the member/s that are party to the dispute agree to be bound by the group vote.
 
 In case the parties to the dispute can not agree to be bound by the group vote, their remaining option is to terminate their HSBNE membership, in writing to the treasurer or executive , in the usual manner, and have refunded any unused portion of the moneys they may have paid in advance
+
+## WOOFing Membership
+
+**This policy has been voted in and should be detailed here**
+
+## Co-Working Rooms
+
+**This policy has been voted in and should be detailed here. [Meeting](/admin/meeting/20130115.html)**
+
+## Member storage at HSBNE
+
+**This policy is around the ticket system and member storage. Has been voted in and should be detailed here. [Meeting](/admin/meeting/20130115.html)**
 
 ## Lifetime Membership
 
@@ -59,7 +73,7 @@ With regards to your rights/responsibilities as both a Tenant and a Member, your
 
 The current rental rate at HSBNE is **$40/sqm/year**.
 
-When renting with HSBNE, you will be bound by these conditions:
+When renting with HSBNE, you will be bound by these conditions[^2]:
 
 - All storage and equipment etc is 100% at your own risk.
 - There is a 30 day notice to leave ( either by request of the executive or by a group vote )
@@ -67,7 +81,9 @@ When renting with HSBNE, you will be bound by these conditions:
 - Ability to rent is a privilege granted to members only. To continue to rent at HSBNE, you must maintain full membership.
 - Your rent is always on-top or as-well-as your membership costs.
 - Your tenancy/renting from us must have an additional tangible benefit for the group. IE Access to resources/services that we do not have currently.
+- Tenancy will come up for review every 3 months.
 
 If you would like to rent space from HSBNE Inc please contact the Executive with your proposal so we can put it to the membership at the next scheduled meeting. Please note this is an action item that will require at least 5 days notice and we generally have our meetings on a Tuesday night.
 
 [^1]: [Section 42 of the Rules](/admin/rules.html#bylaws)
+[^2]: [As defined by the meeting on 30th August, 2010](/admin/meeting/20110830.html)
