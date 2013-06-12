@@ -16,6 +16,6 @@ We're a core part of maker culture, and we're here to help the tinkerer,
 the inventor, the small business, the mad scientist, but most
 mportantly: the curious.
 
-
+![](/assets/img/hacker.png)
 
 
