@@ -1,69 +1,79 @@
 ---
 layout: default
 description: description
-title: Events at HSBNE
+title: Events
 ---
 
 <div class="row">
   <div class="span12">
     <p class="lead">
+
       HSBNE holds regular events, check out whats on!
+
+
     </p>
   </div>
 </div>
+
+
 <div class="row">
 	<div class="span12">
-    <ul class="event">
-      <li class="media">
-        <a class="pull-left" href="{{ post.url }}">
-          <img class="media-object" src="http://placehold.it/64x64/F14400/000&text=Post">
-        </a>
-        <div class="media-body">
-          <h4 class="media-heading">
-            <a class="" href="/events/tuesday.html">
-              Open Nights every Tuesday from 5pm
-            </a>
-          </h4>
-          <div class="media">
-            We have open night from 5pm every Tuesday, everyone is welcome!
+    <ul class="tuesday">
+      {% for post in site.categories.tuesday %}
+        <li class="media">
+          <a class="pull-left" href="{{ post.url }}">
+            <img class="media-object" src="http://placehold.it/64x64/A0C910/000&text=Post">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">
+              <a class="" href="{{ post.url }}">
+                {{ post.title }}
+              </a>
+            </h4>
+                         <blockquote class="media">
+              <p>
+                {{ post.excerpt }}
+              </p>
+              <small>{{ post.author }}</small>
+            </blockquote>
           </div>
-        </div>
-      </li>
-    </ul>
-    <ul class="event">
-      <li class="media">
-        <a class="pull-left" href="{{ post.url }}">
-          <img class="media-object" src="http://placehold.it/64x64/F14400/000&text=Post">
-        </a>
-        <div class="media-body">
-          <h4 class="media-heading">
-            <a class="" href="classes.html">
-              HSBNE hosts a number of classes during the year.
-            </a>
-          </h4>
-          <div class="media">
-          The HackerSpace is about collaboration and part of that collaboration is sharing knowledge, both formally and informally.
-	  </div>
-        </div>
-      </li>
-    </ul>
-    <ul class="event">
-      <li class="media">
-        <a class="pull-left" href="{{ post.url }}">
-          <img class="media-object" src="http://placehold.it/64x64/F14400/000&text=Post">
-        </a>
-        <div class="media-body">
-          <h4 class="media-heading">
-            <a class="" href="http://www.brisbanemakes.com/index.php/makercamp">
-              27 July 2013 - The Brisbane makerCamp
-            </a>
-          </h4>
-          <div class="media">
-            makerCamp is a showcase of inventions, creations, art, carftsmanship and anything that you can make yourself.
-          </div>
-        </div>
-      </li>
+        </li>
+      {% endfor %}
     </ul>
   </div>
 </div>
+
+
+
+<div class="row">
+	<div class="span12">
+    <ul class="event">
+      {% for post in site.categories.events %}
+        <li class="media">
+          <a class="pull-left" href="{{ post.url }}">
+            <img class="media-object" src="http://placehold.it/64x64/A0C910/000&text=Post">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">
+              <a class="" href="{{ post.url }}">
+                {{ post.title }}
+              </a>
+            </h4>
+            <sup>{{ post.date | date_to_string }}</sup>
+            <blockquote class="media">
+              <p>
+                {{ post.excerpt }}
+              </p>
+              <small>{{ post.author }}</small>
+            </blockquote>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+
+</div>
+
+
 
