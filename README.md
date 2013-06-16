@@ -97,7 +97,58 @@ Once you have changes you like:
 If it says that you have no changes, you may have to run git add FILENAME
 #### Windows
 
-Instructions coming, maybe from you?
+Install Github for windows [http://windows.github.com/](http://windows.github.com/ "http://windows.github.com/")
+
+login and clone the repository to you local drive mine is `C:\users\denominator\Documents\GitHub\hsbne.github.com\`
+
+##### Install Ruby
+
+For this, you'll want to use [http://rubyinstaller.org/](http://rubyinstaller.org/ "Ruby Installer for Windows"). Just download the latest version of the installer from their site, and run it.
+
+Once installed you'll need to append the newly-created bin directory for Ruby, in my case C:\Ruby200\bin, to your PATH system environment variable. To do this:
+
+
+1. Right-click **My Computer** and click **Properties**.
+2. In the **System Properties** window, click on the **Advanced** tab.
+3. In the Advanced section, click the **Environment Variables** button.
+4. In the Environment Variables window, highlight the **Path** variable in the **Systems Variable** section and click the Edit button.
+
+Append the directory separator, and the relevant Ruby bin directory path to the current value (e.g. `;C:\Ruby193\bin`
+
+##### Install the Ruby Installer DevKit
+
+Due to some of the dependencies in later steps, you&#8217;ll also need to download and install the RubyInstaller Development Kit. This is [http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/ "available on their download page").
+
+When you run the executable, you'll be asked where to place the setup files. For simplicity, store them in `C:\DevKit` and once the extraction is complete, open up a command prompt window and navigate to that same directory, 
+'cd C:\DevKit`.</p>
+
+Execute the command `ruby dk.rb init`
+
+followed by `ruby dk.rb install` to install the development kit.
+
+#####Install Jekyll and its Dependencies
+
+Its pretty simple now, just run the following three commands in windows command line:
+
+1. `gem install jekyll`
+2. `gem install RedCloth`
+3. `gem install rdiscount`
+
+#####Fire-Up Jekyll
+
+If everything has gone well then you should now be able to navigate to the location of your source files* and start up Jekyll's web server instance with `jekyll serve`. This will then allow you to browse the generated site locally at ![http://localhost:4000](localhost:4000)
+
+**TIP:** To make it easer to startup sever create a shortcut on your desktop pointing to in my case `C:\Ruby200\bin\jekyll.bat -w serve` the -w makes it watch the directory to change the server everytime something changes. Edit the Start In: int the properties of the shortcut to poin it to the directory where the website is 
+`C:\users\denominator\Documents\GitHub\hsbne.github.com\`
+
+to close running server just hit ctl-c and it y enter
+
+
+
+**Note:** If you get an error when you first try to run jekyll, telling you that RedCloth is not installed, then simply run the following command [http://hblg.info/2011/08/27/RedCloth-fix-Windows-installation.html](http://hblg.info/2011/08/27/RedCloth-fix-Windows-installation.html "as noted here").
+
+    sh C:\Ruby193\bin\redcloth
+
 
 ## This document
 
