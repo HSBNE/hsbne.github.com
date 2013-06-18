@@ -6,23 +6,19 @@ layout: default
 ## Overview
 This is a master list of policies or by-laws at HSBNE that fall outside the scope of the official HSBNE Rules. These are a working part of the HSBNE infrastructure and social contract. By-laws can be made by vote at a general meeting, or by the Executive Committee[^1].
 
-## Dispute Resolution Process
+## [Dispute Process](/admin/dispute.html)
 
-**This policy is currently voted to be replaced. [See the meeting notes](/admin/meeting/20130521.html)**
+The Executive are not interested in petty disputes among members. However we will not overlook any reported dispute's 
 
-If two members have a dispute they must first attempt to reconcile it between themselves privately.
+[More Info](/admin/dispute.html)
 
-If necessary, one or both member/s can then contact the comittee who will attempt ( within 7 days ) to assist in reconciliation of the two parties privately.
+[See the meeting notes](/admin/meeting/20130521.html)
 
-If this fails, then either of the members shall formally ( in writing to the executive or secretary ) request the dispute to be heard at a General Meeting as an agenda item, and shall detail precise elements that can be voted on , and ( if necessary ) a general meeting may be called in the normal manner, subject to both members agreeing to attend ( or present their case in writing).
-
-The member/s all shall be given an opportunity to be heard, either orally or in writing. The meeting shall be held, and/or the written statements considered by the members. The members  (all present ) shall then vote on the specifics of the problem,  in the normal way, and  the member/s that are party to the dispute agree to be bound by the group vote.
-
-In case the parties to the dispute can not agree to be bound by the group vote, their remaining option is to terminate their HSBNE membership, in writing to the treasurer or executive , in the usual manner, and have refunded any unused portion of the moneys they may have paid in advance
-
-## WOOFing Membership
+## Work For Membership
 
 **This policy has been voted in and should be detailed here**
+
+
 
 ## Co-Working Rooms
 
