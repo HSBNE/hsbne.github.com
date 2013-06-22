@@ -23,37 +23,3 @@ To deal with the less egregious issues, or less certain situations  where doubt 
 If people are seen having arguments, raised voices, interfering disagreements, making others uncomfortable or the executive hear indirect reports of unverified/possible Red Card behaviour,  these are all Yellow Card behaviours. They will be issued in the same way as Red Card/s, but it takes two of them in a single day to be “sent home”.  
 
 Both these Card types are “*virtual*”  ( there’s not actual card or paper ) but instead will be **PUBLICALLY ANNOUNCED TO ALL PRESENT, AND PUBLICALLY POSTED ON THE EMAIL LIST**, and additionally at the discretion of the executive it may include a brief one-line description of the [alleged] behaviour that led to the Card being issued.  
-
-
-
-
-
-<iframe name="iframe_joinform" id="iframe_joinform" class="hidden"></iframe>
-        <form class="join" action="https://docs.google.com/spreadsheet/formResponse?formkey=ckJkaU1nWldWazd4MkZTamJfbFFjNFE6MQ&theme=0AX42CRMsmRFbUy02YWQwYTNiZC04Yjc1LTRkNWUtYTQ4My03Y2NlZmY1NjMzZjM&ifq" target="iframe_joinform" method="post">
-          <fieldset class="control-group">
-            <input type="text" name="entry.2.single" required="required" class="span4" placeholder="Full Name" />
-          </fieldset>
-          <fieldset class="control-group">
-            <input type="text" name="entry.3.single" required="required" class="span4" placeholder="Handle / Nickname" />
-          </fieldset>
-          <fieldset class="control-group">
-            <input type="email" name="entry.4.single" required="required" class="span4" placeholder="Email" />
-          </fieldset>
-          <fieldset class="control-group">
-            <input type="text" name="entry.5.single" class="span4" pattern="\d{8,10}" placeholder="Phone Number" />
-          </fieldset>
-          <fieldset class="control-group">
-            <select name="entry.7.single" required="required" class="span4">
-              <option value="Working">I'm currently Working</options>
-              <option value="Student">I'm currently Studying</options>
-              <option value="Unemployed">I'm currently Unemployed</options>
-            </select>
-          </fieldset>
-
-          <fieldset class="control-group">
-            <input type="hidden" name="pageNumber" value="0" />
-            <input type="hidden" name="backupCache" value="" />
-            <input type="hidden" name="submit" value="Submit" />
-            <button type="submit" name="" class="btn btn-success btn-small"><i class="icon-user icon-white"></i> Apply</button>
-            </fieldset>
-        </form>
