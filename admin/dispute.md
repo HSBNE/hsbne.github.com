@@ -22,4 +22,4 @@ To deal with the less egregious issues, or less certain situations  where doubt 
 
 If people are seen having arguments, raised voices, interfering disagreements, making others uncomfortable or the executive hear indirect reports of unverified/possible Red Card behaviour,  these are all Yellow Card behaviours. They will be issued in the same way as Red Card/s, but it takes two of them in a single day to be “sent home”.  
 
-Both these Card types are “*virtual*”  ( there’s not actual card or paper ) but instead will be **PUBLICALLY ANNOUNCED TO ALL PRESENT, AND PUBLICALLY POSTED ON THE EMAIL LIST**, and additionally at the discretion of the executive it may include a brief one-line description of the [alleged] behaviour that led to the Card being issued.  
+Both these Card types are “*virtual*”  ( there’s not actual card or paper ) but instead will be **PUBLICALLY ANNOUNCED TO ALL PRESENT, AND PUBLICALLY POSTED ON THE EMAIL LIST**, and additionally at the discretion of the executive it may include a brief one-line description of the ( alleged ) behaviour that led to the Card being issued.  
