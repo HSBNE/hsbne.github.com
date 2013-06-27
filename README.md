@@ -112,8 +112,14 @@ Once installed you'll need to append the newly-created bin directory for Ruby, i
 2. In the **System Properties** window, click on the **Advanced** tab.
 3. In the Advanced section, click the **Environment Variables** button.
 4. In the Environment Variables window, highlight the **Path** variable in the **Systems Variable** section and click the Edit button.
+5. Append the directory separator, and the relevant Ruby bin directory path to the current value (e.g. `;C:\Ruby193\bin`)
 
-Append the directory separator, and the relevant Ruby bin directory path to the current value (e.g. `;C:\Ruby193\bin`
+Or
+
+1. Hold down the windows key and press R.
+2. type cmd in the command box
+3. type set `PATH=%PATH%;C:\Ruby193\bin`
+
 
 ##### Install the Ruby Installer DevKit
 
