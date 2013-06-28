@@ -76,6 +76,7 @@ html pages, you can go through the github edit button.
 an ideal upgrade and the nicest to run on your system, but the commands differ
 slightly. To start the server run `jekyll server --watch`. The directions above
 are for jekyll pre 1.x.
+*EDIT:* Github has just upgraded to Jekyll v1.0.3, it's still advised to use the bundler still though..
 
 If you're experiencing weirdness where your changes don't work once up on
 github, you can run the site in compatibility mode using the included Gemfile.
