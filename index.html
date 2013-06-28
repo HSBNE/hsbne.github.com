@@ -50,7 +50,7 @@ script: index.js
 			<h3>Get Involved</h3>
 
 	<ul class="nav nav-list">
-<i class="icon-map-marker"></i> <a href="/thespace.html"> Visit HSBNE</a><br>
+ <i class="icon-map-marker"></i><a href="/thespace.html"> &nbsp;&nbsp;Visit HSBNE</a><br>
  <i class="icon-envelope"></i><a href="http://groups.google.com/group/hackerspace_brisbane"> Join the mailing list</a><br>
  <i class="icon-comment"></i><a href="http://webchat.freenode.net/?channels=hsbne&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTA9dHJ1ZQ75"> Talk on IRC</a> <br>
  <i class="icon-tasks"></i><a href="http://trello.com/hsbneinc"> Participate on Trello</a><br> 
@@ -68,7 +68,7 @@ script: index.js
 
 			<ul class="nav nav-list">
 				{% for post in site.categories.blog limit:5 %}
-				<li><a href="{{ post.url }}"><i class="icon-chevron-right"></i><span class="date">{{ post.date | date_to_string }}</span>
+				<li><a href="{{ post.url }}"><i class="icon-chevron-right"></i><span class="date"> {{ post.date | date_to_string }}</span>
 				 &raquo; {{post.title }}</a></li>
 				{% else %}
 				<strong>No Blog Posts!</strong>
@@ -107,7 +107,7 @@ script: index.js
 
                         <ul class="nav nav-list">
 				{% for post in site.categories.events limit:4 %}
-				<li><a href="{{ post.url }}"><i class="icon-globe"></i><span class="date">{{ post.date | date_to_string }}</span>
+				<li><a href="{{ post.url }}"><i class="icon-globe"></i><span class="date"> {{ post.date | date_to_string }}</span>
                                 &raquo; {{ post.title }}</a></li>
 				{% else %}
 				<strong>No Projects!</strong>
@@ -122,7 +122,7 @@ script: index.js
 			
 			<ul class="nav nav-list">
 				{% for post in site.categories.classes limit:5 %}
-				<li><a href="{{ post.url }}"><i class="icon-laptop"></i><span class="date">{{ post.date | date_to_string }} </span>
+				<li><a href="{{ post.url }}"><i class="icon-laptop"></i><span class="date"> {{ post.date | date_to_string }} </span>
                                 &raquo; {{ post.title }}</a></li>
 				{% else %}
 				
