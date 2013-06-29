@@ -145,7 +145,7 @@ Its pretty simple now, just run the following three commands in windows command 
 
 If everything has gone well then you should now be able to navigate to the location of your source files* and start up Jekyll's web server instance with `jekyll serve`. This will then allow you to browse the generated site locally at ![http://localhost:4000](localhost:4000)
 
-**TIP:** To make it easer to startup sever create a shortcut on your desktop pointing to in my case `C:\Ruby200\bin\jekyll.bat -w serve` the -w makes it watch the directory to change the server everytime something changes. Edit the Start In: int the properties of the shortcut to poin it to the directory where the website is 
+**TIP:** To make it easer to startup sever create a shortcut on your desktop pointing to in my case `C:\Ruby200\bin\jekyll.bat -w serve` the -w makes it watch the directory to change the server everytime something changes. Edit the Start In: int the properties of the shortcut to point it to the directory where the website is 
 `C:\users\denominator\Documents\GitHub\hsbne.github.com\`
 
 to close running server just hit ctl-c and it y enter
