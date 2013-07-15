@@ -8,7 +8,8 @@ requests.
 
 ### Markdown vs HTML
 
-Utilise markdown unless HTML is absolutely necessary to get correct
+Utilise [markdown](https://help.github.com/articles/github-flavored-markdown)
+unless HTML is absolutely necessary to get correct
 presentation. Ie, all the first level pages are HTML, but the group rules page,
 meeting notes etc are in Markdown. Markdown is nice and portable for information
 like that.
@@ -26,8 +27,7 @@ because:
 There are some downsides:
 
  * HTML and Markdown is less accessible than WYSIWYG
- * The process of submitting changes via github is hard if you're not a
-   programmer.
+ * The process of submitting changes via github is new to people who are not programmers
  * We're limited to githubs implementation of Jekyll, which means no plugins.
 
 There are some tickets in the github system for features to make contributing
@@ -37,21 +37,35 @@ easier. If you feel up for it, that would be an amazing way to help out.
 
 Contribute like you would any other github project. Fork and make a pull
 request.
-(If you haven't tried this before goto www.github.com and register an account, then go to our page and click on fork)
+
+If you haven't tried this before goto www.github.com and register an account, then either:
+
+1. Find the page you want to change here on github, view it and use the 'edit' button. This will 
+automatically fork it and then create a pull request when you press 'Propose File Change' to save your changes. 
+Please use the commit summary to describe the change. A pull request asks the maintainers of the project to merge in
+your changes. They can accept all or some of your changes.<br>
+*or*
+2. Go to our page and click on fork to create your own copy of all of the website pages and make the 
+changes on your copy and then create a pull request to submit them back here. You need to know a bit more about
+GitHub to use this second option.
+
+Help for how to use GitHub markdown for formatting is available here: [GitHub Flavoured Markdown](https://help.github.com/articles/github-flavored-markdown).
+
+You can use [Prose.io](http://prose.io/) as a more WSIWYG editor for markdown pages instead of just the github edit. 
+For html pages, you can go through the github edit button.
+
 If you become a trusted contributor, I'm happy to give you direct commit rights
 to this repo.
 
 For now, all changes are going through pull requests just for visibility.
 
-### The quick and easy way
+If you want to make larger changes to the site, you might want to setup your own working copy of the 
+website so you can test your changes before making a pull request.
 
-You can use [Prose.io](http://prose.io/) to contribute to markdown pages. For
-html pages, you can go through the github edit button.
-
-### The slower, but more powerful way
+### How to make your own development copy of the website
 
 1. Fork this repo
-2. Clone your fork to a local drive (git clone git://git@github.com:YOURUSERNAME/hsbne.github.com.git
+2. Clone your fork to a local drive ( git clone git://git@github.com:YOURUSERNAME/hsbne.github.com.git )
 3. cd hsbne.github.com.git
 4. Tell your local installation of git to track the upstream master (git remote add upstream https://github.com/HSBNE/hsbne.github.com.git)  
 5. You can now get the latest version from the original site using (git fetch upstream)
