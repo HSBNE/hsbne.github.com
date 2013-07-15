@@ -40,12 +40,22 @@ request.
 
 If you haven't tried this before goto www.github.com and register an account, then either:
 
-1. Find the page you want to change here on github, view it and use the 'edit' button. This will 
-automatically fork it and then create a pull request when you press 'Propose File Change' to save your changes. 
-Please use the commit summary to describe the change. A pull request asks the maintainers of the project to merge in
-your changes. They can accept all or some of your changes.<br>
+1.  Find the page you want to change here on github, view it and use the 'edit' button. This will 
+automatically fork it and create a branch in your repository containing your changes when you press 'Propose File Change' to save your changes. 
+Please use the commit summary to describe the change. 
+1.  Once you are happy with your changes create a [pull request](https://help.github.com/articles/using-pull-requests#initiating-the-pull-request) to ask the maintainers of the project to merge 
+in your changes. There is an option to do this by selecting
+    1.  'start a discussion about this comparison to create a pull request' at the top of the review page shown after you pressed 'Propose File Change'. 
+    1.  You can add extra notes about the change before you finally click 'send pull request' to submit the changes.
+
+If you realise you need to make more changes before making the pull request, or changes to other files, 
+use the 'switch branches' option at the top of the page in the hsbne repository in your account to select 
+the automatically created branch in your repository, make the changes and then choose 'Start Review' to review all the changes you've made.
+This will load the same review screen you saw in 2 above, and you can follow the steps there to complete your change.
+
 *or*
-2. Go to our page and click on fork to create your own copy of all of the website pages and make the 
+
+1. Go to our page and click on fork to create your own copy of all of the website pages and make the 
 changes on your copy and then create a pull request to submit them back here. You need to know a bit more about
 GitHub to use this second option.
 
@@ -57,7 +67,7 @@ For html pages, you can go through the github edit button.
 If you become a trusted contributor, I'm happy to give you direct commit rights
 to this repo.
 
-For now, all changes are going through pull requests just for visibility.
+For now, all changes are going through pull requests just for visibility. The project maintainers can accept all or some of your changes.
 
 If you want to make larger changes to the site, you might want to setup your own working copy of the 
 website so you can test your changes before making a pull request.
