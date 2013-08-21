@@ -11,10 +11,10 @@ This is a record of the members who have donated their time to make HSBNE run su
 
 ### May '13 > May '14
 President
-: James Bowler
+: Simon Shea
 
 Vice-President
-: Simon Shea
+: Vacant
 
 Secretary
 : Sidney Watters
