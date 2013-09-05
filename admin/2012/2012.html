@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+    <dl>
+        {% for meeting in site.pages reversed %}
+        {% assign urlparts = meeting.url | split:'/' %}
+        {% capture route %}{% for part in urlparts limit:2 offset:1 %}{{ part }}{% endfor %}{% endcapture %}
+        {% if route == 'adminmeeting' %}
+          <dt><a href="{{ meeting.url }}">{{ meeting.date }}</a></dt>
+          <dd>{{ meeting.description }}</dd>
+        {% endif %}
+      {% endfor %}
+	</dl>
+ </body>
+</html>

@@ -1,0 +1,20 @@
+---
+layout: default
+description: Member Information
+title: Member Information
+---
+
+<div class="row">
+  <div class="span2">
+    <dl>
+        {% for meeting in site.pages reversed %}
+        {% assign urlparts = meeting.url | split:'/' %}
+        {% capture route %}{% for part in urlparts limit:2 offset:1 %}{{ part }}{% endfor %}{% endcapture %}
+        {% if route == 'adminmeeting' %}
+          <dt><a href="{{ meeting.url }}">{{ meeting.date }}</a></dt>
+          <dd>{{ meeting.description }}</dd>
+        {% endif %}
+      {% endfor %}
+	</dl>
+  </div>
+</div>

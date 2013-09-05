@@ -1,6 +1,6 @@
 ---
 layout: default
-description: description
+description: Member Information
 title: Member Information
 ---
 
@@ -25,7 +25,15 @@ title: Member Information
 	<div class="span6">
     <h3>Meetings</h3>
     <p>Agendas and their corresponding minutes of past HSBNE meetings.</p>
-    <dl>
+	<h2><a href="./2010/2010.html">2010</a></h2>
+    <p>Agendas and their corresponding minutes of 2010 HSBNE meetings.</p>
+	<h2><a href="./2011/2011.html">2011</a></h2>
+    <p>Agendas and their corresponding minutes of 2011 HSBNE meetings.</p>
+	<h2><a href="./2012/2012.html">2012</a></h2>
+    <p>Agendas and their corresponding minutes of 2012 HSBNE meetings.</p>
+	<h2><a href="./2013/2013.html">2013</a></h2>
+    <p>Agendas and their corresponding minutes of 2013 HSBNE meetings.</p>
+<!---     <dl>
       {% for meeting in site.pages reversed %}
         {% assign urlparts = meeting.url | split:'/' %}
         {% capture route %}{% for part in urlparts limit:2 offset:1 %}{{ part }}{% endfor %}{% endcapture %}
@@ -35,6 +43,7 @@ title: Member Information
         {% endif %}
       {% endfor %}
     </dl>
+-->
   </div>
 </div>
 
