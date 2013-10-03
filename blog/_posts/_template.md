@@ -2,7 +2,7 @@
 layout: posts
 categories: [blog]
 title: My Demo Blog
-author: Joshua Hogendorn
+author: Your Name
 excerpt: This is a short synopsis of the blog
 ---
 

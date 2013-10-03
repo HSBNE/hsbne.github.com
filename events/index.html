@@ -7,51 +7,17 @@ title: Events
 <div class="row">
   <div class="span12">
     <p class="lead">
-
       HSBNE holds regular events, check out whats on!
-
-
     </p>
   </div>
 </div>
-
-
 <div class="row">
 	<div class="span12">
-    <ul class="tuesday">
-      {% for post in site.categories.tuesday %}
-        <li class="media">
-          <a class="pull-left" href="{{ post.url }}">
-            <img class="media-object" src="http://placehold.it/64x64/A0C910/000&text=Post">
-          </a>
-          <div class="media-body">
-            <h4 class="media-heading">
-              <a class="" href="{{ post.url }}">
-                {{ post.title }}
-              </a>
-            </h4>
-                         <blockquote class="media">
-              <p>
-                {{ post.excerpt }}
-              </p>
-              <small>{{ post.author }}</small>
-            </blockquote>
-          </div>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-
-
-
-<div class="row">
-	<div class="span12">
-    <ul class="event">
+    <ul class="blog">
       {% for post in site.categories.events %}
         <li class="media">
           <a class="pull-left" href="{{ post.url }}">
-            <img class="media-object" src="http://placehold.it/64x64/A0C910/000&text=Post">
+            <img class="media-object" src="http://placehold.it/64x64/A0C910/000&text=Event">
           </a>
           <div class="media-body">
             <h4 class="media-heading">
@@ -71,9 +37,4 @@ title: Events
       {% endfor %}
     </ul>
   </div>
-
-
 </div>
-
-
-
