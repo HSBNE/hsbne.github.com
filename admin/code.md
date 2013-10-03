@@ -6,7 +6,8 @@ layout: default
 #### Be Considerate
 
 You are sharing space and equipment and working with other HSBNE members so be considerate of how your actions affect your peers, HSBNE and the community as a whole.
-Be Respectful
+
+#### Be Respectful
 
 Treat one another and members of the community with respect. Everyone can make a valuable contribution to HSBNE. We may not always agree, but disagreement is no excuse for poor behavior or poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. We expect the members of HSBNE to be respectful when dealing with other members as well as with people from outside projects and initiatives. Avoid becoming involved in flame wars, trolling, personal attacks, and repetitive arguments. Take the matters "outside" (off-list, etc) if it helps resolve the situation, and do not use communal methods of communication to be a vehicle for your private "wall of shame."
 
