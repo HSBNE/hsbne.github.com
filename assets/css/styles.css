@@ -50,9 +50,19 @@
     bottom: 15px;
 }
 
+#footer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 /*
  * DESIGN
  */
+
+#footer {
+  text-align: right;
+  font-size: 0.8em;
+}
 .brand {
     height: 105px;
     display: inline-block;

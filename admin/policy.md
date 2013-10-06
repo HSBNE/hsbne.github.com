@@ -6,27 +6,30 @@ layout: default
 ## Overview
 This is a master list of policies or by-laws at HSBNE that fall outside the scope of the official HSBNE Rules. These are a working part of the HSBNE infrastructure and social contract. By-laws can be made by vote at a general meeting, or by the Executive Committee[^1].
 
-## [Dispute Process](/admin/dispute.html)
-
-The Executive are not interested in petty disputes among members. However we will not overlook any reported dispute's 
-
-[More Info](/admin/dispute.html)
-
-[See the meeting notes](/admin/meeting/20130521.html)
-
 ## Work For Membership
 
-**This policy has been voted in and should be detailed here**
 
+The membership of HSBNE [ has decided ](/admin/meeting/20130521.html) that it wishes to offer membership in exchange for work. This is aimed at allowing less financially able people to continue to participate at HSBNE. The rules for this system, known as WOOFing, are as such:
 
-
-## Co-Working Rooms
-
-**This policy has been voted in and should be detailed here. [Meeting](/admin/meeting/20130115.html)**
+ - There will be a cap of WOOFing members at 10% current membership.
+ - The executive has total discretion on who may be considered a WOOFer.
+ - Contiguous month-to-month membership as a WOOFer is not guaranteed.
+ - WOOFers are expected to complete approximately a minimum of 5 hours work a month.
+ - It is the responsibility of the executive to maintain a record of the Work completed by WOOFers via some system of timesheeting.
 
 ## Member storage at HSBNE
 
-**This policy is around the ticket system and member storage. Has been voted in and should be detailed here. [Meeting](/admin/meeting/20130115.html)**
+There are two forms of storage for members at HSBNE. The group [provides members with crated storage in the lockable storage area](/admin/meeting/20130115.html), and it also allows members to 'park' projects for specified periods of time.
+
+### Membership Crates
+
+ - Members are issued a single 55L black crate on starting a membership.
+ - Additional crates are available for $20ea
+ - Crates, once issued, are the property of their owners, and as such are not rented or leased from HSBNE.
+
+### Parking Projects
+
+Parking projects is part of the HSBNE Ticket system.
 
 ## Lifetime Membership
 
@@ -36,7 +39,7 @@ Lifetime Members are members of HSBNE who have either accrued 10 years of member
 
 ## Stations
 
-HSBNE encourages members to document in-house systems and processes such that they are repeatable, thorough, and usable. To this end, we have the Stations program. The Stations program gives members the opportunity to create a usable piece of infrastructure and be reimbursed by the group for their initiative. This means if you build tooling for the space and it's good enough that anyone can use it, HSBNE can vote to pay you for it's building costs.
+HSBNE encourages members to document in-house systems and processes such that they are repeatable, thorough, and usable. To this end, we have the Stations program. The Stations program gives members the opportunity to create a usable piece of infrastructure and be reimbursed by the group for their initiative. This means if you build tooling for the space and it's good enough that anyone can use it, HSBNE can vote to pay you for its building costs.
 
 A Station must have:
 
@@ -61,25 +64,9 @@ If you want to create a new station, these are the steps you’ll need to follow
 
 ## Renting
 
-HSBNE has some guidelines around renting space from HSBNE Inc. This is aside from the Shared Coworking Desks beside the Green Room. 
+Renting was allowed by [the meeting on 30th August, 2010](/admin/meeting/20110830.html) and was revoked by [the meeting on XXth of XXXXXX](/admin/meeting/2013XXXX.md).
 
-Renting from HSBNE should be considered a privilege, and bestows no rights other than the ability to restrict access to the rented area.
+As such, it is HSBNE policy to disallow lease agreements for portions of the PortHack Campus.
 
-With regards to your rights/responsibilities as both a Tenant and a Member, your rights as a Tenant only apply to the rented area whereas your rights/responsibilities as a Member apply to the entire space.
-
-The current rental rate at HSBNE is **$40/sqm/year**.
-
-When renting with HSBNE, you will be bound by these conditions[^2]:
-
-- All storage and equipment etc is 100% at your own risk.
-- There is a 30 day notice to leave ( either by request of the executive or by a group vote )
-- All rentals are charged at the same rate. If this changes, all rentals will change to suit.
-- Ability to rent is a privilege granted to members only. To continue to rent at HSBNE, you must maintain full membership.
-- Your rent is always on-top or as-well-as your membership costs.
-- Your tenancy/renting from us must have an additional tangible benefit for the group. IE Access to resources/services that we do not have currently.
-- Tenancy will come up for review every 3 months.
-
-If you would like to rent space from HSBNE Inc please contact the Executive with your proposal so we can put it to the membership at the next scheduled meeting. Please note this is an action item that will require at least 5 days notice and we generally have our meetings on a Tuesday night.
 
 [^1]: [Section 42 of the Rules](/admin/rules.html#bylaws)
-[^2]: [As defined by the meeting on 30th August, 2010](/admin/meeting/20110830.html)

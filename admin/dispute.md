@@ -3,6 +3,8 @@ title: Dispute Process
 layout: default
 ---
 
+[See the meeting notes](/admin/meeting/20130521.html)
+
 The Executive are not interested in petty disputes among members.  We volunteered to do this because we like doing fun stuff.  Arguments are not fun. Ergo, we will no-longer attempt to deal with member-member disputes “privately” at the executive level.  If member’s can not be mature enough to sort their own stuff out, then we hope they can be mature enough to take advice from someone they respect, and perhaps get it sorted out that way.
 
 That said, the executive is extremely interested in when any member/s break the rules, and we are keen to treat such problems properly and with the full force of the rules.    This means someones membership has been, or will be terminated if rules are broken.    
