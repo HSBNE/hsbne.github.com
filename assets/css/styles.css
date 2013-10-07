@@ -117,3 +117,7 @@ ul.blog li, ul.event li {
 ul.blog img, ul.event img {
     border-radius: 5px;
 }
+
+.list-5 {
+  height: 120px;
+}
