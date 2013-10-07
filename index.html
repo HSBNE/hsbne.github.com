@@ -45,39 +45,99 @@ script: index.js
 			<h3>Get Involved</h3>
 
       <ul class="nav nav-list">
-        <i class="icon-map-marker"></i><a href="/thespace.html"> Visit HSBNE</a><br>
-        <i class="icon-envelope"></i><a href="http://groups.google.com/group/hackerspace_brisbane"> Join the mailing list</a><br>
-        <i class="icon-comment"></i><a href="http://webchat.freenode.net/?channels=hsbne&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTA9dHJ1ZQ75"> Talk on IRC</a> <br>
-        <i class="icon-tasks"></i><a href="http://trello.com/hsbneinc"> Participate on Trello</a><br> 
-        <i class="icon-facebook-sign"></i><a href="http://www.facebook.com/hsbne"> Join us on Facebook</a><br>
-        <i class="icon-twitter-sign"></i><a href="http://www.twitter.com/HackerspaceBNE"> Follow us on Twitter</a><br>
-        <i class="icon-facetime-video"></i><a href="http://porthack.hsbne.org:52169/local/CamClient/"> View the Space Webcam</a> <br>
-        <i class="icon-gift"></i><a href="/donate.html"> Donate to HSBNE</a> <br>
-        <i class="icon-pencil"></i><a href="/media.html"> Write about HSBNE</a> <br>
-        <i class="icon-user"></i><a href="/join.html"> Become a Member</a> <br>
+        <li>
+          <a href="/thespace.html">
+            <i class="icon-fixed-width icon-map-marker"></i>
+            Visit HSBNE
+          </a>
+        </li>
+        <li>
+          <a href="http://groups.google.com/group/hackerspace_brisbane">
+            <i class="icon-fixed-width icon-envelope"></i>
+            Join the mailing list
+          </a>
+        </li>
+        <li>
+          <a href="http://webchat.freenode.net/?channels=hsbne&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTA9dHJ1ZQ75">
+            <i class="icon-fixed-width icon-comment"></i>
+            Talk on IRC
+          </a>
+        </li>
+        <li>
+          <a href="http://trello.com/hsbneinc">
+            <i class="icon-fixed-width icon-tasks"></i>
+            Participate on Trello
+          </a>
+        </li>
+        <li>
+          <a href="http://www.facebook.com/hsbne">
+            <i class="icon-fixed-width icon-facebook-sign"></i>
+            Join us on Facebook
+          </a>
+        </li>
+        <li>
+          <a href="http://www.twitter.com/HackerspaceBNE">
+            <i class="icon-fixed-width icon-twitter-sign"></i>
+            Follow us on Twitter
+          </a>
+        </li>
+        <li>
+          <a href="http://porthack.hsbne.org:52169/local/CamClient/">
+            <i class="icon-fixed-width icon-facetime-video"></i>
+            View the Space Webcam
+          </a>
+        </li>
+        <li>
+          <a href="/donate.html">
+            <i class="icon-fixed-width icon-gift"></i>
+            Donate to HSBNE
+          </a>
+        </li>
+        <li>
+          <a href="/media.html">
+            <i class="icon-fixed-width icon-pencil"></i>
+            Write about HSBNE
+          </a>
+        </li>
+        <li>
+          <a href="/join.html">
+            <i class="icon-fixed-width icon-user"></i>
+            Become a Member
+          </a>
+        </li>
       </ul>
     </div>
+
 		<div class="span4">
 			<h3> Blog</h3>
 
-      <ul class="nav nav-list">
+      <ul class="nav nav-list list-5">
         {% for post in site.categories.blog limit:5 %}
-        <li><a href="{{ post.url }}"><i class="icon-chevron-right"></i><span class="date"> {{ post.date | date_to_string }}</span>
-          &raquo; {{post.title }}</a></li>
+          <li>
+            <a href="{{ post.url }}">
+              <i class="icon-fixed-width icon-chevron-right"></i>
+              {{post.title }}
+            </a>
+          </li>
         {% else %}
-        <strong>No Blog Posts!</strong>
-        <p>Maybe you could write something for us?</p>
+          <strong>No Blog Posts!</strong>
+          <p>Maybe you could write something for us?</p>
         {% endfor %}
       </ul>
 
       <h3>Projects</h3>
 
-      <ul class="nav nav-list">
+      <ul class="nav nav-list list-5">
         {% for post in site.categories.projects limit:5 %}
-        <li><a href="{{ post.url }}"><i class="icon-hand-right"></i> {{ post.title }}</a></li>
+          <li>
+            <a href="{{ post.url }}">
+              <i class="icon-fixed-width icon-chevron-right"></i>
+              {{post.title }}
+            </a>
+          </li>
         {% else %}
-        <strong>No Projects!</strong>
-        <p>Maybe you could write something for us?</p>
+          <strong>No Projects!</strong>
+          <p>Tell us about what you're building?</p>
         {% endfor %}
       </ul>
     </div>
@@ -85,25 +145,31 @@ script: index.js
     <div class="span4">
       <h3>Events</h3>
 
-      <ul class="nav nav-list">
+      <ul class="nav nav-list list-5">
+        <li><a href="/events/tuesday.html"><i class="icon-fixed-width icon-globe"></i>Tuesday Open Nights</a></li>
         {% for post in site.categories.events limit:4 %}
-        <li><a href="{{ post.url }}"><i class="icon-globe"></i><span class="date"> {{ post.date | date_to_string }}</span>
-          &raquo; {{ post.title }}</a></li>
-        {% else %}
-        <strong>No Projects!</strong>
-        <p>Maybe you could write something for us?</p>
+          <li>
+            <a href="{{ post.url }}">
+              <i class="icon-fixed-width icon-chevron-right"></i>
+              {{post.title }}
+            </a>
+          </li>
         {% endfor %}
       </ul>
 
       <h3>Classes</h3>
 
-			<ul class="nav nav-list">
+			<ul class="nav nav-list list-5">
 				{% for post in site.categories.classes limit:5 %}
-				<li><a href="{{ post.url }}"><i class="icon-laptop"></i><span class="date"> {{ post.date | date_to_string }} </span>
-                                &raquo; {{ post.title }}</a></li>
+          <li>
+            <a href="{{ post.url }}">
+              <i class="icon-fixed-width icon-chevron-right"></i>
+              {{post.title }}
+            </a>
+          </li>
 				{% else %}
-				
-				<p>None Planned</p>
+          <strong>Our class calendar is empty!</strong>
+          <p>Perhaps you could <a href="/contact.html">teach one</a>?</p>
 				{% endfor %}
 			</ul>
 		</div>
