@@ -39,6 +39,7 @@ title: Member Information
 	<div class="span6">
     <h3>Meetings</h3>
     <p>Agendas and their corresponding minutes of past HSBNE meetings.</p>
+    <p>We are aware that this list renders in an odd order, its a bug out of our control at this time.</p>
     <dl>
       {% for meeting in site.pages reversed %}
         {% assign urlparts = meeting.url | split:'/' %}
