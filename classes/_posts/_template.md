@@ -1,8 +1,8 @@
 ---
 layout: posts
-categories: [Classes]
+categories: [classes]
 title: My Demo class
-author: YOUR NAME
+author: Your Name
 excerpt: This is a short synopsis of the Class
 ---
 
