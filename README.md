@@ -1,4 +1,4 @@
-# HSNBE.org
+# HSBNE.org
 
 ## Quick Reference
 
@@ -84,33 +84,13 @@ website so you can test your changes before making a pull request.
 #### OSX / Linux
 
 1. System ruby sucks. Install [RVM](http://rvm.io)
-2. Go to your copy of the site, `rvm use 1.9.3 --rvmrc`
-    * 1.9.3 is optional, i think anything higher will also work. RVM defaults to
-      2.0.0 at the moment.
-3. `gem install jekyll`
-4. `jekyll`
-
-   The options that jekyll will execute with are specified in config.yml
+2. If you're not in the hsbne directory, cd to it.
+2. `bundle install`
+4. `bin/serve`
 5. The site is now running on port [4000](http://localhost:4000/), and it's
    watching the directory for changes. Edit things and see how hilariously
    broken everything becomes. Some changes aren't picked up by auto, just
    restart the server.
-
-*Important:* Jekyll recently upgraded to v1, but github pages uses 0.12. v1 is
-an ideal upgrade and the nicest to run on your system, but the commands differ
-slightly. To start the server run `jekyll server --watch`. The directions above
-are for jekyll pre 1.x.
-*EDIT:* Github has just upgraded to Jekyll v1.0.3, it's still advised to use the bundler still though..
-
-If you're experiencing weirdness where your changes don't work once up on
-github, you can run the site in compatibility mode using the included Gemfile.
-
-1. `gem install bundler`
-2. `bundle install`
-3. `bundle exec jekyll`
-
-Keep in mind that 0.12 seems to be a bit buggy and the `--auto` option does
-not seem to work properly for some people.
 
 Once you have changes you like:
 
@@ -120,6 +100,7 @@ Once you have changes you like:
 4. Wait for me to accept it.
 
 If it says that you have no changes, you may have to run git add FILENAME
+
 #### Windows
 
 Install Github for windows [http://windows.github.com/](http://windows.github.com/ "http://windows.github.com/")
