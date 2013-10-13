@@ -2,6 +2,6 @@
 
 This is duckweed from the top of my aquaponics system.
 
-![](/projects/_posts/P8140169.JPG)
+![duckweed](/projects/_posts/P8140169.JPG)
 
 
