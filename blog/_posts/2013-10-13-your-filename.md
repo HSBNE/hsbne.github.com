@@ -9,6 +9,6 @@
 
 6. Click pull request 
 7. Click new pull request 
-
+8. Click Commit.
 
 
