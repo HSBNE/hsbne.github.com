@@ -6,4 +6,8 @@
 
 4. Create the page and hit save and then commit
 
+5. Click pull request 
+6. Click new pull request 
+
+
 
