@@ -121,8 +121,7 @@ script: index.js
         {% for post in site.categories.blog limit:5 %}
           <li>
             <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>
-              {{post.title }}
+              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
             </a>
           </li>
         {% else %}
@@ -137,8 +136,7 @@ script: index.js
         {% for post in site.categories.projects limit:5 %}
           <li>
             <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>
-              {{post.title }}
+              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
             </a>
           </li>
         {% else %}
@@ -156,8 +154,7 @@ script: index.js
         {% for post in site.categories.events limit:4 %}
           <li>
             <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>
-              {{post.title }}
+              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
             </a>
           </li>
         {% endfor %}
@@ -169,8 +166,7 @@ script: index.js
 				{% for post in site.categories.classes limit:5 %}
           <li>
             <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>
-              {{post.title }}
+              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
             </a>
           </li>
 				{% else %}
