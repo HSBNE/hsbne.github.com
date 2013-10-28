@@ -1,7 +1,7 @@
 ---
 layout: posts
 categories: [events]
-title: Womens Afternoon
+title: Women's Afternoon
 author: Timeka Beecham
 excerpt: Hey Brisbane women! If you have ever been interested in checking out the local hackerspace, now is the time!
 ---
