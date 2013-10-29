@@ -30,9 +30,9 @@ script: index.js
 				  </ol>
 				  <!-- Carousel items -->
 				  <div class="carousel-inner">
-					<div class="active item"><img src="http://placehold.it/460x270/FFB629/000&text=One" /></div>
-					<div class="item"><img src="http://placehold.it/460x270/F14400/000&text=Two" /></div>
-					<div class="item"><img src="http://placehold.it/460x270/A0C9D0/000&text=Three" /></div>
+					<div class="active item"><img src="/assets/img/carousel1.png" /></div>
+					<div class="item"><img src="/assets/img/carousel2.png" /></div>
+					<div class="item"><img src="/assets/img/carousel3.png" /></div>
 				  </div>
 				</div>
 			</div>
@@ -43,36 +43,137 @@ script: index.js
 	<div class="row">
 		<div class="span4">
 			<h3>Get Involved</h3>
-			<ul class="nav nav-list">
-				<li> <a href="/thespace.html"><i class="icon-map-marker"></i> Visit HSBNE</a> </li>
-				<li> <a href="http://groups.google.com/group/hackerspace_brisbane"><i class="icon-envelope"></i> Join the mailing list</a> </li>
-				<li> <a href="http://webchat.freenode.net/?channels=hsbne&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTA9dHJ1ZQ75"><i class="icon-comment"></i> Talk on IRC</a> </li>
-				<li> <a href="http://porthack.hsbne.org:52169/local/CamClient/"><i class="icon-facetime-video"></i> View the Space Webcam</a> </li>
-				<li> <a href="/donate.html"><i class="icon-gift"></i> Donate to HSBNE</a> </li>
-				<li> <a href="/media.html"><i class="icon-pencil"></i> Write about HSBNE</a> </li>
-				<li> <a href="/join.html"><i class="icon-user"></i> Become a Member</a> </li>
-			</ul>
-		</div>
+
+      <ul class="nav nav-list">
+        <li>
+          <a href="/thespace.html">
+            <i class="icon-fixed-width icon-map-marker"></i>
+            Visit HSBNE
+          </a>
+        </li>
+        <li>
+          <a href="/join.html">
+            <i class="icon-fixed-width icon-user"></i>
+            Become a Member
+          </a>
+        </li>
+        <li>
+          <a href="/donate.html">
+            <i class="icon-fixed-width icon-gift"></i>
+            Donate to HSBNE
+          </a>
+        </li>
+        <li>
+          <a href="/media.html">
+            <i class="icon-fixed-width icon-pencil"></i>
+            Write about HSBNE
+          </a>
+        </li>
+        <li>
+          <a href="http://groups.google.com/group/hackerspace_brisbane">
+            <i class="icon-fixed-width icon-envelope"></i>
+            Join the mailing list
+            <sup><i class="icon-external-link"></i></sup>
+          </a>
+        </li>
+        <li>
+          <a href="http://webchat.freenode.net/?channels=hsbne&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTA9dHJ1ZQ75">
+            <i class="icon-fixed-width icon-comment"></i>
+            Talk on IRC
+            <sup><i class="icon-external-link"></i></sup>
+          </a>
+        </li>
+        <li>
+          <a href="http://trello.com/hsbneinc">
+            <i class="icon-fixed-width icon-tasks"></i>
+            Participate on Trello
+            <sup><i class="icon-external-link"></i></sup>
+          </a>
+        </li>
+        <li>
+          <a href="http://www.facebook.com/hsbne">
+            <i class="icon-fixed-width icon-facebook-sign"></i>
+            Join us on Facebook
+            <sup><i class="icon-external-link"></i></sup>
+          </a>
+        </li>
+        <li>
+          <a href="http://www.twitter.com/HackerspaceBNE">
+            <i class="icon-fixed-width icon-twitter-sign"></i>
+            Follow us on Twitter
+            <sup><i class="icon-external-link"></i></sup>
+          </a>
+        </li>
+        <li>
+          <a href="http://porthack.hsbne.org:52169/local/CamClient/">
+            <i class="icon-fixed-width icon-facetime-video"></i>
+            View the Space Webcam
+            <sup><i class="icon-external-link"></i></sup>
+          </a>
+        </li>
+      </ul>
+    </div>
+
 		<div class="span4">
-			<h3>Blog</h3>
-			<ul class="nav nav-list">
-				{% for post in site.posts limit:7 %}
-				<li><a href="{{ post.url }}"><i class="icon-chevron-right"></i><span class="date">{{ post.date | date_to_string }}</span> &raquo; {{ post.title }}</a></li>
+			<h3> Blog</h3>
+
+      <ul class="nav nav-list list-5">
+        {% for post in site.categories.blog limit:5 %}
+          <li>
+            <a href="{{ post.url }}">
+              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
+            </a>
+          </li>
+        {% else %}
+          <strong>No Blog Posts!</strong>
+          <p>Maybe you could write something for us?</p>
+        {% endfor %}
+      </ul>
+
+      <h3>Projects</h3>
+
+      <ul class="nav nav-list list-5">
+        {% for post in site.categories.projects limit:5 %}
+          <li>
+            <a href="{{ post.url }}">
+              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
+            </a>
+          </li>
+        {% else %}
+          <strong>No Projects!</strong>
+          <p>Tell us about what you're building?</p>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="span4">
+      <h3>Events</h3>
+
+      <ul class="nav nav-list list-5">
+        <li><a href="/events/tuesday.html"><i class="icon-fixed-width icon-globe"></i>Tuesday Open Nights</a></li>
+        {% for post in site.categories.events limit:4 %}
+          <li>
+            <a href="{{ post.url }}">
+              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+
+      <h3>Classes</h3>
+
+			<ul class="nav nav-list list-5">
+				{% for post in site.categories.classes limit:5 %}
+          <li>
+            <a href="{{ post.url }}">
+              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
+            </a>
+          </li>
+				{% else %}
+          <strong>Our class calendar is empty!</strong>
+          <p>Perhaps you could <a href="/contact.html">teach one</a>?</p>
 				{% endfor %}
 			</ul>
 		</div>
-		<div class="span4">
-			<h3>Events / Classes</h3>
-			<ul class="nav nav-list">
-				<li> <a href="/events/tuesday.html"><i class="icon-calendar"></i><strong>Every Tuesday : Weekly Open Night</strong></a> </li>
-			</ul>
-		</div>
-	</div>
+  </div>
 </div>
-		<!--<p class="span6">
-		HSBNE Inc is Hackerspace Brisbane. We're a membership based community
-		organisation that exists so that anyone can build, create and learn.
-		We're a core part of maker culture, and we're here to help the tinkerer,
-		the inventor, the small business, the mad scientist, but most
-		importantly: the curious.
-		</p>-->

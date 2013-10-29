@@ -13,21 +13,42 @@ title: Member Information
 </div>
 <div class="row">
 	<div class="span6">
-    <h2><a href="/admin/rules.html">Group Rules</a></h2>
+
+    <h3><a href="/admin/rules.html">Group Rules</a></h3>
     <p>The HSBNE bible, as it were. Our group rules are a fairly well modified version of the Model Rules for Incorporation. When in doubt, refer to these. Any member is welcome to raise a change to these at a meeting, however it costs HSBNE a nominal fee to re-file.</p>
-    <h2><a href="/admin/policies.html">Policies</a></h2>
+
+    <h3><a href="/admin/code.html">Code of Conduct</a></h3>
+    <p>The code of conduct is a set of guidelines that outline an acceptable standard of behaviour and conduct of all HSBNE members whether it be online, in a pub or at HSBNE.</p>
+
+    <h3><a href="/admin/policy.html">Policies</a></h3>
     <p>We have a number of non official but enforced guidelines within the group. These are typically the result of a meeting.</p>
-    <h2><a href="/admin/expenses.html">Ongoing Costs</a></h2>
+
+    <h3><a href="/admin/tickets.html">Tickets at HSBNE</a></h3>
+    <p>HSBNE utilises a Ticket system to bring a fleeting sense of control amongst the Chaos. It is recommended you be aware of its usage</p>
+
+    <h3><a href="/admin/dispute.html">Dispute Process</a></h3>
+    <p>Disagreements between members are inevitable. Through experience, HSBNE has provided this dispute resolution policy.</p>
+
+    <h3><a href="/admin/costs.html">Ongoing Costs</a></h3>
     <p>The Executive tries to keep any ongoing cost commitments by HSBNE documented here.</p>
-    <h2><a href="/admin/exechistory.html">Executive History</a></h2>
+
+    <h3><a href="/admin/exechistory.html">Executive History</a></h3>
     <p>The history of members who have dedicated their time to making HSBNE run.</p>
+
   </div>
 	<div class="span6">
-    <h2>Meetings</h2>
+    <h3>Meetings</h3>
     <p>Agendas and their corresponding minutes of past HSBNE meetings.</p>
     <dl>
-      <dt>Date</dt>
-      <dd>Synopsis</dd>
+      {% assign pages = site.pages | sort:'path' %}
+      {% for meeting in pages reversed %}
+        {% assign urlparts = meeting.url | split:'/' %}
+        {% capture route %}{% for part in urlparts limit:2 offset:1 %}{{ part }}{% endfor %}{% endcapture %}
+        {% if route == 'adminmeeting' %}
+          <dt><a href="{{ meeting.url }}">{{ meeting.date }}</a></dt>
+          <dd>{{ meeting.description }}</dd>
+        {% endif %}
+      {% endfor %}
     </dl>
   </div>
 </div>

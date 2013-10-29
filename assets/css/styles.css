@@ -50,9 +50,19 @@
     bottom: 15px;
 }
 
+#footer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 /*
  * DESIGN
  */
+
+#footer {
+  text-align: right;
+  font-size: 0.8em;
+}
 .brand {
     height: 105px;
     display: inline-block;
@@ -107,3 +117,29 @@ ul.blog li, ul.event li {
 ul.blog img, ul.event img {
     border-radius: 5px;
 }
+
+.list-5 {
+  height: 120px;
+}
+
+.bordered {
+  border: 2px solid #999;
+  padding: 0px 15px;
+}
+
+.pair-left {
+  border-radius: 10px 0px 0px 10px;
+  border-right: none;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin-right: 0px;
+}
+
+.pair-right {
+  border-radius: 0px 10px 10px 0px;
+  border-left: none;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin-left: 0px;
+}
+
