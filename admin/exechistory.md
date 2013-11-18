@@ -11,13 +11,19 @@ This is a record of the members who have donated their time to make HSBNE run su
 
 ### May 2013 > May 2014
 
-President (June 2013 > May 2014)
+President (September 2013 > May 2014)
+: Lochlainn Wilson
+
+President (June 2013 > September 2013)
 : Simon Shea
 
 President (May 2013 > June 2013)
 : James Bowler
 
-Vice-President (June 2013 > May 2014)
+Vice-President (September 2013 > May 2014)
+: Hayden Petrick
+
+Vice-President (June 2013 > September 2013)
 : Lochlainn Wilson
 
 Vice-President (May 2013 > June 2013)
@@ -26,7 +32,10 @@ Vice-President (May 2013 > June 2013)
 Secretary
 : Sidney 'Wizard^^' Watters
 
-Treasurer
+Treasurer (September 2013 > May 2014)
+: Aaron Bycroft
+
+Treasurer (May 2013 > September 2013) 
 : Will Gebers
 
 Patron
