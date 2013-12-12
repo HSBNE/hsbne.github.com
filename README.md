@@ -85,9 +85,11 @@ website so you can test your changes before making a pull request.
 
 1. System ruby sucks. Install [RVM](http://rvm.io)
 2. If you're not in the hsbne directory, cd to it.
-2. `bundle install`
-4. `bin/serve`
-5. The site is now running on port [4000](http://localhost:4000/), and it's
+3. `rvm use`
+4. `gem install bundler`
+5. `bundle install`
+6. `bin/serve`
+7. The site is now running on port [4000](http://localhost:4000/), and it's
    watching the directory for changes. Edit things and see how hilariously
    broken everything becomes. Some changes aren't picked up by auto, just
    restart the server.
