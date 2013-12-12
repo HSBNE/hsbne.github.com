@@ -4,3 +4,4 @@ _site
 .bundle/*
 .vagrant/*
 vendor/bundle
+Gemfile.lock
