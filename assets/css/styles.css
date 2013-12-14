@@ -143,3 +143,8 @@ ul.blog img, ul.event img {
   margin-left: 0px;
 }
 
+.alert-safety {
+  color: #ff6400;
+  background-color: #ffc88c;
+  border-color: #ffb47d;
+}

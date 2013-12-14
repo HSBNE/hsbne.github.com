@@ -16,10 +16,10 @@ The ticket system at HSBNE is there for members to utilise to help bring some se
 
   A Parking Ticket is only issuable by the Executive. It is a 2 week grace period warning that the item(s) in question are not stored in an appropriate manner, and if the owner does not rectify, the items may be donated, trashed or similar.</div>
 
-<div class="alert alert-warning"> <h2> Project Invitation (Yellow)</h2>
+<div class="alert alert-info"> <h2> Project Invitation (Blue)</h2>
 
   Project Invitation slips are a way of publicising whom is the contact point to help out with a large project, such as the vending machine and the gigantoprinter. They're a good way for a newbie to get involved and know who to talk to. They also signify projects where input is encouraged. </div>
 
-<div class="alert alert-info"> <h2> Borked or Broken (Blue)</h2>
+<div class="alert alert-safety"> <h2> Borked or Broken (Orange)</h2>
 
   Sometimes equipment breaks, or even sometimes it is partially functional. Borked or Broken tickets indicate if this tool should not be used, or if it can be used but has some unexpected quirks, such as a dead channel on an oscilloscope.</div>
