@@ -16,8 +16,9 @@ script: index.js
 					You provide the idea.
 				</p>
 				<p class="calltoaction">
-					<a href="/join.html" class="btn btn-success btn-large">Become A Member</a>
-					<a href="/about.html" class="btn btn-info btn-large">Learn More</a>
+
+          <a href="/join.html" class="btn btn-success btn-large"> <i class="icon-fixed-width icon-user"></i>Become A Member</a>
+          <a href="/about.html" class="btn btn-info btn-large"><i class="icon-fixed-width icon-info"></i>Learn More</a>
 				</p>
 			</div>
 
@@ -42,97 +43,72 @@ script: index.js
 <div class="container">
 	<div class="row">
 		<div class="span4">
-			<h3>Get Involved</h3>
-
-      <ul class="nav nav-list">
-        <li>
-          <a href="/thespace.html">
-            <i class="icon-fixed-width icon-map-marker"></i>
-            Visit HSBNE
-          </a>
-        </li>
-        <li>
-          <a href="/join.html">
-            <i class="icon-fixed-width icon-user"></i>
-            Become a Member
-          </a>
-        </li>
-        <li>
-          <a href="/donate.html">
-            <i class="icon-fixed-width icon-gift"></i>
-            Donate to HSBNE
-          </a>
-        </li>
-        <li>
-          <a href="/media.html">
-            <i class="icon-fixed-width icon-pencil"></i>
-            Write about HSBNE
-          </a>
-        </li>
-        <li>
-          <a href="http://groups.google.com/group/hackerspace_brisbane">
-            <i class="icon-fixed-width icon-envelope"></i>
-            Join the mailing list
-            <sup><i class="icon-external-link"></i></sup>
-          </a>
-        </li>
-        <li>
-          <a href="http://webchat.freenode.net/?channels=hsbne&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTA9dHJ1ZQ75">
-            <i class="icon-fixed-width icon-comment"></i>
-            Talk on IRC
-            <sup><i class="icon-external-link"></i></sup>
-          </a>
-        </li>
-        <li>
-          <a href="http://trello.com/hsbneinc">
-            <i class="icon-fixed-width icon-tasks"></i>
-            Participate on Trello
-            <sup><i class="icon-external-link"></i></sup>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.facebook.com/hsbne">
-            <i class="icon-fixed-width icon-facebook-sign"></i>
-            Join us on Facebook
-            <sup><i class="icon-external-link"></i></sup>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.twitter.com/HackerspaceBNE">
-            <i class="icon-fixed-width icon-twitter-sign"></i>
-            Follow us on Twitter
-            <sup><i class="icon-external-link"></i></sup>
-          </a>
-        </li>
-        <li>
-          <a href="http://porthack.hsbne.org:52169/local/CamClient/">
-            <i class="icon-fixed-width icon-facetime-video"></i>
-            View the Space Webcam
-            <sup><i class="icon-external-link"></i></sup>
-          </a>
-        </li>
-      </ul>
-    </div>
-
-		<div class="span4">
-			<h3> Blog</h3>
-
-      <ul class="nav nav-list list-5">
-        {% for post in site.categories.blog limit:5 %}
-          <li>
-            <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
-            </a>
-          </li>
-        {% else %}
-          <strong>No Blog Posts!</strong>
-          <p>Maybe you could write something for us?</p>
-        {% endfor %}
-      </ul>
-
-      <h3>Projects</h3>
-
-      <ul class="nav nav-list list-5">
+         <ul class="nav nav-list list-frontpage">
+            <li class="nav-headering">Get Involved!</li>
+            <li>
+              <a href="/thespace.html">
+                <i class="icon-fixed-width icon-map-marker"></i>
+                Visit HSBNE
+              </a>
+            </li>
+            
+           <li>
+              <a href="/donate.html">
+                <i class="icon-fixed-width icon-gift"></i>
+                Donate to HSBNE
+              </a>
+            </li>
+            <li>
+              <a href="/media.html">
+                <i class="icon-fixed-width icon-pencil"></i>
+                Write about HSBNE
+              </a>
+            </li>
+            <li>
+              <a href="http://groups.google.com/group/hackerspace_brisbane">
+                <i class="icon-fixed-width icon-envelope"></i>
+                Join the mailing list
+                <sup><i class="icon-external-link"></i></sup>
+              </a>
+            </li>
+            <li>
+              <a href="http://webchat.freenode.net/?channels=hsbne&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTA9dHJ1ZQ75">
+                <i class="icon-fixed-width icon-comment"></i>
+                Talk on IRC
+                <sup><i class="icon-external-link"></i></sup>
+              </a>
+            </li>
+            <li>
+              <a href="http://trello.com/hsbneinc">
+                <i class="icon-fixed-width icon-tasks"></i>
+                Participate on Trello
+                <sup><i class="icon-external-link"></i></sup>
+              </a>
+            </li>
+            <li>
+              <a href="http://www.facebook.com/hsbne">
+                <i class="icon-fixed-width icon-facebook-sign"></i>
+                Join us on Facebook
+                <sup><i class="icon-external-link"></i></sup>
+              </a>
+            </li>
+            <li>
+              <a href="http://www.twitter.com/HackerspaceBNE">
+                <i class="icon-fixed-width icon-twitter-sign"></i>
+                Follow us on Twitter
+                <sup><i class="icon-external-link"></i></sup>
+              </a>
+            </li>
+            <li>
+              <a href="http://porthack.hsbne.org:52169/local/CamClient/">
+                <i class="icon-fixed-width icon-facetime-video"></i>
+                View the Space Webcam
+                <sup><i class="icon-external-link"></i></sup>
+              </a>
+            </li>
+          </ul>			
+      <ul class="nav nav-list list-frontpage">
+        <li class="nav-headering">Projects</li>
         {% for post in site.categories.projects limit:5 %}
           <li>
             <a href="{{ post.url }}">
@@ -144,36 +120,64 @@ script: index.js
           <p>Tell us about what you're building?</p>
         {% endfor %}
       </ul>
-    </div>
 
-    <div class="span4">
-      <h3>Events</h3>
-
-      <ul class="nav nav-list list-5">
+      <ul class="nav nav-list list-frontpage">
+        <li class="nav-headering">Events</li>
         <li><a href="/events/tuesday.html"><i class="icon-fixed-width icon-globe"></i>Tuesday Open Nights</a></li>
         {% for post in site.categories.events limit:4 %}
-          <li>
-            <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
-            </a>
-          </li>
+        <li>
+           <a href="{{ post.url }}">
+           <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
+           </a>
+        </li>
         {% endfor %}
       </ul>
+      
+      <ul class="nav nav-list list-frontpage">
+        <li class="nav-headering">Classes</li>
+        {% for post in site.categories.classes limit:5 %}
+        <li>
+          <a href="{{ post.url }}">
+          <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
+          </a>
+        </li>
+        {% else %}
+            <small><strong>Our class calendar is empty!</strong>
+            <p>Perhaps you could <a href="/contact.html">teach one</a>?</p></small>
+            {% endfor %}
+      </ul>      
+    </div>
 
-      <h3>Classes</h3>
+		<div class="span8">
+			<h3> Blog</h3>
 
-			<ul class="nav nav-list list-5">
-				{% for post in site.categories.classes limit:5 %}
-          <li>
-            <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
-            </a>
+      <ul class="blog">
+        {% for post in site.categories.blog limit:2 %}
+          <li class="media">
+             <div class="media-body">
+              <h4 class="media-heading">
+                <a class="" href="{{ post.url }}">
+                  {{ post.title }}
+                </a>
+              </h4>
+              <sup>Posted {{ post.date | date_to_string }} by {{ post.author }}</sup>
+              
+                <p class="justifythis">
+                    {{ post.content | split:'<!--break-->' | first }}
+                    {% if post.content contains '<!--break-->' %}
+                      <a href="{{ post.url }}">read more</a>
+                    {% endif %}
+                </p>
+                
+              
+            </div>
           </li>
-				{% else %}
-          <strong>Our class calendar is empty!</strong>
-          <p>Perhaps you could <a href="/contact.html">teach one</a>?</p>
-				{% endfor %}
-			</ul>
-		</div>
+        {% endfor %}
+
+        <li><h4><a href="/blog/">Read more posts on our blog!</a></h4></li>
+      </ul>
+
+      
+    </div>
   </div>
 </div>
