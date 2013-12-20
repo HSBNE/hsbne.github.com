@@ -17,10 +17,7 @@
 /*
  * BOOTSTRAP CUSTOMISATION
  */
-.justifythis {
-  text-align:justify;
-  text-justify:inter-word;
-}
+
 /*
  * TOOLS
  */
@@ -121,13 +118,6 @@ ul.blog img, ul.event img {
     border-radius: 5px;
 }
 
-.list-5 {
-  height: 120px;
-}
-
-.list-frontpage {
-  padding-bottom: 15px;
-}
 .bordered {
   border: 2px solid #999;
   padding: 0px 15px;
@@ -149,16 +139,6 @@ ul.blog img, ul.event img {
   margin-left: 0px;
 }
 
-.nav-headering {
-  margin-top: 9px;
-  display: block;
-  padding: 3px 15px;
-  font-size: 18px;
-  font-weight: bold;
-  line-height: 20px;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-  text-transform: uppercase;
-  margin-right: -15px;
-  margin-left: -15px;
+.postmini {
+  padding-bottom: 2em;
 }
-
