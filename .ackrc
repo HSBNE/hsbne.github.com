@@ -1,0 +1,3 @@
+--ignore-dir=assets/vendor
+--ignore-dir=vendor/
+--ignore-dir=_site/
