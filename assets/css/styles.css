@@ -118,10 +118,6 @@ ul.blog img, ul.event img {
     border-radius: 5px;
 }
 
-.list-5 {
-  height: 120px;
-}
-
 .bordered {
   border: 2px solid #999;
   padding: 0px 15px;
@@ -143,3 +139,6 @@ ul.blog img, ul.event img {
   margin-left: 0px;
 }
 
+.postmini {
+  padding-bottom: 2em;
+}

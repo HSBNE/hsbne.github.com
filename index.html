@@ -16,8 +16,9 @@ script: index.js
 					You provide the idea.
 				</p>
 				<p class="calltoaction">
-					<a href="/join.html" class="btn btn-success btn-large">Become A Member</a>
-					<a href="/about.html" class="btn btn-info btn-large">Learn More</a>
+
+          <a href="/join.html" class="btn btn-success btn-large">Become A Member</a>
+          <a href="/about.html" class="btn btn-info btn-large">Learn More</a>
 				</p>
 			</div>
 
@@ -42,19 +43,12 @@ script: index.js
 <div class="container">
 	<div class="row">
 		<div class="span4">
-			<h3>Get Involved</h3>
-
+      <h3>Get Involved!</h3>
       <ul class="nav nav-list">
         <li>
           <a href="/thespace.html">
             <i class="icon-fixed-width icon-map-marker"></i>
             Visit HSBNE
-          </a>
-        </li>
-        <li>
-          <a href="/join.html">
-            <i class="icon-fixed-width icon-user"></i>
-            Become a Member
           </a>
         </li>
         <li>
@@ -112,27 +106,9 @@ script: index.js
           </a>
         </li>
       </ul>
-    </div>
-
-		<div class="span4">
-			<h3> Blog</h3>
-
-      <ul class="nav nav-list list-5">
-        {% for post in site.categories.blog limit:5 %}
-          <li>
-            <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
-            </a>
-          </li>
-        {% else %}
-          <strong>No Blog Posts!</strong>
-          <p>Maybe you could write something for us?</p>
-        {% endfor %}
-      </ul>
 
       <h3>Projects</h3>
-
-      <ul class="nav nav-list list-5">
+      <ul class="nav nav-list">
         {% for post in site.categories.projects limit:5 %}
           <li>
             <a href="{{ post.url }}">
@@ -144,36 +120,57 @@ script: index.js
           <p>Tell us about what you're building?</p>
         {% endfor %}
       </ul>
-    </div>
 
-    <div class="span4">
       <h3>Events</h3>
-
-      <ul class="nav nav-list list-5">
+      <ul class="nav nav-list">
         <li><a href="/events/tuesday.html"><i class="icon-fixed-width icon-globe"></i>Tuesday Open Nights</a></li>
         {% for post in site.categories.events limit:4 %}
-          <li>
-            <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
-            </a>
-          </li>
+        <li>
+           <a href="{{ post.url }}">
+           <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
+           </a>
+        </li>
         {% endfor %}
       </ul>
 
       <h3>Classes</h3>
+      <ul class="nav nav-list">
+        {% for post in site.categories.classes limit:5 %}
+        <li>
+          <a href="{{ post.url }}">
+          <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
+          </a>
+        </li>
+        {% else %}
+            <small><strong>Our class calendar is empty!</strong>
+            <p>Perhaps you could <a href="/contact.html">teach one</a>?</p></small>
+            {% endfor %}
+      </ul>
+    </div>
 
-			<ul class="nav nav-list list-5">
-				{% for post in site.categories.classes limit:5 %}
-          <li>
-            <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
-            </a>
-          </li>
-				{% else %}
-          <strong>Our class calendar is empty!</strong>
-          <p>Perhaps you could <a href="/contact.html">teach one</a>?</p>
-				{% endfor %}
-			</ul>
-		</div>
+		<div class="span8">
+			<h3>Blog</h3>
+      <div>
+        {% for post in site.categories.blog limit:5 %}
+          <div class="postmini">
+            <h4>
+              <a class="" href="{{ post.url }}">
+                {{ post.title }}
+              </a>
+            </h4>
+            <sup>{{ post.date | date_to_string }} by {{ post.author }}</sup>
+
+            <p>
+                {{ post.content | split:'<!--break-->' | first }}
+                {% if post.content contains '<!--break-->' %}
+                  <a href="{{ post.url }}">read more</a>
+                {% endif %}
+            </p>
+          </div>
+        {% endfor %}
+
+        <h4><a href="/blog/">Read more posts on our blog!</a></h4>
+      </div>
+    </div>
   </div>
 </div>
