@@ -150,27 +150,29 @@ script: index.js
 
 		<div class="span8">
 			<h3>Blog</h3>
-      <div>
-        {% for post in site.categories.blog limit:5 %}
-          <div class="postmini">
-            <h4>
-              <a class="" href="{{ post.url }}">
-                {{ post.title }}
-              </a>
-            </h4>
-            <sup>{{ post.date | date_to_string }} by {{ post.author }}</sup>
-
-            <p>
-                {{ post.content | split:'<!--break-->' | first }}
-                {% if post.content contains '<!--break-->' %}
-                  <a href="{{ post.url }}">read more</a>
-                {% endif %}
-            </p>
-          </div>
-        {% endfor %}
-
-        <h4><a href="/blog/">Read more posts on our blog!</a></h4>
+      <div id="blogfeed">
       </div>
+      <h4><a href="/blog/">Read more posts on our blog!</a></h4>
+      <script type="text/template" id="post_regular">
+        <a href="<%= data['url-with-slug'] %>"><h4><%= data['regular-title'] %></h4></a>
+        <%= data['regular-body'] %>
+        <hr />
+      </script>
+      <script type="text/template" id="post_link">
+        <h4><%= data['link-text'] %></h4>
+        <a href="<%= data['link-url'] %>"><%= data['link-description'] %></a>
+        <hr />
+      </script>
+      <script type="text/template" id="post_video">
+        <a href="<%= data['url-with-slug'] %>"><h4><%= data['video-caption'] %></h4></a>
+        <%= data['video-player-500'] %>
+        <hr />
+      </script>
+      <script type="text/template" id="post_photo">
+        <a href="<%= data['url-with-slug'] %>"><h4><%= data['photo-caption'] %></h4></a>
+        <img src="<%= data['photo-url-500'] %>" />
+        <hr />
+      </script>
     </div>
   </div>
 </div>
