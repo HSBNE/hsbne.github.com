@@ -17,11 +17,11 @@ $(document).ready(function () {
   });
 
   var url = 'http://hsbne.tumblr.com';
-  var limit = 2;
+  var limit = 4;
 
   $.getJSON(url+'/api/read/json?callback=?',
     {
-      limit: limit
+      num: limit
     },
     function(data) {
       $('#blogfeed').empty();
