@@ -114,20 +114,6 @@ script: index.js
         </li>
       </ul>
 
-      <h3>Projects</h3>
-      <ul class="nav nav-list">
-        {% for post in site.categories.projects limit:5 %}
-          <li>
-            <a href="{{ post.url }}">
-              <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
-            </a>
-          </li>
-        {% else %}
-          <strong>No Projects!</strong>
-          <p>Tell us about what you're building?</p>
-        {% endfor %}
-      </ul>
-
       <h3>Events</h3>
       <ul class="nav nav-list">
         <li><a href="/events/tuesday.html"><i class="icon-fixed-width icon-globe"></i>Tuesday Open Nights</a></li>
