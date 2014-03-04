@@ -3,8 +3,8 @@ layout: default
 description: This is a template for any given meeting.
 date: YYYY-MM-DD
 time:
-  open: 00:00
-  close: 00:00
+  open: "00:00"
+  close: "00:00"
 author: Secretary
 signed: President
 tally: 10
