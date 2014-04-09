@@ -5,3 +5,4 @@ title_long: "Hackerspace Brisbane"
 title_legal: "HSBNE Inc"
 hostname: "hsbne.org"
 exclude: ['bin']
+markdown: kramdown
