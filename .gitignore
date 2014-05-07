@@ -5,3 +5,4 @@ _site
 .vagrant/*
 vendor/bundle
 Gemfile.lock
+node_modules
