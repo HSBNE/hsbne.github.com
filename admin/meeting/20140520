@@ -1,0 +1,94 @@
+---
+layout: default
+description: This is a template for any given meeting.
+date: YYYY-MM-DD
+time:
+  open: "20:08"
+  close: "20:15"
+author: Secretary- Timeka Beecham
+signed: President- Victor Vicario
+---
+
+## Agenda
+
+Date: Tuesday 20th May
+Time: 8pm
+Attendees: All members
+
+Purchase Votes
+* $65 for CO2 extinguisher for laser cutter, for a total of $250.
+* Up to $15 for proper coolant for the laser cutter
+* Up to $25 for weed killer
+* Up to $50 for a big broom
+
+Announcements
+* Josh on New Dispute Resolution policy
+* Luke on New Guide to Claiming purchases
+* Timeka on New Class Application Guide
+* Mike Ando about car demonstration
+
+
+---
+
+## Meeting
+
+#### {{ page.tally }} Members Present
+
+* Victor Vicario
+* Timeka Beecham
+* Toby Latcham
+* Mike Ando
+* Aaron Bycroft
+* Brendan Halliday
+* Daniel Tullemans
+* Joshua Hogendorn
+* Sven Hanzka
+* Alan Blake
+* Cameron Stewart
+* James Churchill
+* Luke Hovington
+* Jimmy Bowler
+* Timothy Reichle
+* Hamish McGregor
+* James Beecham
+
+#### Notes
+
+Opened
+:{{ page.time.open }}
+
+Victor Opens meeting
+
+Vote to approve $30 for wide broom: 
+For: 14 
+Against: 0
+
+Vote to approve $25 for weed killer: 
+For: 14 
+Against: 0
+
+Vote to approve $14 for laser cutter coolant 
+For: 15 
+Against: 0 
+
+Victor Announces that due to the meeting agenda being late and not providing due time for a vote, he will cover the $65 for the fire extinguisher with president's discretionary fund.
+
+Victor lets the membership know that changes have occurred to the dispute resolution policy.
+
+Luke updates everyone on how to submit receipts for reimbursement.
+
+Timeka informs people about the Class Application Guide on the HSBNE Wiki.
+
+Mike announces that he will be doing an electric car demonstration next week. 
+
+
+Closed
+:{{ page.time.close }}
+
+#### Records
+
+Minuted
+:{{ page.author }}
+
+Signed
+:{{ page.signed }}
