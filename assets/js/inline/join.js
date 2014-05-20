@@ -51,6 +51,7 @@ $(document).ready(function () {
         url: "http://porthack.hsbne.org:81/seltzer/make_new_user_return_unique_username.php",
         type: "post",
         crossDomain: true,
+        timeout: 2000,
         data: serializedData
     });
 
