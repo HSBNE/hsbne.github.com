@@ -53,20 +53,21 @@ $(document).ready(function () {
         data: serializedData
     });
 
- // callback handler that will be called on success
+// callback handler that will be called on success
     request.done(function (response, textStatus, jqXHR){
         // log a message to the console
-        console.log("Hooray, it worked!");
+        alert("Hooray, it worked!");
     });
 
     // callback handler that will be called on failure
     request.fail(function (jqXHR, textStatus, errorThrown){
         // log the error to the console
-        console.error(
+        alert(
             "The following error occured: "+
             textStatus, errorThrown
         );
     });
+
 
     // callback handler that will be called regardless
     // if the request failed or succeeded
