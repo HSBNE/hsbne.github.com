@@ -31,6 +31,21 @@ $(document).ready(function () {
 
   $form.submit(function (e) {
     formsubmitted = true;
+    
+    var jqxhr = $.post( "http://porthack.hsbne.org:81/seltzer/make_new_user_return_unique_username.php", function() {
+alert( "success" );
+})
+.done(function() {
+alert( "second success" );
+})
+.fail(function() {
+alert( "error" );
+})
+.always(function() {
+alert( "finished" );
+});
+    
+    
   });
 });
 
