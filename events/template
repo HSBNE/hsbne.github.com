@@ -1,0 +1,65 @@
+---
+layout: default
+description: description
+title: Your Event
+---
+
+<div class="row">
+  <div class="span12">
+  
+    <img class="media-object" src="http://placehold.it/350x250">
+
+    <p class="lead">
+      Your full Blurb here: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget erat volutpat dui gravida ullamcorper 
+sed eget ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
+Sed bibendum semper justo sit amet fermentum. Nulla feugiat, sapien vitae molestie laoreet, velit velit gravida elit, 
+in sollicitudin lectus lectus quis odio. Mauris vulputate lacus neque, nec malesuada est venenatis vel. 
+
+Maecenas dolor diam, auctor nec suscipit ut, commodo condimentum urna. Pellentesque quis felis 
+id quam pharetra tincidunt vel sed odio. Mauris quis justo volutpat lacus sodales mattis. 
+Vestibulum auctor velit rhoncus leo dapibus pellentesque nec ac libero. Aenean varius ante quis 
+nisl auctor, nec egestas nulla imperdiet. Curabitur convallis magna nulla, in tempor ante vestibulum eget. 
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse 
+faucibus fringilla pretium. Maecenas tincidunt, dui ac venenatis euismod, felis massa pellentesque libero, 
+nec lobortis mi nunc tincidunt nisl. Aenean augue ipsum, interdum at bibendum nec, pellentesque ut urna. 
+Donec et fermentum orci, vitae dignissim sapien.
+
+Praesent ac purus iaculis, luctus sem pharetra, lacinia nibh. Nullam ultricies neque 
+fermentum leo tempus pretium. Morbi id leo quis eros pretium scelerisque quis id mi. 
+Ut sed purus pulvinar, mattis mauris ac, consequat enim. Nulla aliquet elementum libero 
+lobortis elementum. Aliquam condimentum commodo sagittis. Vestibulum ante ipsum primis in 
+faucibus orci luctus et ultrices posuere cubilia Curae; Mauris egestas bibendum arcu, 
+id dapibus lectus auctor et. Curabitur bibendum metus lacus, ut lacinia risus adipiscing ac. 
+Sed eu sem neque. Sed pellentesque vehicula tortor, sed auctor nisl ultricies eu. 
+Pellentesque hendrerit sem ac sapien rhoncus, placerat suscipit lectus blandit. 
+Quisque pharetra nunc dolor, et euismod nisl hendrerit vitae. 
+Fusce dui quam, porta porttitor velit eget, consequat venenatis massa. 
+Quisque vitae metus sed ante auctor lobortis. 
+      </p>
+  </div>
+</div>
+
+      {% for post in site.categories.events %}
+        <li class="media">
+          <a class="pull-left" href="{{ post.url }}">
+            <img class="media-object" src="http://placehold.it/64x64/A0C910/000&text=Event">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">
+              <a class="" href="{{ post.url }}">
+                {{ post.title }}
+              </a>
+            </h4>
+            <sup>{{ post.date | date_to_string }}</sup>
+            <blockquote class="media">
+              <p>
+                {{ post.excerpt }}
+              </p>
+              <small>{{ post.author }}</small>
+            </blockquote>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
