@@ -1,27 +1,49 @@
 ---
-title: Dispute Process
+title: Dispute Resolution
 layout: default
 ---
 
-[See the meeting notes](/admin/meeting/20130521.html)
+Bad behaviour at HSBNE is unacceptable. By being a part of our community you
+give up certain freedoms in order for our community to run smoothly.
 
-The Executive are not interested in petty disputes among members.  We volunteered to do this because we like doing fun stuff.  Arguments are not fun. Ergo, we will no-longer attempt to deal with member-member disputes “privately” at the executive level.  If member’s can not be mature enough to sort their own stuff out, then we hope they can be mature enough to take advice from someone they respect, and perhaps get it sorted out that way.
+When a member does something against the ethos or community of HSBNE, they will
+be issued an *infraction*.
 
-That said, the executive is extremely interested in when any member/s break the rules, and we are keen to treat such problems properly and with the full force of the rules.    This means someones membership has been, or will be terminated if rules are broken.    
+An *infraction* is a publicly posted notification of bad behaviour. If a member
+accumulates a significant amount of *infractions* over a period of time, *infractions*
+will be used as the justification and documentation for them being asked to leave the HSBNE
+community.
 
-In case this is at all unclear, the executive have the power to cancel someones membership if they are believed to be breaking the rules. 
+Posting an *infraction* is:
 
-The problem is that in many cases it’s not obvious or 100% certain that someone has blatantly disobeyed a rule,  as it may be a “he says, she says” scenario, or simply someone new who doesn’t understand the community boundaries we work under, or other such “borderline” behaviours.  
+* At the discretion of the executive.
+* Requires an executive majority vote.
+* Includes a clear documentation of the unacceptable behaviour.
+* Is always to the official communications medium of the group as decided by the executive.
 
-It has been decided that  the most important rule in this instance is “Be excellent to each other”.  
-If *anyone* feels they have been bullied, abused, neglected, mistreated, disrespected (  or any other nasty word )  then it’s quite likely that someone else was not “being excellent”.
+The general membership may request the executive issue an *infraction* by following these points.
 
-These will be refired to as Red Card behaviours,  as used in many sporting circles everywhere.     
+* Two members, one to raise and one to second the *infraction*.
+* Reasonable documentation (proof) of the action.
+* Both members agree to have their names publicised against the *infraction* as the requesters.
 
-As a first action, the executive will publicly Issue a “Red Card”  to the individual, requiring them to immediately cease all current activities, and if onsite require them them to leave the HSBNE premises for the rest of the day or 3hrs whichever is the longest. This is the same as a “cooling off” period in sports, and gives the member time to contemplate their actions, and try not to do it again.  This also gives the executive time to decide if further action needs to be taken ( eg terminate membership, because none of these red things are “being excellent” are they? ) .
+Issuing *infractions* should not be avoided, but they are not for minor issues.
+They are serious documentation of unacceptable behaviour.
 
-To deal with the less egregious issues, or less certain situations  where doubt exists, the executive have decided that they will issue “Yellow Card” warnings as an official caution.    
+The executive commits to pursuing alternative forms of rectification where appropriate,
+such as private conversations with member or utilising online communication moderation tools, 
+before moving to issue an *infraction*.
 
-If people are seen having arguments, raised voices, interfering disagreements, making others uncomfortable or the executive hear indirect reports of unverified/possible Red Card behaviour,  these are all Yellow Card behaviours. They will be issued in the same way as Red Card/s, but it takes two of them in a single day to be “sent home”.  
+#### Examples of behaviour against the ethos and community of HSBNE
 
-Both these Card types are “*virtual*”  ( there’s not actual card or paper ) but instead will be **PUBLICALLY ANNOUNCED TO ALL PRESENT, AND PUBLICALLY POSTED ON THE EMAIL LIST**, and additionally at the discretion of the executive it may include a brief one-line description of the ( alleged ) behaviour that led to the Card being issued.  
+* A member creates a large mess and does not clean up after themselves.
+* A member harasses, attacks or abuses another member.
+* A member creates an unsafe environment for other members via their actions.
+* A member contravenes our behavioural guidelines, such as the Safe Space Policy.
+
+This list is non-exhaustive, and is for examples only.
+
+#### Examples of behaviour that should be solved without an *infraction*
+
+* Disagreements or arguments online.
+* Minor behavioural quirks that can be effectively solved with a private chat.
