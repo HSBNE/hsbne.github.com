@@ -1,4 +1,8 @@
-<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+<title>
+  {% if page.title %}{{ page.title }} - {% endif %}
+  {% if page.layout == "meeting" and page.date != nil %}Meeting {{ page.date }} - {% endif %}
+  {{ site.title }}
+</title>
 {% if page.description %}
 <meta name="description" content="{{ page.description }}" />
 {% endif %}
