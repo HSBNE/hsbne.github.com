@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include script_head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div id="body" class="container">
+      <div class="row">
+        <div class="span12">
+          {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+        </div>
+      </div>
+      <div class="row">
+        <div class="span7">
+        {{ content }}
+        </div>
+        <div class="span4 offset1">
+
+          <h5>Date</h5>
+          <p> {{ page.date }} </p>
+
+          <h5>Synopsis</h5>
+          <p> {{ page.description }} </p>
+
+          <h5>Opened</h5>
+          <p> {{ page.time.open }} </p>
+
+          <h5>Closed</h5>
+          <p> {{ page.time.close }} </p>
+
+          {% if page.members | size > 0 %}
+          <h5>Members Present ({{ page.members | size }})</h5>
+          <ul>
+            {% for member in page.members %}
+              <li>{{ member }}</li>
+            {% endfor %}
+          </ul>
+          {% else %}
+          <h5 class="text-error">No member attendance taken</h5>
+          {% endif %}
+
+          {% if page.author | size > 0 %}
+          <h5>Notes authored by</h5>
+          <p> {{ page.author }} </p>
+          {% else %}
+          <h5 class="text-error">No Author</h5>
+          {% endif %}
+
+          {% if page.signed | size > 0 %}
+          <h5>Notes approved by</h5>
+          <p> {{ page.signed }} </p>
+          {% else %}
+          <h5 class="text-error">No Approval</h5>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    <div id="footer" class="container">
+      <a href="http://github.com/HSBNE/hsbne.github.com/edit/master/{{ page.path }}">Edit on Github</a>
+    </div>
+    {% include script_inline.html %}
+  </body>
+</html>
+

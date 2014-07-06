@@ -1,43 +1,29 @@
 ---
-layout: default
-description: This is a template for any given meeting.
+layout: meeting
+description: THIS IS A MEETING TEMPLATE. PROVIDE A RELEVANT DESCRIPTION OR SYNOPSIS OF THE MEETING
 date: YYYY-MM-DD
 time:
-  open: "00:00"
-  close: "00:00"
-author: Secretary
-signed: President
-tally: 10
+  open: "24:00"
+  close: "24:00"
+members:
+  - A
+  - MANDATORY
+  - LIST
+  - OF
+  - MEMBERS
+  - FULL
+  - LEGAL
+  - NAMES
+author: SECRETARY OR APPROVED NOTE TAKER
+signed: PRESIDENT OR CHAIRPERSON OF THE MEETING
 ---
 
 ## Agenda
 
-MeetingAgenda
+No Agenda Available
 
 ---
 
-## Meeting
+## Meeting Notes
 
-#### {{ page.tally }} Members Present
-
-* Member Legal Name
-* Member Legal Name
-* Member Legal Name
-
-#### Notes
-
-Opened
-:{{ page.time.open }}
-
-MeetingNotes
-
-Closed
-:{{ page.time.close }}
-
-#### Records
-
-Minuted
-:{{ page.author }}
-
-Signed
-:{{ page.signed }}
+No Meeting Notes Taken
