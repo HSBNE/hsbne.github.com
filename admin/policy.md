@@ -69,4 +69,4 @@ Renting was allowed by [the meeting on 30th August, 2010](/admin/meeting/2011083
 As such, it is HSBNE policy to disallow lease agreements for portions of the PortHack Campus.
 
 
-[^1]: [Section 42 of the Rules](/admin/rules.html#bylaws)
+[^1]: [Section 43 of the Rules](/admin/rules.html#bylaws)
