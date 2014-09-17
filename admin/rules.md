@@ -366,8 +366,7 @@ layout: default
         2.  if the association has public liability insurance - the amount of the
             insurance.
 
-21. #### Resignation, removal or vacation of office of management committee
-    member
+21. #### Resignation, removal or vacation of office of management committee member
 
     1.  A member of the management committee may resign from the committee by
         giving written notice of resignation to the secretary.
@@ -596,8 +595,7 @@ layout: default
         annual meeting shall occur at the standard meeting time and the standard
         meeting place on the third Tuesday of May each year.
 
-33. Business to be conducted at annual general meeting of level 1 incorporated
-    associations and particular level 2 and 3 incorporated associations
+33. #### Business to be conducted at annual general meeting of level 1 incorporated associations and particular level 2 and 3 incorporated associations
 
     1.  This rule applies only if the association is -
 
@@ -622,8 +620,7 @@ layout: default
             auditor, an accountant or an approved person for the present financial
             year.
 
-34. #### Business to be conducted at annual general meeting of other level 2
-    incorporated associations
+34. #### Business to be conducted at annual general meeting of other level 2 incorporated associations
 
     1.  This rule applies only if the association is a level 2 incorporated
         association to which section 59A of the Act applies.
@@ -638,8 +635,7 @@ layout: default
         4.  appointing an auditor, an accountant or an approved person for the
             present financial year.
 
-35. #### Business to be conducted at annual general meeting of other level 3
-    incorporated associations
+35. #### Business to be conducted at annual general meeting of other level 3 incorporated associations
 
     1.  This rule applies only if the association is a level 3 incorporated
         association to which section 59B of the Act applies.
