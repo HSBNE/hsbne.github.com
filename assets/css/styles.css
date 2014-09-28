@@ -45,6 +45,11 @@
     position: relative;
 }
 
+.kickstarter {
+position: absolute;
+bottom: 60px;
+}
+
 .calltoaction {
     position: absolute;
     bottom: 15px;
