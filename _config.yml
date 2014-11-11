@@ -6,3 +6,5 @@ title_legal: "HSBNE Inc"
 hostname: "hsbne.org"
 exclude: ['bin']
 markdown: kramdown
+gems:
+  - jekyll-sitemap
