@@ -1,5 +1,6 @@
 ---
 layout: meeting
+sitemap: false
 description: THIS IS A MEETING TEMPLATE. PROVIDE A RELEVANT DESCRIPTION OR SYNOPSIS OF THE MEETING
 date: YYYY-MM-DD
 time:
