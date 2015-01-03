@@ -23,7 +23,7 @@ This marker is currently defined as *$10,000*
 
 ### As a cause member
 
-You may allocate up to *25%* in totall, of your monthly dues, towards up to *Three* causes,
+You may allocate up to *25%* in total, of your monthly dues, towards up to *Three* causes,
 which gains you membership in those causes and voting rights. You can change
 these allocations once per month by contacting the Treasurer and notifying them
 of your preferences.
@@ -64,7 +64,7 @@ being allocated for that month and shutdown of the area. The current rules for c
 The area defined for upkeep gets cleaned and approved by a member of the exec as
 acceptable. Photos are taken as a reference. Each month a walkthrough will be
 performed to grade the area against the reference photos. No walkthrough report
-means no funds allocated for that month and shutdown of the area.
+means no funds allocated for that month and shutdown of the area until grievance is resolved.
 
 #### Cause Rules
 
