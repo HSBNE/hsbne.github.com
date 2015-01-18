@@ -3,8 +3,6 @@ title: Causes
 layout: default
 ---
 
-## Cause Policy
-
 Causes are micro groups within HSBNE that are empowered to direct funds towards
 their own interests without having to convince merit to the group as a whole. In
 exchange for autonomy, Causes take some responsibility for the upkeep and
