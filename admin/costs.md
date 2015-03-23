@@ -10,7 +10,9 @@ HSBNE, as a functioning entity has a number of ongoing cost commitments. We try 
 ---
 
 ## General
+
 ##### Notes
+
  * All items under general should be budgeted for half amount allocated
 
 #### Presidential Discretionary
