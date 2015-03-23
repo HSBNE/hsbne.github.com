@@ -10,6 +10,8 @@ HSBNE, as a functioning entity has a number of ongoing cost commitments. We try 
 ---
 
 ## General
+##### Notes
+ * All items under general should be budgeted for half amount allocated
 
 #### Presidential Discretionary
 
@@ -39,27 +41,58 @@ Meeting
 Anniversary Date
 :31/10/2012
 
----
-
-## Services
-
-#### Veolia Bins
+#### Clening Supplies
 
 Cost
-:$35 / Month
+:$720 / Year
 
 Meeting
-:31/01/2013
+:11/02/2014
 
 Anniversary Date
-:31/01/2013
+:11/02/2014
+
+#### Maintenaince
+
+Cost
+:$1080 / Year
+
+Meeting
+:11/02/2014
+
+Anniversary Date
+:11/02/2014
 
 ##### Notes
 
+* mowing
+* fuel
+* blades
+
+#### Waste disposal
+
+Cost
+:$840 / Year
+
+Meeting
+:31/01/2013, 11/02/2014
+
+Anniversary Date
+:11/02/2014
+
+##### Notes
+
+* general bin removal/s
+* skips
+* tip runs
 * We hire a 1100L General Waste Bin, and a 240L Recycle Bin.
 * This service has an administration fee of $2.50 per bin.
 * The big bin costs $20 per pickup, or $40 if overweight.
 * The recycling bin costs $5.50 per pickup.
+
+---
+
+## Services
 
 #### Post Office Box
 
