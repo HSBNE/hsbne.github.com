@@ -144,6 +144,11 @@ script: index.js
         <%= data['regular-body'] %>
         <hr />
       </script>
+      <script type="text/template" id="post_quote">
+        <a href="<%= data['url-with-slug'] %>"><h4><%= data['quote-text'] %></h4></a>
+        <strong> - <%= data['quote-source'] %></strong>
+        <hr />
+      </script>
       <script type="text/template" id="post_link">
         <h4><%= data['link-text'] %></h4>
         <a href="<%= data['link-url'] %>"><%= data['link-description'] %></a>
