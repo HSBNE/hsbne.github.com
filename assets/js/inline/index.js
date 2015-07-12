@@ -5,7 +5,7 @@ $(document).ready(function () {
   auto_scroll: false,
     daterange_formatter: function (start_date, end_date, allday_p) {
       function pad(n) { return n < 10 ? "0"+n : n; }
-      return pad(start_date.getDate()) + "/" + moment(start_date.getMonth()+1, "MMMM");
+      return pad(start_date.getDate()) + "/" + pad(start_date.getMonth()+1);
     }
   });
   });
