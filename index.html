@@ -124,15 +124,20 @@ script: index.js
 
       <h3>Events</h3>
       <ul class="nav nav-list">
-        <li><a href="/events/tuesday.html"><i class="icon-fixed-width icon-globe"></i>Tuesday Open Nights</a></li>
-        {% for post in site.categories.events limit:4 %}
-        <li>
-           <a href="{{ post.url }}">
-           <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
-           </a>
+<div id="gcf-events" style="width: 100%; height: 180px;">
+  <div class="gcf-item-container-block">
+    <div class="gcf-item-block">
+
+        <li class="gcf-item-title-block">
+          <span class="gcf-item-daterange"></span>
+          <a class="gcf-item-title">Item Title of each event</a>
         </li>
-        {% endfor %}
-      </ul>
+
+    </div>
+  </div>
+</div>
+
+</ul>
 
       <h3>Classes</h3>
       <ul class="nav nav-list">
