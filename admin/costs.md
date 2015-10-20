@@ -15,13 +15,13 @@ HSBNE, as a functioning entity has a number of ongoing cost commitments. We try 
 
  * All items under general should be budgeted for half amount allocated
 
-#### Presidential Discretionary
+#### Executive Discretionary
 
 Cost
-:$120 / Month
+:$400 / Month
 
 Meeting
-:?
+:20/10/2015
 
 Anniversary Date
 :?
