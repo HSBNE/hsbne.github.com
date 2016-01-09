@@ -17,7 +17,7 @@ $(document).ready(function () {
 
   var PostView = Backbone.View.extend({
       tagName: 'div',
-      className: 'row span8',
+      className: 'row col-md-8',
       render: function () {
           this.$el.html(
               _.template(
