@@ -7,13 +7,9 @@ script: index.js
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<p class="lead">
-					Build something amazing. Our community is here to help
-					make ideas a reality. HSBNE provides the space, the tools
-					and the resources;
-				</p>
-				<p class="lead">
-					You provide the idea.
+				<p class="lead">HSBNE is a community workshop run by an enthusiastic group of like-minded members, located in Brisbane. 
+
+				<p class="lead">Let's build something amazing.</p>
 				</p>
 				<p class="calltoaction">
 
@@ -55,6 +51,7 @@ script: index.js
 		</div>
 	</div>
 </div>
+
 <div class="container">
 	<div class="row">
 		<div class="col-md-4">
@@ -68,33 +65,33 @@ script: index.js
         </li>
         <li>
           <a href="/donate.html">
-            <i class="icon-fixed-width glyphicon glyphicon-gift"></i>
+            <i class="glyphicon glyphicon-gift"></i>
             Donate to HSBNE
           </a>
         </li>
         <li>
           <a href="/media.html">
-            <i class="icon-fixed-width glyphicon glyphicon-pencil"></i>
+            <i class="glyphicon glyphicon-pencil"></i>
             Write about HSBNE
           </a>
         </li>
         <li>
           <a href="http://forum.hsbne.org/">
-            <i class="icon-fixed-width glyphicon glyphicon-comments"></i>
+            <i class="glyphicon glyphicon-comment"></i>
             Discuss on our forums
             <sup><i class="icon-external-link"></i></sup>
           </a>
         </li>
         <li>
           <a href="http://webchat.freenode.net/?channels=hsbne&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTA9dHJ1ZQ75">
-            <i class="icon-fixed-width glyphicon glyphicon-comment"></i>
+            <i class="glyphicon glyphicon-comment"></i>
             Talk on IRC
             <sup><i class="icon-external-link"></i></sup>
           </a>
         </li>
         <li>
           <a href="http://trello.com/hsbneinc">
-            <i class="icon-fixed-width glyphicon glyphicon-tasks"></i>
+            <i class="glyphicon glyphicon-tasks"></i>
             Participate on Trello
             <sup><i class="icon-external-link"></i></sup>
           </a>
@@ -124,20 +121,19 @@ script: index.js
 
       <h3>Events</h3>
       <ul class="nav nav-list">
-<div id="gcf-events" style="width: 100%; height: 180px;">
-  <div class="gcf-item-container-block">
-    <div class="gcf-item-block">
+        <div id="gcf-events" style="width: 100%; height: 180px;">
+        <div class="gcf-item-container-block">
+        <div class="gcf-item-block">
 
         <li class="gcf-item-title-block">
           <span class="gcf-item-daterange"></span>
           <a class="gcf-item-title">Item Title of each event</a>
         </li>
 
+        </div>
     </div>
   </div>
-</div>
-
-</ul>
+  </ul>
 
       <h3>Classes</h3>
       <ul class="nav nav-list">
@@ -158,7 +154,7 @@ script: index.js
 			<h3>Blog</h3>
       <div id="blogfeed">
       </div>
-      <h4><a href="http://blog.hsbne.org/">Read more posts on our blog!</a></h4>
+      
       <script type="text/template" id="post_regular">
         <a href="<%= data['url-with-slug'] %>"><h4><%= data['regular-title'] %></h4></a>
         <%= data['regular-body'] %>
@@ -175,15 +171,19 @@ script: index.js
         <hr />
       </script>
       <script type="text/template" id="post_video">
-        <a href="<%= data['url-with-slug'] %>"><h4><%= data['video-caption'] %></h4></a>
+        <a href="<%= data['url-with-slug'] %>"><h4><%= data['regular-title'] %></h4></a>
         <%= data['video-player-500'] %>
+        <p class="text-nowrap"><%= data['video-caption'] %></p>
+
         <hr />
       </script>
       <script type="text/template" id="post_photo">
-        <a href="<%= data['url-with-slug'] %>"><h4><%= data['photo-caption'] %></h4></a>
-        <img src="<%= data['photo-url-500'] %>" />
+        <a href="<%= data['url-with-slug'] %>">
+        <img src="<%= data['photo-url-500'] %>" /></a>
+        <p class="text-justify"><%= data['photo-caption'] %></p>
         <hr />
       </script>
-    </div>
+<!--       <h4><a href="http://blog.hsbne.org/">Read more posts on our blog!</a></h4>
+ -->    </div>
   </div>
 </div>
