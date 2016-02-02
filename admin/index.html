@@ -5,14 +5,14 @@ title: Member Information
 ---
 
 <div class="row">
-  <div class="span12">
+  <div class="col-md-12">
     <p class="lead">
       As a member run club, here you can find all the boring but necessary documentation. Meeting agendas, notes, mandates, policy are all here.
     </p>
   </div>
 </div>
 <div class="row">
-	<div class="span6">
+	<div class="col-md-6">
 
     <h3><a href="/admin/rules.html">Group Rules</a></h3>
     <p>The HSBNE bible, as it were. Our group rules are a fairly well modified version of the Model Rules for Incorporation. When in doubt, refer to these. Any member is welcome to raise a change to these at a meeting, however it costs HSBNE a nominal fee to re-file.</p>
@@ -46,7 +46,7 @@ title: Member Information
     <p>The history of members who have dedicated their time to making HSBNE run.</p>
 
   </div>
-	<div class="span6">
+	<div class="col-md-6">
     <h3>Meetings</h3>
     <p>Agendas and their corresponding minutes of past HSBNE meetings.</p>
     <dl>
@@ -60,22 +60,22 @@ title: Member Information
               <i class="icon-info-sign text-error" title="These notes need a short description of what was discussed."></i>
             {% endif %}
             {% if meeting.layout == "meeting" and meeting.date == nil %}
-              <i class="icon-calendar text-error" title="What date was this meeting? We just don't know, do you?"></i>
+              <i class="glyphicon glyphicon-calendar text-error" title="What date was this meeting? We just don't know, do you?"></i>
             {% endif %}
             {% if meeting.layout == "meeting" and meeting.time.open == "00:00" %}
-              <i class="icon-time text-error" title="These notes don't say when the meeting started."></i>
+              <i class="glyphicon glyphicon-time text-error" title="These notes don't say when the meeting started."></i>
             {% endif %}
             {% if meeting.layout == "meeting" and meeting.time.close == "00:00" %}
-              <i class="icon-time icon-rotate-180 text-error" title="Apparently this meeting never finished, oh dear..."></i>
+              <i class="glyphicon glyphicon-time icon-rotate-180 text-error" title="Apparently this meeting never finished, oh dear..."></i>
             {% endif %}
             {% if meeting.layout == "meeting" and meeting.members.size == nil %}
-              <i class="icon-group text-error" title="There is no member list for these notes! The rules state we must keep accurate attendance of real names in our notes."></i>
+              <i class="glyphicon glyphicon-group text-error" title="There is no member list for these notes! The rules state we must keep accurate attendance of real names in our notes."></i>
             {% endif %}
             {% if meeting.layout == "meeting" and meeting.author == nil %}
-              <i class="icon-pencil text-error" title="These notes have no author! spooky..."></i>
+              <i class="glyphicon glyphicon-pencil text-error" title="These notes have no author! spooky..."></i>
             {% endif %}
             {% if meeting.layout == "meeting" and meeting.signed == nil %}
-              <i class="icon-ok text-error" title="These notes are not signed! Notes are signed by the chairperson to say they're accepted and accurate"></i>
+              <i class="glyphicon glyphicon-ok text-error" title="These notes are not signed! Notes are signed by the chairperson to say they're accepted and accurate"></i>
             {% endif %}
 
             {% if meeting.layout == "default" %}
