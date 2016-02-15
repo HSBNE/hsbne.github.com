@@ -47,7 +47,10 @@
 
 .calltoaction {
     position: absolute;
-    bottom: 15px;
+    bottom: 0px;
+    display : table-row;
+    vertical-align : bottom;
+    height : 1px;
 }
 
 #footer {
