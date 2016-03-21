@@ -1,0 +1,52 @@
+.gCalFlow {
+  position: relative;
+  width: 300px;
+  height: 400px;
+  float: left;
+  font-size: 90%;
+  overflow: hidden;
+  text-decoration: none;
+  padding-bottom: 0.5em; }
+  .gCalFlow a, .gCalFlow a:visited, .gCalFlow a:hover {
+    color: inherit;
+    _color: black;
+    background-color: transparent;
+    text-decoration: none; }
+  .gCalFlow a:hover {
+    text-decoration: underline; }
+  .gCalFlow .gcf-header-block {
+    padding: 5px 4px; }
+  .gCalFlow .gcf-last-update-block {
+    font-size: 76%;
+    text-align: right;
+    bottom: 0;
+    right: 0;
+    padding-right: 4px;
+    position: absolute; }
+  .gCalFlow .gcf-item-container-block {
+    position: relative;
+    overflow: hidden;
+    height: 100%; }
+  .gCalFlow .gcf-item-block {
+    position: relative;
+    overflow: hidden;
+    border-bottom: 1px dashed #ccc;
+    padding: 2px;
+    margin: 2px 0; }
+  .gCalFlow .gcf-item-header-block {
+    white-space: nowrap;
+    overflow: hidden; }
+  .gCalFlow .gcf-item-date-block {
+    font-size: 76%;
+    font-weight: bold; }
+  .gCalFlow .gcf-item-title-block {
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9); }
+  .gCalFlow .gcf-item-body-block {
+    font-size: 80%;
+    font-color: #999;
+    max-height: 2.45em; }
+
+.gCalFlow {
+ }
+  .gCalFlow .gcf-item-body-block {
+    }

@@ -9,6 +9,43 @@ This is a record of the members who have donated their time to make HSBNE run su
 
 ## History
 
+### May 2015 > May 2016
+
+President
+: Karl Richardson
+
+Vice President
+: Jason Beattie
+
+Secretary
+: Stephanie Piper
+
+Treasurer (Aug 2015 > x )
+: Luke Hovington
+
+Treasurer (May 2015 > Aug 2015)
+: Brendan Carmichael
+
+Patron
+: Brendan Halliday
+
+### May 2014 > May 2015
+
+President
+: Victor Vicario
+
+Vice President
+: Ben Cooper
+
+Secretary
+: Timeka Beecham
+
+Treasurer
+: Luke Hovington
+
+Patron
+: Joshua Hogendorn
+
 ### May 2013 > May 2014
 
 President (September 2013 > May 2014)
