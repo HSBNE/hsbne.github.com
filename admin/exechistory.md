@@ -9,15 +9,35 @@ This is a record of the members who have donated their time to make HSBNE run su
 
 ## History
 
-### May 2015 > May 2016
+### May 2016 > Current
 
 President
+: Stephanie Piper
+
+Vice President
+: Alex Wixted
+
+Secretary
+: Dave Seff
+
+Treasurer
+: Beau Sandford
+
+Patron
+: Brendan Halliday
+
+### May 2015 > May 2016
+
+President (March 2016 > May 2016)
+: Stephanie Piper
+
+President (May 2015 > March 2016)
 : Karl Richardson
 
 Vice President
 : Jason Beattie
 
-Secretary
+Secretary (May 2016 - March 2016)
 : Stephanie Piper
 
 Treasurer (Aug 2015 > x )
