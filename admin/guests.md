@@ -3,9 +3,7 @@ title: Guests at HSBNE
 layout: default
 ---
 
-HSBNE is for the benefit of the community, not just its members. We allow guests on our campus and
-limited use of our facilities. This document aims to clarify the expectations and limits of being a
-guest at HSBNE.
+HSBNE is for the benefit of the community, not just its members. We allow guests on our campus and limited use of our facilities however we reserve the right to ask guests to leave at any time. This document aims to clarify the expectations and limits of being a guest at HSBNE.
 
 ### Unaccompanied Guests
 
@@ -13,9 +11,6 @@ Unaccompanied guests are non-members who attend the space when it is open to the
 example, during open nights or public events. They are not entitled to utilise equipment or
 consumables directly, but a member may opt to assist them. Essentially, look don't touch is a fairly
 simple interpretation.
-
-We encourage repeat visits, however after three visits we reserve the right to ask you to become a
-financial member or refrain from attending further.
 
 
 ### Accompanied Guests
