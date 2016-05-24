@@ -1,8 +1,7 @@
 $(document).ready(function () {
   var $form = $('form.join');
   var $thanks = $('.thanks');
-  var $iframe = $('#iframe_joinform');
-
+  var $failed = $('.failed');
   // Make the h5validate script work nicely with bootstrap
   $form.h5Validate({
     errorClass: '',
@@ -18,13 +17,20 @@ $(document).ready(function () {
     $(data.element).closest('.control-group').toggleClass('error', !data.valid);
     $(data.element).closest('.control-group').toggleClass('success', data.valid);
   });
-
+  // prepare Options Object 
+  var options = { 
+    success: function() { 
+      $form.fadeOut(500);
+      $thanks.fadeIn(500);
+    },
+    error: function() { 
+    // fade in error 
+      $failed.fadeIn(500);
+    }
+  }; 
   // bind form and provide a simple callback function 
-  $form.ajaxForm(function() { 
-     $form.fadeOut(500, function () {
-        $thanks.fadeIn(500);
-      });
-  }); 
+  $form.ajaxForm(options);
+ 
 });
 
 
