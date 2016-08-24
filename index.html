@@ -119,33 +119,7 @@ script: index.js
       </ul>
 
       <h3>Events</h3>
-      <ul class="nav nav-list">
-        <div id="gcf-events" style="width: 100%; height: 180px;">
-        <div class="gcf-item-container-block">
-        <div class="gcf-item-block">
-
-        <li class="gcf-item-title-block">
-          <span class="gcf-item-daterange"></span>
-          <a class="gcf-item-title">Item Title of each event</a>
-        </li>
-
-        </div>
-    </div>
-  </div>
-  </ul>
-
-      <h3>Classes</h3>
-      <ul class="nav nav-list">
-        {% for post in site.categories.classes limit:5 %}
-        <li>
-          <a href="{{ post.url }}">
-          <i class="icon-fixed-width icon-chevron-right"></i>{{post.title }}
-          </a>
-        </li>
-        {% else %}
-            <small><strong>Our class calendar is empty!</strong>
-            <p>Perhaps you could <a href="/contact.html">teach one</a>?</p></small>
-            {% endfor %}
+      <ul class="list-unstyled" id="smallevents">
       </ul>
     </div>
 

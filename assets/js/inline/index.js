@@ -1,14 +1,27 @@
 $(document).ready(function () {
-  $(function() { $('#gcf-events').gCalFlow({
-  calid: '03ljo8g8a9kkq8dohbb7f14sok@group.calendar.google.com',
-  maxitem: 7,
-  auto_scroll: false,
-    daterange_formatter: function (start_date, end_date, allday_p) {
-      function pad(n) { return n < 10 ? "0"+n : n; }
-      return pad(start_date.getDate()) + "/" + pad(start_date.getMonth()+1);
-    }
-  });
-  });
+        
+        //anon oauth token
+        var token = 'FN5RRHYSMEODBAWWPCGR';
+        //user id
+        var userid = '64082425769';
+        //id to target
+        var $events = $("#smallevents");
+        
+        $events.html("<i>Loading events, please stand by...</i>");
+        $.get('https://www.eventbriteapi.com/v3/events/search/?token='+token+'&user.id='+userid+'&include_all_series_instances=on&start_date.keyword=this_month', function(res) {
+            if(res.events.length) {
+                var s = "";
+                for(var i=0;i<res.events.length;i++) {
+                    var event = res.events[i];
+                    var eventTime = moment(event.start.local).format('DD/MM');
+                    console.dir(event);
+                    s += "<li><a href='" + event.url + "'> "+ eventTime + " " + event.name.text + "</a></li>";
+                }
+                $events.html(s);
+            } else {
+                $events.html("<p>Sorry, there are no upcoming events.</p>");
+            }
+        });
 
 
   $('.carousel').carousel({
