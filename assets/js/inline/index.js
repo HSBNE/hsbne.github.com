@@ -8,10 +8,10 @@ $(document).ready(function () {
         var $events = $("#smallevents");
         
         $events.html("<i>Loading events, please stand by...</i>");
-        $.get('https://www.eventbriteapi.com/v3/events/search/?token='+token+'&user.id='+userid+'&include_all_series_instances=on&start_date.keyword=this_month', function(res) {
+        $.get('https://www.eventbriteapi.com/v3/events/search/?token='+token+'&user.id='+userid+'&include_all_series_instances=on', function(res) {
             if(res.events.length) {
                 var s = "";
-                for(var i=0;i<res.events.length;i++) {
+                for(var i=0;i<6;i++) {
                     var event = res.events[i];
                     var eventTime = moment(event.start.local).format('DD/MM');
                     console.dir(event);
