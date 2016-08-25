@@ -8,7 +8,7 @@ $(document).ready(function () {
         var $events = $("#smallevents");
         
         $events.html("<i>Loading events, please stand by...</i>");
-        $.get('https://www.eventbriteapi.com/v3/events/search/?token='+token+'&user.id='+userid+'&include_all_series_instances=on', function(res) {
+        $.get('https://www.eventbriteapi.com/v3/events/search/?token='+token+'&user.id='+userid+'&include_all_series_instances=on&include_unavailable_events=on', function(res) {
             if(res.events.length) {
                 var s = "";
                 for(var i=0;i<6;i++) {
