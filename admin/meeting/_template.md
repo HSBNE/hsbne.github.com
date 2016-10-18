@@ -4,7 +4,7 @@ sitemap: false
 description: THIS IS A MEETING TEMPLATE. PROVIDE A RELEVANT DESCRIPTION OR SYNOPSIS OF THE MEETING
 date: YYYY-MM-DD
 time:
-  open: "24:00"
+  open: "20:00"
   close: "24:00"
 members:
   - A
@@ -28,3 +28,7 @@ No Agenda Available
 ## Meeting Notes
 
 No Meeting Notes Taken
+
+## Votes
+
+## Thanks
