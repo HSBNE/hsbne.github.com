@@ -21,6 +21,8 @@ with minors fall into this category. Accompanied guests may utilise the resource
 member is willing to supervise them with, and that the financial member themselves is entitled to
 use (for example via induction).
 
+A member may have two (2) accompanied guests.at any one point in time.
+
 
 ### Walk in Guests
 
