@@ -11,7 +11,7 @@
         $.get('https://www.eventbriteapi.com/v3/events/search/?sort_by=date&token='+token+'&user.id='+userid+'&include_all_series_instances=on&include_unavailable_events=on', function(res) {
             if(res.events.length) {
                 var s = "";
-                for(var i=0;i<res.events.length;i++) {
+                for(var i=0;i<10;i++) {
                     var event = res.events[i];
                     var eventDay = moment(event.start.local).format('DD');
                     var eventMonth = moment(event.start.local).format('MMM');
