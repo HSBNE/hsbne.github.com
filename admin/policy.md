@@ -25,20 +25,6 @@ The membership of HSBNE [ has decided ](/admin/meeting/20130521.html) that it wi
  - WOOFers are expected to complete approximately a minimum of 5 hours work a month.
  - It is the responsibility of the executive to maintain a record of the Work completed by WOOFers via some system of timesheeting.
 
-## Member storage at HSBNE
-
-There are two forms of storage for members at HSBNE. The group [provides members with crated storage in the lockable storage area](/admin/meeting/20130115.html), and it also allows members to 'park' projects for specified periods of time.
-
-### Membership Crates
-
- - Members are issued a single 55L black crate on starting a membership.
- - Additional crates are available for $20ea
- - Crates, once issued, are the property of their owners, and as such are not rented or leased from HSBNE.
-
-### Parking Projects
-
-Parking projects is part of the HSBNE Ticket system.
-
 ## Lifetime Membership
 
 Lifetime Members are members of HSBNE who have either accrued 10 years of membership or paid up in advance to accrue 10 years of membership. Lifetime Members do not have to pay for membership to maintain their voting/access rights. Paying in advance is calculated as 
