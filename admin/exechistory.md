@@ -9,7 +9,24 @@ This is a record of the members who have donated their time to make HSBNE run su
 
 ## History
 
-### May 2016 > Current
+### May 2017 > Current
+
+President
+: Stephanie Piper
+
+Vice President
+: Brendan Halliday
+
+Secretary
+: Michael King
+
+Treasurer
+: Beau Sandford
+
+Patron
+: David Bussenschutt
+
+### May 2016 > May 2017
 
 President
 : Stephanie Piper
