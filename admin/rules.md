@@ -691,14 +691,8 @@ layout: default
         the meeting.
 
 37. #### Quorum for, and adjournment of, general meeting
-
-    1.  The quorum for a general meeting is at least the number of members
-        elected or appointed to the associations management comittee at the
-        close of the association's last general meeting plus 25% (one quarter)
-        of the non-executive voting membership.
-    2.  However, if all members of the association are members of the
-        association's management committee, the quorum is the total number of
-        members less 1.
+    1.  The quorum for a general meeting is defined as 25% of the mean number of members who have attended the last four meetings, plus the number of executive multiplied by two.
+    2.  However, if membership falls beneath this threshold (mathematically defined as 14 people) quorum is 50% of total membership and votes require a simple majority of total membership.
     3.  No business may be conducted at a general meeting unless there is a
         quorum of members when the meeting proceeds to business.
     4.  If there is no quorum within 30 minutes after the time fixed for a
