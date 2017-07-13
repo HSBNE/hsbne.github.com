@@ -58,6 +58,7 @@ Membership balance will be considered suspended for the period of any ban. Refun
 - Leaving the laser cutter(s)/3d printer(s) running unattended.
 - Obvious large breaches of the SSP, such as viewing pornography at the space.
 - Modifying a tool marked as do not touch.
+- Consuming Executive time with behaviour consistent with Unreasonable Complainant Conduct as defined by the Federal Ombudsman.
 
 ### Schedule: 1st - 3mnths, 2nd - Permanent
 
