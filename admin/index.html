@@ -58,8 +58,7 @@ published: true
     <p>Agendas and their corresponding minutes of past HSBNE meetings.</p>
     <dl>
       {% assign pages = site.pages | sort:'path' %}
-	{% assign pages = site.pages | sort:'path' | group_by_exp:"post", "pages.date | date: '%Y'" %%}
- -      {% for meeting in pages reversed %}
+      {% for meeting in pages reversed %}
         {% assign urlparts = meeting.url | split:'/' %}
         {% capture route %}{% for part in urlparts limit:2 offset:1 %}{{ part }}{% endfor %}{% endcapture %}
         {% if route == 'adminmeeting' %}
@@ -93,8 +92,6 @@ published: true
           <dd>{{ meeting.description }}</dd>
         {% endif %}
       {% endfor %}
-      {% endfor %}
-
     </dl>
   </div>
 </div>
