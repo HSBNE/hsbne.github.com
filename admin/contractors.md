@@ -1,13 +1,12 @@
-If you're reading this page, you are a contractor on the HSBNE site.
+This page provides information for contractors on the HSBNE Site.
 
 
+## Fire Safety and Evacuations
 
-Fire Safety and Evacuations
+## Asbestos Register
 
-Asbestos Register:
+## MSDS
 
-MSDS
+## Risk Assessment
 
-Risk Assessment
-
-Contractor Sign in/Sign Out
+## Contractor Sign in/Sign Out
