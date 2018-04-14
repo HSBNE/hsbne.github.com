@@ -580,4 +580,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 
 .slick-prev:before, .slick-next:before{
     color:red !important;
+
+
+}
+
+@media (max-width: 768px){
+	.dropdown-menu>li>a {
+	color: #fff !important;
+}
 }
