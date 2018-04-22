@@ -13,24 +13,7 @@ specifically towards their interests (ie a new anvil) without having to convince
 the wider group of its merit as an expenditure. It means they can maintain their
 area and buy appropriate consumables for it.
 
-### The one big caveat
-
-When total funds of the hackerspace drop below the marker defined by the
-Treasurer, all cause fund allocation freezes until the general bank balance
-recovers.
-
-This marker is currently defined as *$10,000*
-
-### As a cause member
-
-You may allocate up to *25%* in total of your monthly dues towards up to *Three*
-causes, which gains you membership in those causes and voting rights. You can
-change these allocations once per month by contacting the Treasurer and notifying
-them of your preferences.
-
-### As a cause leader
-
-#### Minimum Requirements
+*** Minimum Requirements
 
 At a minimum, to exist a cause must have:
 
@@ -42,69 +25,47 @@ At a minimum, to exist a cause must have:
 6. A wiki page (on the HSBNE domain) stating
   * The current leader.
   * The cause objectives.
+  * The Causes's Operating Document (if one has been approved by cause membership)
   * Causes contribution details (classes, area of upkeep etc).
 
-#### Cause Contributions
+### Cause Contributions
 
 Causes must contribute back to the hackerspace as defined by the executive.
-Failure to meet these obligations in a calendar month will result in no funds
-being allocated for that month, and the cause area being shutdown until the
-obligations are sufficiently met. The current rules for contribution are:
+Failure to meet these obligations in a calendar month will result in all cause budget access being suspended until such time as the obligations are being met. The current rules for contribution are:
 
-1. One **unique** class run per month.
-   * **Unique** means separate classes, not repeating the same class. ie: lathe
-     use and welding, or intro to soldering and oscilloscope 101
+1. One event or class per calendar month
 2. Obligation to ‘own’ a physical area of the hackerspace and be responsible for
    its upkeep and appearance.
 3. Grants specifically for the cause must also have some contribution to the
    hackerspace as a whole.
 
-##### How is upkeep managed?
+### Cause Rules
 
-The area defined for upkeep gets cleaned and approved by a member of the exec as
-acceptable. Photos are taken as a reference. Each month a walkthrough will be
-performed to grade the area against the reference photos. No walkthrough report
-means no funds allocated for that month, and the area will be closed until the
-grievance is resolved.
-
-#### Cause Rules
-
-Operation of a cause is bound by similar rules as the group as a whole. When in
-doubt, read our incorporation rules and follow them. The relevant clarifications
-are:
-
-1. Quorum is defined as minimum 3 people or 40% of cause membership, whichever
+1. Members may allocate up to 30% of their monthly membership fees to up to three (3) causes.
+2. Causes must have an operating policy document to form and run. This document should detail:
+  * Induction and Maintenance processes for cause tools.
+  * Lists of tool maintainers and process for becoming a maintainer of each tool
+  * Expectations for use of cause area, including Shared Working Spaces, Supervision and Storage.
+  * Ongoing approved budgets for expenditure/reimbursement (ie, consumable restocking)
+3. Quorum is defined as minimum 3 people or 40% of cause membership, whichever
    is greater.
-2. The cause leader has a discretionary amount as determined by the Treasurer.
-   (Currently *$100/m* but can not exceed cause balance)
-3. Causes may (at the discretion of the treasurer) accept contributions from
+4. Meetings must be given with 5 days notice of any agenda items.
+5. Causes may (at the discretion of the treasurer) accept contributions from
    sources other than membership fee alotments.
-4. Causes meetings may only vote on items relating to the expenditure of a
-   causes balance.
+6. Causes meetings may vote on items relating to:
+  * Expenditure of a causes balance (at the discretion of the treasurer).
+  * Induction processes for use of tools the cause is responsible for.
+  * Supervision of tools the cause is responsible for and induction of supervisors thereof.
+  * Maintenance lock-outs for tools.
+  * Amendments to the cause's Operating Policy.
+7. Causes must publish all voted policies/processes on their entrance (or as close as practicable) and on the HSBNE Wiki on their Cause page.
+8. Cause Leaders must resign their position at the Annual General Meeting and be nominated and voted in.
+9. Cause Leaders may be removed from their position by a majority vote of the Executive or the Membership.
+10. Causes may not:
+  * Deny general membership access to a cause maintained area
+  * Deny non cause members to any meetings, equipment, tools, consumables or classes.
 
-Otherwise, a cause operates as does the larger group, to highlight a few key
-points:
-
-1. The requirements for meetings to vote on decisions with:
-  * Quorum at a meeting.
-  * Adequate public notice.
-  * Minutes accessible to HSBNE membership.
-2. Five days notice to HSBNE members for financial meeting items.
-
-### Causes are not Silos
-
-A cause empowers you and people with similar interests to direct funds
-appropriately within your own consensus. It does not, in any way allow you to:
-
-* Deny general membership access to a cause maintained area
-* Deny non cause members to any meetings, equipment, tools, consumables or classes.
-
-### Legal Mumbo Jumbo
-
-For the purposes of our incorporation rules, causes are defined as
-subcommittees.
-
-### Lets do this!
+### Starting a Cause
 
 To start a cause, [contact the executive](mailto:executive@hsbne.org) with:
 
@@ -112,3 +73,4 @@ To start a cause, [contact the executive](mailto:executive@hsbne.org) with:
 * The first five members
 * Planned class(es)
 * Proposed area of upkeep.
+* An operating policy.
