@@ -13,7 +13,7 @@ specifically towards their interests (ie a new anvil) without having to convince
 the wider group of its merit as an expenditure. It means they can maintain their
 area and buy appropriate consumables for it.
 
-*** Minimum Requirements
+### Minimum Requirements
 
 At a minimum, to exist a cause must have:
 
