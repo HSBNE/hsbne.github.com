@@ -9,6 +9,23 @@ This is a record of the members who have donated their time to make HSBNE run su
 
 ## History
 
+### Apr 2018 > Current
+
+President
+: Alex Wixted
+
+Vice President
+: Drew Spriggs
+
+Secretary
+: Michael King
+
+Treasurer
+: Ian Haly
+
+Patron
+: Steph Piper
+
 ### May 2017 > Current
 
 President
