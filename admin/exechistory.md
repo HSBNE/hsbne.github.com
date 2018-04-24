@@ -26,7 +26,7 @@ Treasurer
 Patron
 : Steph Piper
 
-### May 2017 > Apr 2017
+### May 2017 > Apr 2018
 
 President
 : Stephanie Piper
