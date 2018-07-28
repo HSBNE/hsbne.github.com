@@ -194,7 +194,7 @@ hr {
 }
 /* About Section */
 #about {
-	padding: 140px 0;
+	padding: 50px 0;
 	background: #f6f6f6;
 }
 #about .about-text {
@@ -232,8 +232,8 @@ hr {
 }
 /* causes Section */
 #causes {
-	padding: 140px 0;
-	background: url(../img/services-bg.jpg);
+	padding: 50px 0;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/services-bg.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -414,7 +414,7 @@ img.img-thumbnail.team-img {
 	background-size: cover;
 	background-attachment: fixed;
 	color: #ddd;
-	padding: 140px 0;
+	padding: 50px 0;
 }
 #testimonials h2 {
 	color: #f6f6f6;
@@ -439,7 +439,7 @@ img.img-thumbnail.team-img {
 }
 /* Contact Section */
 #contact {
-	padding: 80px 0 40px 0;
+	padding: 50px 0 100px 0;
 	background: #f6f6f6;
 }
 #contact .contact-item {
