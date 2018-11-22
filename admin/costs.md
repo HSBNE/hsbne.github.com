@@ -122,6 +122,21 @@ Meeting
 Anniversary Date
 :?
 
+#### Sendgrid
+
+Cost
+:$15 / Month
+
+Meeting
+:31/07/2018
+
+Anniversary Date
+:Monthly
+
+##### Notes
+
+* The volume of emails we send exceeds their free tier.
+
 ---
 
 ## HSBNE Campus
