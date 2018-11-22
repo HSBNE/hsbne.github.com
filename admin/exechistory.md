@@ -20,7 +20,10 @@ Vice President
 Secretary
 : Michael King
 
-Treasurer
+Treasurer (Oct 2018 > Current)
+: Jaimyn Mayer
+
+Treasurer (Apr 2018 > Aug 2018)
 : Ian Haly
 
 Patron
