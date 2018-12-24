@@ -1,3 +1,9 @@
+---
+title: Safety Policy
+layout: default
+published: true
+---
+
 ### WHS Legislation Note 
 As HSBNE does not employ anyone, it is not specifically required to adhere to WHS legislation as [as advised by Worksafe QLD](https://www.worksafe.qld.gov.au/laws-and-compliance/workplace-health-and-safety-laws/specific-obligations/non-profit-organisations-and-volunteers). That being said, we have some rules and basic principles of safety and provide PPE for members use. HSBNE encourages members to take all reasonable steps to protect their own safety as well as that of those around them by
 taking actions such as identifying and managing risks.
