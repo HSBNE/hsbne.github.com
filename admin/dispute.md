@@ -42,8 +42,9 @@ These bans, in some cases, may be avoided by the member repairing/replacing the 
 ### Schedule 1: 1st - 1 week, 2nd - 2 weeks, 3rd - 1 month, N + 1 month or permanent.
 
 - Tool Abuse, as defined by damaging the tool for its intended purpose through any usage other than an accident.
-- Damaging a tool accidentally and not reporting it to trello/cause leader/exec.
+- Damaging a tool accidentally and not reporting it via the member portal, trello, or email (issues@hsbne.org).
 - Leaving a battery charging on the power supplies unattended.
+- Causing HSBNE to breach any lease requirement not specifically covered in this schedule of bans.
 
 ### Schedule 2: 1st - 2 weeks, 2nd - 1 month, 3rd - 3 month, N + 1 month or permanent.
 
@@ -60,6 +61,7 @@ These bans, in some cases, may be avoided by the member repairing/replacing the 
 - Using or storing a hazardous material or dangerous good in an unsafe manner / not in accordance with current
 site procedures.
 - Introducing a new type of hazardous material or dangerous good to the HSBNE site without approval.
+- Violating the “Site modifications and electrical work” policy
 
 ### Schedule 3: 1st - 3 months, 2nd - Permanent
 
