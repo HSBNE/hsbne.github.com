@@ -33,11 +33,10 @@ At a minimum, to exist a cause must have:
 Causes must contribute back to the hackerspace as defined by the executive.
 Failure to meet these obligations in a calendar month will result in all cause budget access being suspended until such time as the obligations are being met. The current rules for contribution are:
 
-1. One event or class per calendar month
+1. One event or class per calendar month. Inductions do not count towards this. This means that a cause must have run a class or event in the previous or current month to access funding.
 2. Obligation to ‘own’ a physical area of the hackerspace and be responsible for
-   its upkeep and appearance.
-3. Grants specifically for the cause must also have some contribution to the
-   hackerspace as a whole.
+   its upkeep and appearance. Upkeep includes keeping the area clean and tidy, and making sure facilities are in good working order.
+3. Grants specifically for the cause must also have some contribution to the hackerspace as a whole.
 
 ### Cause Rules
 
@@ -48,20 +47,21 @@ Failure to meet these obligations in a calendar month will result in all cause b
   * Expectations for use of cause area, including Shared Working Spaces, Supervision and Storage.
   * Ongoing approved budgets for expenditure/reimbursement (ie, consumable restocking)
 3. Quorum is defined as minimum 3 people or 40% of cause membership, whichever
-   is greater.
-4. Meetings must be given with 5 days notice of any agenda items.
-5. Causes may (at the discretion of the treasurer) accept contributions from
+   is greater. However, the required quorum amount is capped at 10 members.
+4. Each cause member is only allowed to hold two proxy votes at a cause meeting (so 3 including their own).
+5. Meetings must be given with 5 days notice of any agenda items.
+6. Causes may (at the discretion of the treasurer) accept contributions from
    sources other than membership fee alotments.
-6. Causes meetings may vote on items relating to:
+7. Causes meetings may vote on items relating to:
   * Expenditure of a causes balance (at the discretion of the treasurer).
   * Induction processes for use of tools the cause is responsible for.
   * Supervision of tools the cause is responsible for and induction of supervisors thereof.
   * Maintenance lock-outs for tools.
   * Amendments to the cause's Operating Policy.
-7. Causes must publish all voted policies/processes on their entrance (or as close as practicable) and on the HSBNE Wiki on their Cause page.
-8. Cause Leaders must resign their position at the Annual General Meeting and be nominated and voted in.
-9. Cause Leaders may be removed from their position by a majority vote of the Executive or the Membership.
-10. Causes may not:
+8. Causes must publish all voted policies/processes on their entrance (or as close as practicable) and on the HSBNE Wiki on their Cause page.
+9. Cause Leaders must resign their position at the Annual General Meeting and be nominated and voted in.
+10. Cause Leaders may be removed from their position by a majority vote of the Executive or the Membership.
+11. Causes may not:
   * Deny general membership access to a cause maintained area
   * Deny non cause members to any meetings, equipment, tools, consumables or classes.
 
