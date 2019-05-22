@@ -9,7 +9,24 @@ This is a record of the members who have donated their time to make HSBNE run su
 
 ## History
 
-### Apr 2018 > Current
+President
+: Alex Wixted
+
+Vice President
+: Craig Hudson-Taylor
+
+Secretary
+: Gabrielle Hewitt
+
+Treasurer 
+: Jaimyn Mayer
+
+Patron
+: Aaron Bycroft
+
+
+
+### Apr 2018 > May 2019
 
 President
 : Alex Wixted
@@ -20,7 +37,7 @@ Vice President
 Secretary
 : Michael King
 
-Treasurer (Oct 2018 > Current)
+Treasurer (Oct 2018 > May 2019)
 : Jaimyn Mayer
 
 Treasurer (Apr 2018 > Aug 2018)
