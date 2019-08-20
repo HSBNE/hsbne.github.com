@@ -537,7 +537,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 /* Footer Section*/
 #footer {
 	background: #333;
-	color: #777;
+	color: #FFFDE7;
 	padding: 20px 0;
 	text-align: center;
 }
