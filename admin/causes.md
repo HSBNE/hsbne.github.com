@@ -46,8 +46,7 @@ Failure to meet these obligations in a calendar month will result in all cause b
   * Lists of tool maintainers and process for becoming a maintainer of each tool
   * Expectations for use of cause area, including Shared Working Spaces, Supervision and Storage.
   * Ongoing approved budgets for expenditure/reimbursement (ie, consumable restocking)
-3. Quorum is defined as minimum 3 people or 40% of cause membership, whichever
-   is greater. However, the required quorum amount is capped at 10 members.
+3. Quorum is defined as a minimum of 3 people or 1 member for every 5 members in the Cause, whichever is greater.
 4. Each cause member is only allowed to hold two proxy votes at a cause meeting (so 3 including their own).
 5. Meetings must be given with 5 days notice of any agenda items.
 6. Causes may (at the discretion of the treasurer) accept contributions from
