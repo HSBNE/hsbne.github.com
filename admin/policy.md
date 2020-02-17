@@ -13,6 +13,9 @@ This is a master list of policies or by-laws at HSBNE that fall outside the scop
  - Before voting on Financial Agenda Items a Financial Report must be either a) read out by the Treasurer or b) provided to be read out.
 One person speaks at a time. No person speaks for more than one minute when others are waiting to speak.
  - It's important to thank members who are contributing to HSBNE as we wouldn't be where we are today without it. Take the time in a meeting to thank people for excellence at HSBNE.
+ 
+## Site Sign In Register
+As soon as practical, once a member is on site they must swipe their access card at the quad door, or the front door to sign in. When a member leaves, they must also swipe their card at the quad door, or front door to sign out. This ensures we can keep better track of who is on site in case we need to evacuate and lets other people on site know someone has just arrived.
 
 ## Work For Membership
 
