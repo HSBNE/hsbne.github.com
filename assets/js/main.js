@@ -104,6 +104,7 @@ function main() {
         });
         
         $('.hover-bg').matchHeight();
+        
     }());
 
 

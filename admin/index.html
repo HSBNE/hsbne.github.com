@@ -64,39 +64,14 @@ published: true
   </div>
 	<div class="col-md-6">
     <h3>Meetings</h3>
-    <p>Agendas and their corresponding minutes of past HSBNE meetings.</p>
+    <p>Minutes of pre-2020 HSBNE meetings. <a href="https://wiki.hsbne.org/meetings/general/2020/home">2020 onwards is available here.</a></p>
     <dl>
-      {% assign pages = site.pages | sort:'path' %}
+      {% assign pages = site.pages | sort:'path'%}
       {% for meeting in pages reversed %}
         {% assign urlparts = meeting.url | split:'/' %}
         {% capture route %}{% for part in urlparts limit:2 offset:1 %}{{ part }}{% endfor %}{% endcapture %}
         {% if route == 'adminmeeting' %}
           <dt><a href="{{ meeting.url }}">{{ meeting.date }}</a>
-            {% if meeting.layout == "meeting" and meeting.description == nil %}
-              <i class="icon-info-sign text-error" title="These notes need a short description of what was discussed."></i>
-            {% endif %}
-            {% if meeting.layout == "meeting" and meeting.date == nil %}
-              <i class="glyphicon glyphicon-calendar text-error" title="What date was this meeting? We just don't know, do you?"></i>
-            {% endif %}
-            {% if meeting.layout == "meeting" and meeting.time.open == "00:00" %}
-              <i class="glyphicon glyphicon-time text-error" title="These notes don't say when the meeting started."></i>
-            {% endif %}
-            {% if meeting.layout == "meeting" and meeting.time.close == "00:00" %}
-              <i class="glyphicon glyphicon-time icon-rotate-180 text-error" title="Apparently this meeting never finished, oh dear..."></i>
-            {% endif %}
-            {% if meeting.layout == "meeting" and meeting.members.size == nil %}
-              <i class="glyphicon glyphicon-group text-error" title="There is no member list for these notes! The rules state we must keep accurate attendance of real names in our notes."></i>
-            {% endif %}
-            {% if meeting.layout == "meeting" and meeting.author == nil %}
-              <i class="glyphicon glyphicon-pencil text-error" title="These notes have no author! spooky..."></i>
-            {% endif %}
-            {% if meeting.layout == "meeting" and meeting.signed == nil %}
-              <i class="glyphicon glyphicon-ok text-error" title="These notes are not signed! Notes are signed by the chairperson to say they're accepted and accurate"></i>
-            {% endif %}
-
-            {% if meeting.layout == "default" %}
-              <i class="icon-ellipsis-horizontal" title="This is an old format note, edit it to bring it up to date!"></i>
-            {% endif %}
           </dt>
           <dd>{{ meeting.description }}</dd>
         {% endif %}

@@ -54,32 +54,6 @@ function main() {
                 infinite: true,
             });
 
-            var token = 'FN5RRHYSMEODBAWWPCGR';
-            //user id
-            var userid = '64082425769';
-            //id to target
-            var $events = $("#eventslist");
-
-            $events.html("<i>Loading events, please stand by...</i>");
-            $.get('https://www.eventbriteapi.com/v3/events/search/?sort_by=date&token=' + token + '&user.id=' + userid + '&include_all_series_instances=on&include_unavailable_events=on', function(res) {
-                if (res.events.length) {
-                    var s = "";
-                    for (var i = 0; i < 4; i++) {
-                        var event = res.events[i];
-                        var eventTime = moment(event.start.local).format('DD/MM');
-                        var eventDay = moment(event.start.local).format('DD');
-                        var eventMonth = moment(event.start.local).format('MMM'); 
-                    s += "<div class='media'>";
-                    s += "<div class='media-left'><h2 class='media-heading'>" + eventDay + "</h2>"+ eventMonth + "</div>";
-                    s += "<div class='media-body'>";
-                    s += "<h3 class='media-heading inverted'><a class=' pull-left inverted text-justify' href='" + event.url + "'> " + event.name.text + "</a></h3>";
-                    s += "</div></div>";
-                    }
-                    $events.html(s);
-                } else {
-                    $events.html("<p>Sorry, there are no upcoming events.</p>");
-                }
-            });
         });
 
         // Portfolio Isotope Filter
@@ -122,11 +96,29 @@ function main() {
         }
         initParallax();
 
+
+        const RSS_URL = `https://rss.app/feeds/z49rzoRvcddNzi1x.xml`;
+
+        fetch(RSS_URL)
+            .then(response => response.text())
+            .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+            .then(data => {
+                const items = data.querySelectorAll("item");
+                let html = ``;
+                items.forEach(el => {
+                    var description = el.querySelector("description").innerHTML;
+                    var results = description.match(/<img [^>]*src="[^"]*"[^>]*>/gm);
+                    var title =
+                        html += `<div class="col "><a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">
+                        ${results}
+                        </div>`;
+                });
+                document.getElementById('happeningstream').insertAdjacentHTML("beforeend", html);
+            });
         // Pretty Photo
         $("a[rel^='prettyPhoto']").prettyPhoto({
             social_tools: false
         });
-
     }());
 
 

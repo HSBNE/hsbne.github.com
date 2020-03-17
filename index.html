@@ -2,7 +2,6 @@
 layout: index
 script: main.js
 ---
-
 <html lang="en">
 
 <head>
@@ -18,9 +17,13 @@ script: main.js
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
-                        <h1>We are <span class="brand-heading">HSBNE</span></h1>
-                        <p class="intro-text">A community workshop run by an enthusiastic group of like-minded members located in Brisbane.</p>
-                        <a href="#about" class="btn btn-default page-scroll">Learn More</a><a href="thespace.html" class="btn btn-default page-scroll">Visit Us</a> </div>
+                        <h1 class="topshadow">MAKE SOMETHING AMAZING<br /><span class="brand-heading">AT HSBNE</span></h1>
+                        <p class="intro-text">We are a community workshop run by volunteer members located in Brisbane.</p>
+                        <a href="thespace.html" class="btn btn-default page-scroll">Visit Us</a>
+                        <a href="join.html" class="btn btn-default page-scroll">Join Us</a>
+                        <a href="contact.html" class="btn btn-default page-scroll">Contact Us</a><br />
+
+                    </div>
                 </div>
             </div>
         </div>
@@ -28,14 +31,11 @@ script: main.js
     <!-- About Section -->
     <div id="about">
         <div class="container">
-            <div class="section-title text-center center">
-                <h2>About us</h2>
-                <hr>
-            </div>
             <div class="row">
-                <div class="col-md-4">
-<!--                 This is the image carousel beside Who We are. -->                    
+                <div class="col-md-7 col-sm-6 col-xs-12">
+                    <!--                 This is the image carousel beside Who We are. -->
                     <div class="slider">
+                        <div><img src="assets/img/carousel/00.jpg" class="img-responsive"></div>
                         <div><img src="assets/img/carousel/01.jpg" class="img-responsive"></div>
                         <div><img src="assets/img/carousel/02.jpg" class="img-responsive"></div>
                         <div><img src="assets/img/carousel/03.jpg" class="img-responsive"></div>
@@ -45,251 +45,64 @@ script: main.js
                         <div><img src="assets/img/carousel/07.jpg" class="img-responsive"></div>
                         <div><img src="assets/img/carousel/08.jpg" class="img-responsive"></div>
                         <div><img src="assets/img/carousel/09.jpg" class="img-responsive"></div>
-                        <div><img src="assets/img/carousel/10.jpg" class="img-responsive"></div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="about-text">
-                        <h4>Who We Are</h4>
-                        <p class="text-justify">HSBNE inc is Brisbane’s largest community workshop and maker collective. As Australia’s oldest hackerspace, it brings together the community, space and tools for anyone to learn how to build their ideas, from hobbyists and students to professionals and startups.</p>
+                        <h3>Who We Are</h3>
+                        <p class="text-justify">HSBNE Inc. is Brisbane’s largest community workshop and maker collective. We facilitate an amazing community and workshop to enable anyone to build amazing things (or learn how to!).</p>
+                        <h5>We have people interested in:</h5>
+                        <ul>
+                            <li>Woodworking</li>
+                            <li>Digital Fabrication</li>
+                            <li>Metalworking</li>
+                            <li>Electronics</li>
+                            <li>Blacksmithing</li>
+                            <li>Cosplay and crafting</li>
+                            <li>And much more..</li>
+                        </ul>
                         <p class="text-justify"> Become a member and see what you can learn, teach, make and show. </p>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="about-text">
-                        <h4>We have people interested in:</h4>
-                        <ul>
-                            <li>Recycled Timber Woodworking</li>
-                            <li>3D printing</li>
-                            <li>Drones</li>
-                            <li>Virtual Reality</li>
-                            <li>Robotics</li>
-                            <li>Microcontrollers</li>
-                            <li>Home Automation</li>
-                            <li>And much more..</li>
-                        </ul>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
-    <!-- causes Section -->
-    <div id="causes" class="text-center">
-        <div class="container">
-            <div class="section-title center">
-                <h2>Special Interest Areas</h2>
-                <hr>
-            </div>
-            <div class="space"></div>
-            <div class="row">
-                <div class="col-md-4 col-sm-6">
-                    <div class="service"> <i class="fa fa-gavel"></i>
-                        <h3>Blacksmithing and Forging</h3>
-                        <p>Our Blacksmithing and Forging group provide a self maintained and intuitive area to practise the art of blacksmithing, metal forging and sand casting.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="service"> <i class="fa fa-paint-brush"></i>
-                        <h3>Craft Punk</h3>
-                        <p>Craft Punk is dedicated to the more artistic pursuits of HSBNE members. It specialises in cosplay, sewing, moulding and casting, painting, models, screen printing, sculpture and vacuforming.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="service"> <i class="fa fa-cube"></i>
-                        <h3>Digital Fabrication</h3>
-                        <p>Home of the 3d printers and laser cutters, Digital Fabrication focuses on using these and other digitized fabrication tools to create real objects.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="space"></div>
-            <div class="row">
-                <div class="col-md-4 col-sm-6">
-                    <div class="service">
-                        <i class="fa fa-microchip"></i>
-                        <h3>Electronics</h3>
-                        <p>Electronics provides considerable amounts of both common and highly specialised Electronics related equipment and supplies. From soldering irons all the way through to oscilliscopes and even a reflow oven. </p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="service"><i class="fa fa-industry"></i>
-                        <h3>Metal Working</h3>
-                        <p>Metal Working houses a machine shop with lathes, mills and other common tooling as well as a Welding Area and Hulk, the big green VMC.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="service"><i class="fa fa-tree"></i>
-                        <h3>Woodworking</h3>
-                        <p>Woodworking provides a large wood shop filled with woodworking tools and supplies, where many a pallet has gone to die.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Members Works -->
-    <div id="works">
+    <!-- What's Happening -->
+    <div id="happening">
         <div class="container">
             <!-- Container -->
             <div class="section-title text-center center">
-                <h2>Members Projects</h2>
+                <h2>What is happening at HSBNE?</h2>
                 <hr>
-                <div class="clearfix"></div>
-                <p>Our members like to make things, here's an assortment to whet your appetite.</p>
             </div>
-            <div class="categories">
-                <ul class="cat">
-                    <li>
-                        <ol class="type">
-                            <li><a href="#" data-filter="*" class="active btn">All</a></li>
-                            <li><a href="#" data-filter=".lorem" class="btn">Personal Projects</a></li>
-                            <li><a href="#" data-filter=".consectetur" class="btn">Space Improvement</a></li>
-                            <li><a href="#" data-filter=".dapibus" class="btn">Donated Equipment</a></li>
-                        </ol>
-                    </li>
-                </ul>
-                <div class="clearfix"></div>
-            </div>
-            <div class="row">
-                <div class="portfolio-items">
-                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 lorem">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="assets/img/portfolio/05.jpg" title="This original 1981 DeLorean is a common sight at HSBNE as Mike regularly maintains it there" rel="prettyPhoto[MembersProjects]">
-                                    <div class="hover-text">
-                                        <h4>DeLorean</h4>
-                                        <p>Lovingly maintained by member Mike Ando</p>
-                                    </div>
-                                    <img src="assets/img/portfolio/05.jpg" class="img-responsive" alt="DeLorean"> </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 lorem">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="assets/img/portfolio/02.jpg" title="Pokémon crocheted by hand by member Fiona Findlay" rel="prettyPhoto[MembersProjects]">
-                                    <div class="hover-text">
-                                        <h4>Amigurumi Psyduck</h4>
-                                        <p>Crocheted by hand by member Fiona Findlay</p>
-                                    </div>
-                                    <img src="assets/img/portfolio/02.jpg" class="img-responsive" alt="Amigurumi Psyduck"> </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 lorem">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="assets/img/portfolio/03.jpg" title="Built & upgraded by member Jim Borman, this drone flies faster than an eagle!" rel="prettyPhoto[MembersProjects]">
-                                    <div class="hover-text">
-                                        <h4>FPV Racing Quadcopter</h4>
-                                        <p>Built by member Jim Borman</p>
-                                    </div>
-                                    <img src="assets/img/portfolio/03.jpg" class="img-responsive" alt="FPV Racing Quadcopter"> </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 consectetur">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="assets/img/portfolio/04.jpg" title="This drinks machine has a custom face that might be familiar to Ghostbusters fans, thanks to Brendan Halliday." rel="prettyPhoto[MembersProjects]">
-                                    <div class="hover-text">
-                                        <h4>Vigo Drinks Machine</h4>
-                                        <p>Hacked by member Brendan Halliday</p>
-                                    </div>
-                                    <img src="assets/img/portfolio/04.jpg" class="img-responsive" alt="Vigo Drinks Machine"> </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 consectetur dapibus">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="assets/img/portfolio/06.jpg" title="The superstack speaker works with a Chromecast audio (Donated by Luke Hovington). It was built by members Karl Richardson & Josh Wilkinson for the 'Stack' installation at Burning Seed 2015, designed by Amy Learmonth and Shane Sugrue." rel="prettyPhoto[MembersProjects]">
-                                    <div class="hover-text">
-                                        <h4>Superstack Speaker</h4>
-                                        <p>Built by members at HSBNE for Burning Seed 2015</p>
-                                    </div>
-                                    <img src="assets/img/portfolio/06.jpg" class="img-responsive" alt="Superstack Speaker"> </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 dapibus">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="assets/img/portfolio/08.jpg" title="This Okada VMC was donated to HSBNE and members Sven & James have been hard at work understanding it." rel="prettyPhoto[MembersProjects]">
-                                    <div class="hover-text">
-                                        <h4>Hulk Okada VMC</h4>
-                                        <p>Maintained by members Sven Hanzka & James Churchill</p>
-                                    </div>
-                                    <img src="assets/img/portfolio/08.jpg" class="img-responsive" alt="Hulk Okada VMC"> </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 lorem">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="assets/img/portfolio/01.jpg" title="Built from drawings found on the internet by member Phil Gowenlock." rel="prettyPhoto[MembersProjects]">
-                                    <div class="hover-text">
-                                        <h4>RC Russian BullDozer</h4>
-                                        <p>Hand-crafted by member Phil Gowenlock</p>
-                                    </div>
-                                    <img src="assets/img/portfolio/01.jpg" class="img-responsive" alt="RC Russian Bulldozer"> </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 dapibus">
-                        <div class="portfolio-item">
-                            <div class="hover-bg">
-                                <a href="assets/img/portfolio/07.jpg" title="Members regularly recycle old laptop & tool batteries for use in e-vehicles and house battery systems." rel="prettyPhoto[MembersProjects]">
-                                    <div class="hover-text">
-                                        <h4>Tool Battery Recycling</h4>
-                                        <p>Ewaste recycling at HSBNE</p>
-                                    </div>
-                                    <img src="assets/img/portfolio/07.jpg" class="img-responsive" alt="Tool Battery Recycling"> </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <div id="happeningstream" class="row"></div>
         </div>
     </div>
-    <!-- Team Section -->
-    <!-- Testimonials Section -->
-    <div id="testimonials" class="text-center">
+    <!-- Sponsors Section -->
+    <div id="sponsorz" class="text-center">
         <div class="container">
             <div class="section-title center">
-                <h2>Upcoming Events</h2>
+                <h2>Our Sponsors</h2>
                 <hr>
             </div>
-            <div class="row testimonials" id="eventslist">
-            </div>
-        </div>
-    </div>
-    </div>
-    <!-- Contact Section -->
-    <div id="contact" class="text-center">
-        <div class="container">
-            <div class="section-title center">
-                <h2>Contact us</h2>
-                <hr>
-                <p>It's best to come see us on our Tuesday Open nights if you want to meet people & see how we work. For everything else, email executive@hsbne.org</p>
-            </div>
-            <div class="col-md-12 col-md-offset-1">
-                <div class="col-md-2">
-                    <div class="contact-item"> <a href="thespace.html"><i class="fa fa-map-marker fa-4x"></i>
-                        <p>Visit Us</p></a>
+            <div class="row testimonials">
+                <p>HSBNE could not exist without the tireless work of our volunteers and sponsorships from government departments as well as local businesses. These include but are not limited to the following:</p>
+                <div class="row">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="service">
+                            <img src="assets/img/northshorelogo.png" class="img-sponsor">
+                            <p>Via Northshore and The Factories Economic Development Queensland provides HSBNE with the property we operate out of.</p>
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="contact-item"><a href="https://www.facebook.com/HSBNE"><i class="fa fa-facebook fa-4x"></i></i>
-                        <p>Follow us on Facebook</p></a>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="service">
+                            <img src="assets/img/qgov.jpg" class="img-sponsor">
+                            <p>HSBNE has recieved funding from the Queensland Hackerspaces Grant Program in Round One (2017). Find out more details <a href="http://www.dsdmip.qld.gov.au/industry/priority-industries/advanced-manufacturing/hackerspaces-grant-program.html">here.</a></p>
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="contact-item"> <a href="https://portal.hsbne.org/webcams/"><i class="fa fa-camera fa-4x"></i>
-                        <p>View the HSBNE Webcams</p></a>
-                    </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="contact-item"> <a href="donate.html"><i class="fa fa-thumbs-up fa-4x"></i>
-                        <p>Donate to Us</p></a>
+                    <div class="col-md-4 col-sm-6">
+                        <img src="assets/img/yourlogohere.png" class="img-sponsor">
+                        <p>Your business could be here. <a href="mailto:executive@hsbne.org">Please Contact Our Executive to start.</a></p>
                     </div>
                 </div>
             </div>
