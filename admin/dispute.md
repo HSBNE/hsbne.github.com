@@ -62,6 +62,7 @@ These bans, in some cases, may be avoided by the member repairing/replacing the 
 site procedures.
 - Introducing a new type of hazardous material or dangerous good to the HSBNE site without approval.
 - Violating the “Site modifications and electrical work” policy
+- Failing to secure the site appropriately (ie lock everything up).
 
 ### Schedule 3: 1st - 3 months, 2nd - Permanent
 
