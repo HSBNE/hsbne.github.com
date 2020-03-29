@@ -39,6 +39,9 @@ etc...
 5. The executive will take your document to the property manager who will take it to the landlord.
 6. If the landlord okays the project, you can bring it on site and begin once you pay any agreed
    deposit.
+7. You will be expected to post an update on your build log at least once a fortnight to show you
+   are working on the project. HSBNE may use your build log in promotional materials and on social
+   media.
    
 ### Warning
 
