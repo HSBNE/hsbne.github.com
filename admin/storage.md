@@ -19,29 +19,5 @@ There are several forms of storage for members at HSBNE. The group [provides mem
 Parking projects is part of the HSBNE Ticket system.
 
 ## External Storage
-HSBNE has a limited amount of space to provide storage for larger in progress projects.
 
-Any item stored externally must have a green parking permit on it clearly marking what it is/who owns it/when it was put there and how to contact the owner.
-
-For usable external storage there are two areas defined. Temporary Large Storage and Hardstand Storage. Please note that storage outside of these areas is not specifically allowed and will need to be moved due to lease obligations.
- 
-### Temporary Large Project Storage:
-
-If you are working on a large project that needs to be stored on site to be worked on, you may store it in Temporary Large Project Storage. 
-
-Items stored in Temporary Large Project Storage:
-
-* must have a green parking permit on it clearly marking what it is/who owns it/when it was put there.
-* may be stored there for a period of up to a month. To store it for longer than a month there must be a vote at a members meeting approving any time period above thea month of storage.
-* must be visibly actively worked on, as this is temporary storage space for projects in progress. The best way to demonstrate it is actively worked on is through a Build Log on the forum or by blog posts.
-
-### Hardstand Project Storage:
-
-This area consists of bays that are slightly larger than a standard shipping pallet in size.
-
-Items stored in Hardstand Project Storage:
-
-* must have a green parking permit on it clearly marking what it is/who owns it/when it was put there.
-may be stored there for a period of up to a month, with the standard green ticket requirements for any period longer than a month.
-* may only take up one slot per member, to allow for equal opportunity of use.
-* must be visibly actively worked on, as this is temporary storage space for projects in progress. The best way to demonstrate it is actively worked on is through a Build Log on the forum or by blog posts.
+HSBNE does not allow any external storage of a project without going through the approval process as outlined by the Large Projects Policy.
