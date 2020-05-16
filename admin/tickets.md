@@ -6,33 +6,36 @@ layout: default
 
 ## Overview
 
-The ticket system at HSBNE is there for members to utilise to help bring some semblance of control to the utter Capital-C Chaos that hackerspaces tend to be. They mostly function to answer the question of 'who is responsible for this?', or they give extra important information about the item in question that would otherwise only be communicated verbally.
+The ticket system at HSBNE exists to help members bring some semblance of control to the utter Capital-C Chaos that hackerspaces tend to be. All tickets must be digitally issued (e.g. via a HSBNE kiosk or app). If a legitimate technical issue prevents a ticket from being digitally issued, they may be issued by hand.
 
-<div class="alert alert-info"><h2> Doom Shelves </h2>
+<div class="alert alert-info">
 
-  Any item that is found unattended for longer than an hour in an area demarcated as a 'shared work space' at HSBNE that is not identifiable as HSBNE Property (Has a HSBNE Owned/Donated Sticker on it) or does not have a valid green parking permit may be relocated to the Doom Shelves at will.
+<h2>Doom Shelf Ticket </h2>
 
-  HSBNE Tools should not be left on Shared Working spaces, they should be restored to their designated homes.
+<p>
+Any item left unattended in a shared workspace for more than one hour and does not have a valid Green Ticket may be relocated to the Doom Shelves.</p>
 
-  Items entering the Doom Shelves MUST be photographed and the photograph sent to the membership so that the item's owner has been reasonably notified. After 2 weeks in the Doom Shelves, the items may be donated, trashed or similar.
+<p>HSBNE equipment should not be left in shared work spaces or the Doom Shelves. Equipment should be put back in their designated homes.</p>
+
+<p>Items entering the Doom Shelves must be photographed and a Doom Shelf Ticket (sticker) must be applied. After 2 weeks in the Doom Shelves, the item will be treated as a donation to HSBNE and may be hacked on or disposed of by any member.</p>
 </div>
 
-<div class="alert alert-success"><h2> Parking Permit (Green) </h2>
+<div class="alert alert-success"><h2>Green Ticket (Parking Permit)</h2>
 
-  A Parking Permit is required if you wish to leave your project for up to a month on the deskspace at HSBNE. It allows everyone to know whom to contact if there is an issue, whether it can be moved, and how long that space is expected to be utilised by the project.
+A Green Ticket is required if you wish to temporarily leave your project at HSBNE. You are required to follow the conditions outlined on the Green Ticket when it is issued. Items requiring longer than one month need a forum post to be made about them as they are clearly that awesome.
+
+</div>
+
+<div class="alert alert-danger"><h2>Red Ticket (Parking Ticket)</h2>
+
+<p>A Red Ticket is a 2 week grace period warning that the item(s) in question are not stored appropriately. If the owner does not rectify the issue(s) within 14 days, the items may be hacked on, or disposed of by any member.</p>
   
-  Items requiring longer than a month need a blog post to be made about them as they are clearly that awesome.</div>
+<b>Note: </b>Red Tickets are not applied to items in shared work spaces. See Doom Shelves above.</div>
 
-<div class="alert alert-danger"> <h2> Parking Ticket (Red)</h2>
+<div class="alert alert-warning"><h2>Orange Ticket (Borked or Broken)</h2>
 
-  A Parking Ticket is a 2 week grace period warning that the item(s) in question are not stored in an appropriate manner, and if the owner does not rectify, the items may be donated, trashed or similar.
-  
-  Parking Permits are not applied to items in 'shared work space' areas. See Doom Shelves.</div>
+<p>Sometimes equipment breaks, or it becomes partially functional. Orange Tickets indicate what is wrong and who found or broke it. They also state if this tool should not be used, or if it can be used but has some unexpected quirks, such as a dead channel on an oscilloscope.</p>
 
-<div class="alert alert-info"> <h2> Project Invitation (Blue)</h2>
+Members are required to issue an Orange Ticket for any equipment they break, or find broken, if it does not already have one. Members must read any Orange Tickets in full before attempting to use equipment with one.
 
-  Project Invitation slips are a way of publicising whom is the contact point to help out with a large project, such as the vending machine and the gigantoprinter. They're a good way for a newbie to get involved and know who to talk to. They also signify projects where input is encouraged. </div>
-
-<div class="alert alert-warning"> <h2> Borked or Broken (Orange)</h2>
-
-  Sometimes equipment breaks, or even sometimes it is partially functional. Borked or Broken tickets indicate if this tool should not be used, or if it can be used but has some unexpected quirks, such as a dead channel on an oscilloscope.</div>
+</div>
