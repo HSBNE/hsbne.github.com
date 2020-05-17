@@ -13,7 +13,7 @@ When you see a member doing something thats not excellent, you're obliged to iss
 
 Anyone can issue a ding to anyone, and theres no penalty for being dinged. Take it as constructive criticism.
 
-If you want to issue a ding, post in the forum thread and provide evidence of the claim. Posting anywhere else is not valid, and if you have no evidence your ding may not be worthwhile. (You can still post anyway, it just may not have much weight). Theres no such thing as an anonymous ding, both for the requester or dinged person.
+If you want to issue a ding, post in the forum thread and provide evidence of the claim. Posting anywhere else is not valid, and if you have no evidence your ding may not be worthwhile. (You can still post anyway, it just may not have much weight). You can ding someone anonymously when you don't know who it was. You cannot ding someone as an anonymous person.
 
 When posting a ding, please try and keep the tone as positive as possible. It's not a space to attack people, just to make a record of things happening and to gently remind the correct behaviour. Feel free to use this template:
 
