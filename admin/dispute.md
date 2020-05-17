@@ -54,7 +54,7 @@ These bans, in some cases, may be avoided by the member repairing/replacing the 
 - Leaving any potentially exposed voltage above 48v. Eg:
 	- Crushed extension leads
 	- Suicide cords
-- Leaving any kind of blade running unattended.
+- Leaving any kind of blade running unattended. (exception: The horizontal metal bandsaw is a blade designed to run for long periods of time semi attended. You must remain in the same room (with short breaks for bathroom runs etc) while it runs.)
 - Leaving the laser cutter(s)/3d printer(s) running unattended.
 - Obvious large breaches of the SSP, such as viewing pornography at the space.
 - Modifying a tool marked as do not touch.
