@@ -45,6 +45,7 @@ These bans, in some cases, may be avoided by the member repairing/replacing the 
 - Damaging a tool accidentally and not reporting it via the member portal, trello, or email (issues@hsbne.org).
 - Leaving a battery charging on the power supplies unattended.
 - Causing HSBNE to breach any lease requirement not specifically covered in this schedule of bans.
+- Removing a green parking permit on an item, unless that item has gone through the full red ticket workflow and is being disposed of.
 
 ### Schedule 2: 1st - 2 weeks, 2nd - 1 month, 3rd - 3 month, N + 1 month or permanent.
 
