@@ -16,7 +16,7 @@ HSBNE requires that a member:
 
 - be responsible for any hazardous chemicals they bring on site, 
 - uses the chemicals in accordance with the instructions that come with it
-- cleans up any spills (but not by hosing the spilt chemical into the stormwater system)
+- cleans up any spills using a safe an appropriate measure and ensures the local environment (including any storm water drains) are not contaminated
 - removes those chemicals and any associated waste from the site on the same day.
 
 As a consequence of this directive, a member must be aware of:
