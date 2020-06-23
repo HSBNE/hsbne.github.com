@@ -12,7 +12,7 @@ Hazardous chemicals in their many forms are well recognised as a threat to the e
 
 For businesses, compliance with these directives and guidelines is a significant bureaucratic effort; business must track the storage and use of these chemicals as well as ensuring that staff are trained in the proper handling of them.   As a small voluntary organisation, HSBNE does not have the capacity to run such arrangements, even with the best of technology. Consequently, the organisation has decided that it has no other option than to place the onus for any compliance on the individual member.
 
-So, the executive has decided that, for hazardous chemicals, the best administrative approach for HSBNE is to formally require that a member:
+HSBNE requires that a member:
 
 - be responsible for any hazardous chemicals he/she brings on site, 
 - uses the chemicals in accordance with the instructions that come with it
