@@ -68,7 +68,7 @@ site procedures.
 ### Schedule 3: 1st - 3 months, 2nd - Permanent
 
 - Physical assault/abuse of another person.
-- Turning on a lathe with the chuck key installed in the chuck. (If you survive)
+- Turning on a lathe with the chuck key installed in the chuck, or using a tool/machine without appropriate guards in place (if you survive).
 - Defeating or bypassing any kind of interlocks on tools, whether factory or HSBNE installed, for the purpose of using the tool rather than as part of a repair process.
 - Accessing or attempting to access the site without exec approval during a ban.
 - Continuing to engage in activities onsite or online other than collecting stored items during a ban.
