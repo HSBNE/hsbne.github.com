@@ -1,5 +1,7 @@
 # HSBNE.org
 
+> Note: HSBNE's official policy is managed in this repo so push access is restricted. Only the [Website Approvers](https://github.com/orgs/HSBNE/teams/website-approvers/members) are able to approve pull requests. The `master` branch has a protection rule that disables direct pushing, all changes must be made through a pull request.
+
 ## Quick Reference
 
 This uses [Jekyll](http://jekyllrb.com) on [Github Pages](http://pages.github.com). 
