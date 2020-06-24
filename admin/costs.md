@@ -54,6 +54,16 @@ Meeting
 Anniversary Date
 :11/02/2014
 
+####Cleaning Service
+
+Cost:
+$250 monthly budget for contract cleaners to clean the common areas of site (Toilets, Classroom, Hallway, Lounge, Kitchen, Greenroom) 
+
+Meeting
+: 12/11/2019
+
+Re-engaged Cleantastic June 2020 to do bi-weekly 
+
 #### Maintenaince
 
 Cost
@@ -64,6 +74,13 @@ Meeting
 
 Anniversary Date
 :11/02/2014
+
+####First Aid budget
+
+: $600 annual budget for either refitting or replacing our first aid kits on a 3-6 monthly basis.
+
+Meeting
+: 12/11/2019
 
 ##### Notes
 
@@ -91,6 +108,7 @@ Anniversary Date
 * This service has an administration fee of $2.50 per bin.
 * The big bin costs $20 per pickup, or $40 if overweight.
 * The recycling bin costs $5.50 per pickup.
+* We have a bin from Substation 33 for e-waste collection
 
 ---
 
