@@ -64,6 +64,8 @@ site procedures.
 - Introducing a new type of hazardous material or dangerous good to the HSBNE site without approval.
 - Violating the “Site modifications and electrical work” policy
 - Failing to secure the site appropriately (ie lock everything up).
+- Modifying any part of HSBNE's core infrastructure without explicit, written approval from it's maintainer(s), or a vote at a general meeting. HSBNE core infrastructure includes (but is not limited to): servers, networking equipment, network cabling, interlocks and access control, any member kiosk, and the Zigbee network.
+	- For the purpose of this item, maintainers are defined as anyone who regularly performs work on the infrastructure item or that is listed on the Wiki page as a maintainer.
 
 ### Schedule 3: 1st - 3 months, 2nd - Permanent
 
