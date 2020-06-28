@@ -18,6 +18,6 @@ There are several forms of storage for members at HSBNE. The group [provides mem
 
 Parking projects is part of the HSBNE Ticket system.
 
-## External Storage
+## External Storage and Large Projects
 
-HSBNE does not allow any external storage of a project without going through the approval process as outlined by the Large Projects Policy.
+HSBNE does not allow any external storage of a project without going through the approval process as outlined by the [Large Projects Policy](/admin/largeprojects).
