@@ -560,16 +560,7 @@ layout: default
 28. #### Appointment of subcommittees
 
     1. Subcommitties as defined by the 'Cause' bylaws may be appointed.
-    2. Subcommittees not defined by the ‘Cause’ bylaws -
-		1. must be appointed by a vote at a general meeting.
-		2. must have specific goals or tasks that benefit the association.
-		3. may only be granted powers limited in scope to things reasonably necessary to complete their goals or tasks as defined in sub rule (2).
-		4. all proposed goals, tasks and powers must be proposed in writing prior to being appointed and may only be changed in the same way by a vote at a general meeting.
-		5. may have certain responsibilities such as completing certain tasks.
-		6. can only have a member added by a vote at a general meeting.
-		7. may have a member removed by a vote at a general meeting.
-		8. may have a member removed by the management committee if they are deemed to be acting contrary to the goals and tasks of the subcommittee, or against the best interests of the association.
-may be disbanded by a vote at a general meeting.
+    2. Subcommittees not defined by the ‘Cause’ bylaws are not allowed.
 
 
 29. #### Acts not affected by defects or disqualifications
