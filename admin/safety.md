@@ -13,6 +13,8 @@ Hard and fast, these are the ones with consequences. Please abide by them.
 
 1. If safety concerns are raised by another person, you must stop what you are doing, and agree upon reasonable safety measures before continuing.
 1. You may never utilise a tool marked for inductions without having attended and passed said induction.
+1. Do not modify a tool or machine outside of the manufacturer guidelines or in any way that may cause a safety hazard. This includes removing guards (unless you have a very good reason and reinstall them after), performing maintenance without consulting with the cause leader, or using a blade/disc too big for the tool.
+1. Anything that may become, or already is, a safety hazard must be reported to the appropriate person or group. This includes damaged tools/machines, unsafe electrical devices/installations, etc.
 1. No person at HSBNE shall work on any electrical project or installation with a voltage greater than ELV. (as defined by AS/NZS 60950.1:2003 as "a voltage not exceeding 42.4 V peak or 60 V d.c.") unless they are appropriately trained and licensed.
 1. No person may leave any hazardous items unattended in the space, such as but not limited to:
 	- Exposed wiring above ELV. (suicide cords, damaged tool cables etc)
