@@ -64,7 +64,7 @@ HSBNE recommends the wearing of masks, but at this stage does not require them.
 
 ### Closures and unavailable services
 
-* No Guests will be allowed onsite.
+* No guests are allowed onsite unless they have provided contact details via the member kiosk or sign in form.
 * No General Public will be allowed onsite.
 * Tuesday/Saturday Open Nights remain cancelled.
 * New member inductions will be by appointment.
