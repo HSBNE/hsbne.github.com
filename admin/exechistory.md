@@ -9,17 +9,42 @@ This is a record of the members who have donated their time to make HSBNE run su
 
 ## History
 
+### July 2020 > Now
+
+President
+: Joshua Hogendorn
+
+Vice President
+: David Bussenschutt
+
+Secretary
+: Emily Taylor
+
+Treasurer
+: Ian Haly
+
+Patron
+: David Seff
+
+### May 2019 > July 2020
+
 President
 : Alex Wixted
 
 Vice President
-: Craig Hudson-Taylor
+: Craig Hudson-Taylor (May 2019 > Jan 2020)
+
+Vice President
+: Joshua Hogendorn (Jan 2020 > July 2020)
 
 Secretary
-: Gabrielle Hewitt
+: Gabrielle Hewitt (May 2019 > Jan 2020)
+
+Secretary
+: Emily Taylor (Jan 2020 > July 2020)
 
 Treasurer 
-: Jaimyn Mayer
+: Ian Haly
 
 Patron
 : Aaron Bycroft
