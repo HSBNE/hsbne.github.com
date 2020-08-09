@@ -77,9 +77,8 @@ layout: default
         full member for the purposes of dues, but must complete other activities
         set by the executive, such as ( but not limited to ) induction, before
         their admission process is completed.
-    3.  Upon completed admission as a member, the new member will be given access to the following at the earliest possible convenience:
-	    1. Site access
-	    2. General member infrastructure such as discussion forums, online services, and anything else reasonably required for the purpose of being a member.
+    3.  Upon completed admission as a member, the new member will be issued with
+        an RFID entry card at the earliest possible convenience.
     4.  Users who do not complete their membership admission process within 30
         days, have no membership rights, and all prior payments are forfeit.
 
@@ -107,7 +106,9 @@ layout: default
         $30 per month for students and unemployed persons. When paid in-advance
         and for a minimum of 3 months at a time, it is $55 per calendar month
         for members who are employed.
-    6.  The management committee, may for the purposes of a promotion and/or event discount the membership fee for new members up to a maximum of 3 months.
+    6.  The management committee, may for the purposes of a promotion and/or
+        event discount the membership fee for new members up to 50% to a
+        maximum of 3 months.
 
 8.  #### Admission and rejection of new members
 
@@ -152,7 +153,7 @@ layout: default
             applicable by-laws such as the Code of Conduct, Safe Space Policy, 
             or Dispute Resolution Policy; or
         3.  has membership fees in arrears; or
-        4.  conducts themself in a way considered to be injurious or
+        4.  conducts himself or herself in a way considered to be injurious or
             prejudicial to the character or interests of the association.
 
     4.  Before the management committee terminates a members membership, the
@@ -171,7 +172,7 @@ layout: default
     1.  A person whose application for membership has been rejected, or whose
         membership has been terminated, must give the general membership written
         notice of the persons intention to appeal against the decision.
-    2.  A written notice of intention to appeal must be given within 7 days after the
+    2.  A notice of intention to appeal must be given within 7 days after the
         person receives written notice of the decision.
     3.  If the secretary receives a notice of intention to appeal via a public
         announcement, the secretary must, within 7 days after receiving the
@@ -357,7 +358,7 @@ layout: default
             taking a position on the management committee, and left to the general
             membership to decide any exceptions by a vote.
 
-        6. Must be fluent in the English language.
+        6. Must score 70% or better on an TOEIC test for english skills.
 
     3.  A candidate must be present at the annual general meeting to be
         nominated.
@@ -560,8 +561,8 @@ layout: default
 28. #### Appointment of subcommittees
 
     1. Subcommitties as defined by the 'Cause' bylaws may be appointed.
-    2. Subcommittees not defined by the ‘Cause’ bylaws are not allowed.
-
+    2. Subcommitties of types not defined by the 'Cause' bylaws may not be
+       appointed.
 
 29. #### Acts not affected by defects or disqualifications
 
@@ -655,11 +656,14 @@ layout: default
 
 36. #### Notice of general meeting
 
-    1.  General Meetings should happen at least twice per month and typically occur every second Tuesday.
+    1.  General Meetings happen every second Tuesday from the date of the last
+        AGM.
     2.  Any member may add to the agenda of a general meeting by raising the 
         agenda item on the official communications medium of the association
-    3.  Agenda items not requiring a vote have no notice period, and may be announced verbally during a meeting.
-	4. All agenda items requiring a vote, financial or otherwise, must be announced to the official communications medium of the association with 5 days notice.
+    3.  Non Financial agenda items have no notice period, and may be announced
+        verbally during a meeting.
+    5.  Financial agenda items must be announced to the official communications
+        medium of the association with 5 days notice.
 
     6.  Notice of the following meetings must be given in writing (
         email is acceptable) -
@@ -674,7 +678,14 @@ layout: default
         2.  a meeting called to hear and decide a proposed special resolution of
         the association.
 
-    7.  a General Meeting of the association may be called at any time by a member of the association with a written petition supported by at least 3 other members. This must be announced via the official communications medium of the association with 7 days notice
+    7.  A General Meeting of the association may be called outside of the
+        schedule defined by 36.1 by any member. Notice periods and methods
+        differ depending on the agenda -
+
+            1.  Non Financial agendas may be notified verbally or in writing,
+                and have no notice period.
+            2.  Financial agendas must be notified in writing to the official
+                communications medium of the group with 5 days notice.
 
     8.  A notice of a general meeting must state the business to be conducted at
         the meeting.
@@ -882,7 +893,6 @@ layout: default
         association.
     2.  A by-law may be set aside by a vote of members at a general meeting of
         the association.
-    3. The management committee, upon creating, amending or repealing by-laws, must notify the membership of the association via the official communications method of the group within 48 hours.
 
 44. #### Alteration of rules
 
