@@ -46,6 +46,7 @@ These bans, in some cases, may be avoided by the member repairing/replacing the 
 - Leaving a battery charging on the power supplies unattended.
 - Causing HSBNE to breach any lease requirement not specifically covered in this schedule of bans.
 - Removing a green parking permit on an item, unless that item has gone through the full red ticket workflow and is being disposed of.
+- Removing a red ticket on an item, unless all problems indicated by the ticket have been resolved and it is now being stored appropriately (ie removing a valid red ticket and not dealing with the problem).
 
 ### Schedule 2: 1st - 2 weeks, 2nd - 1 month, 3rd - 3 month, N + 1 month or permanent.
 
