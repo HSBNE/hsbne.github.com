@@ -15,7 +15,9 @@ One person speaks at a time. No person speaks for more than one minute when othe
  - It's important to thank members who are contributing to HSBNE as we wouldn't be where we are today without it. Take the time in a meeting to thank people for excellence at HSBNE.
  
 ## Site Sign In Register
-As soon as practical, once a member is on site they must swipe their access card at the quad door, or the front door to sign in. When a member leaves, they must also swipe their card at the quad door, or front door to sign out. This ensures we can keep better track of who is on site in case we need to evacuate and lets other people on site know someone has just arrived.
+As soon as practical, once a member is on site they must sign into the site. When a member leaves, they must also sign out of the site. To sign into or out of site, the green room kiosk must be used. If a technical problem prevents the kiosk from working, a member may use the paper sheet next to it to sign in/out.
+
+Access to HSBNE facilities may be restricted until a member has signed in.
 
 ## Lifetime Membership
 
