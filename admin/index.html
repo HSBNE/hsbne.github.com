@@ -8,10 +8,13 @@ published: true
 <div class="row">
   <div class="col-md-12">
     <p class="lead">
-      As a member run club, here you can find all the boring but necessary documentation. Meeting agendas, notes, mandates, policy are all here.
+      As a member run club, here you can find all the boring but necessary documentation.
     </p>
     <p>
       HSBNE Rules and Policies are in effect on site, and at any gathering using the HSBNE name to organise.
+    </p>
+    <p>
+      If you're looking for meeting minutes, they are [on our wiki](https://wiki.hsbne.org/meetings/home)
     </p>
   </div>
 </div>
@@ -73,21 +76,5 @@ published: true
     <h3><a href="/admin/exechistory.html">Executive History</a></h3>
     <p>The history of members who have dedicated their time to making HSBNE run.</p>
 
-  </div>
-	<div class="col-md-6">
-    <h3>Meetings</h3>
-    <p>Minutes of pre-2020 HSBNE meetings. <a href="https://wiki.hsbne.org/meetings/general/2020/home">2020 onwards is available here.</a></p>
-    <dl>
-      {% assign pages = site.pages | sort:'path'%}
-      {% for meeting in pages reversed %}
-        {% assign urlparts = meeting.url | split:'/' %}
-        {% capture route %}{% for part in urlparts limit:2 offset:1 %}{{ part }}{% endfor %}{% endcapture %}
-        {% if route == 'adminmeeting' %}
-          <dt><a href="{{ meeting.url }}">{{ meeting.date }}</a>
-          </dt>
-          <dd>{{ meeting.description }}</dd>
-        {% endif %}
-      {% endfor %}
-    </dl>
   </div>
 </div>
