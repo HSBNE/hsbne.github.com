@@ -39,36 +39,62 @@ A reasonable attempt to provide notice of a ban must made at least 48 hours prio
 
 These bans, in some cases, may be avoided by the member repairing/replacing the affected item. This is at the discretion of the executive. Membership balance will be considered suspended for the period of any ban. Refunds are at executive discretion.
 
-### Schedule 1: 1st - 1 week, 2nd - 2 weeks, 3rd - 1 month, N + 1 month or permanent.
+### Schedule 1 
+
+| First  | Second  | Third   | Ongoing                   |
+|--------|---------|---------|---------------------------|
+| 1 week | 2 weeks | 1 month | N + 1 month, or permanent |
 
 - Tool Abuse, as defined by damaging the tool for its intended purpose through any usage other than an accident.
-- Damaging a tool accidentally and not reporting it via the member portal, trello, or email (issues@hsbne.org).
+- Damaging a tool and not reporting it via the member portal, trello, or email (issues@hsbne.org).
 - Leaving a battery charging on the power supplies unattended.
 - Causing HSBNE to breach any lease requirement not specifically covered in this schedule of bans.
 - Removing a green parking permit on an item, unless that item has gone through the full red ticket workflow and is being disposed of.
 - Removing a red ticket on an item, unless all problems indicated by the ticket have been resolved and it is now being stored appropriately (ie removing a valid red ticket and not dealing with the problem).
 
-### Schedule 2: 1st - 2 weeks, 2nd - 1 month, 3rd - 3 month, N + 1 month or permanent.
+### Schedule 2
 
-- Using a tool that requires induction without being inducted.
-- Using a tool in a clearly unsafe manner. Eg: long hair unrestrained around lathe
-- Leaving any potentially exposed voltage above 48v. Eg:
-	- Crushed extension leads
-	- Suicide cords
-- Leaving any kind of blade running unattended. (exception: The horizontal metal bandsaw is a blade designed to run for long periods of time semi attended. You must remain in the same room (with short breaks for bathroom runs etc) while it runs.)
-- Leaving the laser cutter(s)/3d printer(s) running unattended.
-- Obvious large breaches of the SSP, such as viewing pornography at the space.
-- Modifying a tool marked as do not touch.
+| First   | Second  | Third    | Ongoing                   |
+|---------|---------|----------|---------------------------|
+| 2 weeks | 1 month | 3 months | N + 1 month, or permanent |
+
+#### General
 - Consuming Executive time with behaviour consistent with Unreasonable Complainant Conduct as defined by the Federal Ombudsman.
-- Using or storing a hazardous material or dangerous good in an unsafe manner / not in accordance with current
-site procedures.
-- Introducing a new type of hazardous material or dangerous good to the HSBNE site without approval.
-- Violating the “Site modifications and electrical work” policy
-- Failing to secure the site appropriately (ie lock everything up).
+- Obvious large breaches of the SSP, such as viewing pornography at the space.
 - Modifying any part of HSBNE's core infrastructure without explicit, written approval from it's maintainer(s), or a vote at a general meeting. HSBNE core infrastructure includes (but is not limited to): servers, networking equipment, network cabling, interlocks and access control, any member kiosk, and the Zigbee network.
 	- For the purpose of this item, maintainers are defined as anyone who regularly performs work on the infrastructure item or that is listed on the Wiki page as a maintainer.
 
-### Schedule 3: 1st - 3 months, 2nd - Permanent
+#### Chemicals / Materials 
+- Using or storing a hazardous material or dangerous good in an unsafe manner / not in accordance with current
+site procedures.
+- Introducing a new type of hazardous material or dangerous good to the HSBNE site without approval.
+
+#### Tool/Machine Use
+- Using a tool that requires induction without being inducted.
+- Using a tool in a clearly unsafe manner. Eg: long hair unrestrained around lathe
+- Leaving any kind of blade running unattended.
+  - exception: The horizontal metal bandsaw is a blade designed to run for long periods of time semi attended. You must remain in the same room (with short breaks for bathroom runs etc) while it runs.
+- Leaving machines unattended while operating, for example:
+  - the laser cutters
+  -	3d printers
+- Modifying any HSBNE tool or machine without prior written consent from the cause leader or executive
+- Performing 'silent maintenance', ie performing work on a machine or tool without reporting it or documenting it.
+- Abandoning maintenance by starting a repair and not either officially handing it over or completing it. 
+- Operating a repair in an unreasonable fashion, such as removing parts and not storing them safely, losing parts, etc.
+- Failing to secure the site appropriately (ie lock everything up).
+
+#### Electrical
+- Violating the “Site modifications and electrical work” policy
+- Leaving any potentially exposed voltage above 48v. Eg:
+	- Crushed extension leads
+	- Suicide cords
+- [Performing 'fractal burning' or 'lichtenburg' experiments](https://www.woodturner.org/Woodturner/Resources/Safety-Materials/Safety-Fractal-Burning-Lichtenburg-Burning.aspx).
+
+### Schedule 3
+
+| First    | Second    |
+|----------|-----------|
+| 3 months | Permanent |
 
 - Physical assault/abuse of another person.
 - Turning on a lathe with the chuck key installed in the chuck, or using a tool/machine without appropriate guards in place (if you survive).
