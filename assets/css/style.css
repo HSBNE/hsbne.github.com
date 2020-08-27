@@ -93,6 +93,7 @@ hr {
     background: #333;
     text-transform: uppercase;
     width: 100%;
+    min-height: 50px;
 }
 
 .navbar-custom .navbar-brand {
@@ -677,6 +678,7 @@ a:focus,
     color: #FFFDE7;
     padding: 20px 0;
     text-align: center;
+    min-height: 115px;
 }
 
 #footer a {
@@ -787,4 +789,8 @@ a:focus {
     margin: 0.5em;
 	background-color: #ccc;
 
+}
+
+#body {
+    min-height: calc(100vh - 166px);
 }
