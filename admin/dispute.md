@@ -13,7 +13,9 @@ When you see a member doing something thats not excellent, you're obliged to iss
 
 Anyone can issue a ding to anyone, and theres no penalty for being dinged. Take it as constructive criticism.
 
-If you want to issue a ding, post in the forum thread and provide evidence of the claim. Posting anywhere else is not valid, and if you have no evidence your ding may not be worthwhile. (You can still post anyway, it just may not have much weight). You can ding someone anonymously when you don't know who it was. You cannot ding someone as an anonymous person.
+If you want to issue a ding, post in the forum thread and provide evidence of the claim. Posting anywhere else is not valid, and if you have no evidence your ding may not be worthwhile. You can still issue one anyway, it just may not have much weight. You cannot ding someone as an anonymous person (to be clear, this includes on behalf of someone else). However, you can still issue a ding when you don't know who committed the not excellent behaviour (e.g. "I ding the person who left this mess here but I don't know who it was.").
+
+Dings should be issued as soon as possible after the not excellent behaviour happened otherwise they become less useful. You cannot issue a ding if the behaviour occured more than 7 days ago. However, if it was not possible to ding someone within 7 days of the behaviour occuring (for example, evidence was only discovered 10 days after the behaviour occured), then you may still ding someone.
 
 When posting a ding, please try and keep the tone as positive as possible. It's not a space to attack people, just to make a record of things happening and to gently remind the correct behaviour. Feel free to use this template:
 
@@ -45,12 +47,18 @@ These bans, in some cases, may be avoided by the member repairing/replacing the 
 |--------|---------|---------|---------------------------|
 | 1 week | 2 weeks | 1 month | N + 1 month, or permanent |
 
+#### General
 - Tool Abuse, as defined by damaging the tool for its intended purpose through any usage other than an accident.
 - Damaging a tool and not reporting it via the member portal, trello, or email (issues@hsbne.org).
 - Leaving a battery charging on the power supplies unattended.
 - Causing HSBNE to breach any lease requirement not specifically covered in this schedule of bans.
 - Removing a green parking permit on an item, unless that item has gone through the full red ticket workflow and is being disposed of.
 - Removing a red ticket on an item, unless all problems indicated by the ticket have been resolved and it is now being stored appropriately (ie removing a valid red ticket and not dealing with the problem).
+
+#### Dings
+This sort of behaviour can undermine the effectiveness and usefulness of the ding policy:
+- Issuing a retaliatory ding against someone after they dinged you (or did something similar such as reporting you to the exec etc) where it is obvious that person would not have received the ding otherwise. 
+- Knowingly issuing a ding based on facts that cannot be substantiated or for the purpose of causing harm or embarrassment.
 
 ### Schedule 2
 
@@ -61,8 +69,9 @@ These bans, in some cases, may be avoided by the member repairing/replacing the 
 #### General
 - Consuming Executive time with behaviour consistent with Unreasonable Complainant Conduct as defined by the Federal Ombudsman.
 - Obvious large breaches of the SSP, such as viewing pornography at the space.
-- Modifying any part of HSBNE's core infrastructure without explicit, written approval from it's maintainer(s), or a vote at a general meeting. HSBNE core infrastructure includes (but is not limited to): servers, networking equipment, network cabling, interlocks and access control, any member kiosk, and the Zigbee network.
+- Modifying any part of HSBNE's core infrastructure without explicit, written approval from it's maintainer(s), or a vote at a general meeting.
 	- For the purpose of this item, maintainers are defined as anyone who regularly performs work on the infrastructure item or that is listed on the Wiki page as a maintainer.
+	- For the purpose of this item, HSBNE core infrastructure is the list of equipment maintained by the infrastructure cause that require supervision.
 
 #### Chemicals / Materials 
 - Using or storing a hazardous material or dangerous good in an unsafe manner / not in accordance with current
