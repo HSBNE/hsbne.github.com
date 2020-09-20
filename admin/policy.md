@@ -27,7 +27,7 @@ Access to HSBNE facilities may be restricted until a member has signed in.
 ## Parking
 HSBNE only has exclusive use of designated areas of the site. All other areas, including the quad, are a designated shared space with other tenants. This means HSBNE members are not allowed to park their vehicles in these shared spaces. However, members are allowed to use these areas as a loading zone to assist with loading and unloading items from their vehicles. To avoid ambiguity, the time limit for loading and unloading items from a vehicle is set at 20 minutes.
 
-HSBNE encourages members to use the designated general parking spaces at the rear of the Men's Shed building, or our overflow parking in the Eat St carpark. Members can open the Eat St carpark gate in the same way as our main access gate.
+HSBNE requires that members use the designated parking spaces (at the rear of the Men's Shed building, or our overflow parking in the Eat St carpark) at all times. Members can open the Eat St carpark gate in the same way as our main access gate.
 
 ## EV Charging
 HSBNE would like to encourage the uptake of EVs (Electric Vehicles) as they have many clear environmental benefits. HSBNE has multiple members who are EV owners, or in the process of converting a vehicle to electric. There is also a good overlap between EV owners and the demographic/type of person who would be interested in joining HSBNE. By offering free EV charging to members, this is yet another incentive for people to become members of HSBNE.
