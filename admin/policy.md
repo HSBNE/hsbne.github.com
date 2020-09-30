@@ -31,6 +31,11 @@ HSBNE members may charge their EVs at HSBNE while they are on site using HSBNE f
 
 For future reference, a typical EV costs no more than about 20-35c / hour to charge on a standard electrical outlet. The average member is only on site a few times per month so the total cost to HSBNE is quite insignificant when compared to lighting and tool/machine use. In fact, a single member on site with say the green room and metalshop lights on, and ocassional machine use would use a similar amount of power to an EV charging.
 
+## Parking
+HSBNE only has exclusive use of designated areas of the site. All other areas, including the quad, are a designated shared space with other tenants. This means HSBNE members are not allowed to park their vehicles in these shared spaces. However, members are allowed to use these areas as a loading zone to assist with loading and unloading items from their vehicles. To avoid ambiguity, the time limit for loading and unloading items from a vehicle is set at 20 minutes.
+
+HSBNE requires that members use the designated parking spaces (at the rear of the Men's Shed building, or our overflow parking in the Eat St carpark) at all times. Members can open the Eat St carpark gate in the same way as our main access gate.
+
 ## Parking and EV Charging Map
 ![](/assets/img/hsbne%20map%20medium.png)
 
