@@ -12,6 +12,17 @@ Hazardous chemicals in their many forms are well recognised as a threat to the e
 
 For businesses, compliance with these directives and guidelines is a significant bureaucratic effort; business must track the storage and use of these chemicals as well as ensuring that staff are trained in the proper handling of them.   As a small voluntary organisation, HSBNE does not have the capacity to run such arrangements, even with the best of technology. Consequently, the organisation has decided that it has no other option than to place the onus for any compliance on the individual member.
 
+### Definition of Hazardous Chemicals for this policy
+     
+
+A hazardous chemical is defined as a substance, mixture or article that satisfies the criteria for a hazard class in the GHS published by the United Nations. They may have health hazards, physical hazards or both.
+
+A quick test to see if a chemical is considered hazardous, is to look for a GHS pictogram. The latest list is available on the United Nations website [here](http://www.unece.org/trans/danger/publi/ghs/pictograms.html), and a snapshot of current ones is below.
+
+![](pictograms.png)
+
+### Hazardous Chemical Policy
+
 HSBNE requires that a member:
 
 - be responsible for any hazardous chemicals they bring on site, 
