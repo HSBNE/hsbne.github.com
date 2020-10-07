@@ -44,3 +44,15 @@ At the end of the job, the member must:
 
 - gather up any remaining chemical for removal offsite that day to a location of the member’s choosing.
 - collect any waste generated in a suitable container again for removal off-site but to a resource recovery centre with facilities to handle that chemical.
+
+### Cause Maintained Chemicals
+If a cause has decided they would like to keep a hazardous chemical onsite that would otherwise be prohibited by this policy, they may do so provided:
+
+- it is stored safely and appropriately according to the manufacturer guidelines and industry best practices
+- the storage of the hazardous chemical on site does not pose an unreasonable risk to the health and safety of members
+- the cause maintains an official wiki page with a list of the chemicals they keep on site
+- any relevant MSDS documents are stored in the cause's official MSDS binder
+- any relevant usage instructions are stored in the cause's official equipment binder and documented on the wiki
+- all appropriate PPE and cleanup materials are available nearby
+
+This does not remove the liability that an individual member has when using that hazardous chemical to follow this policy. Members must still follow all other requirements of this policy including minimising the chance of spills, ensure waste is captured and disposed of, etc.
