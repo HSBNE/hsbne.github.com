@@ -61,8 +61,11 @@ These bans, in some cases, may be avoided by the member repairing/replacing the 
 #### General
 - Consuming Executive time with behaviour consistent with Unreasonable Complainant Conduct as defined by the Federal Ombudsman.
 - Obvious large breaches of the SSP, such as viewing pornography at the space.
+- Excessive rules-lawyering, having fights via the dings system and similar.
 - Modifying any part of HSBNE's core infrastructure without explicit, written approval from it's maintainer(s), or a vote at a general meeting. HSBNE core infrastructure includes (but is not limited to): servers, networking equipment, network cabling, interlocks and access control, any member kiosk, and the Zigbee network.
 	- For the purpose of this item, maintainers are defined as anyone who regularly performs work on the infrastructure item or that is listed on the Wiki page as a maintainer.
+- Accessing the site without signing in using the kiosk or paper register
+- Accessing the site and working on personal projects when not paid up as a member
 
 #### Chemicals / Materials 
 - Using or storing a hazardous material or dangerous good in an unsafe manner / not in accordance with current
@@ -82,6 +85,8 @@ site procedures.
 - Abandoning maintenance by starting a repair and not either officially handing it over or completing it. 
 - Operating a repair in an unreasonable fashion, such as removing parts and not storing them safely, losing parts, etc.
 - Failing to secure the site appropriately (ie lock everything up).
+- Swiping on a tool for the purpose of allowing another person to use the tool, where that person cannot be reasonably be interpreted as your guest under the guest policy.
+- Failing to use PPE that is marked as mandatory on the wiki for a tool or an area.
 
 #### Electrical
 - Violating the “Site modifications and electrical work” policy
@@ -101,3 +106,7 @@ site procedures.
 - Defeating or bypassing any kind of interlocks on tools, whether factory or HSBNE installed, for the purpose of using the tool rather than as part of a repair process.
 - Accessing or attempting to access the site without exec approval during a ban.
 - Continuing to engage in activities onsite or online other than collecting stored items during a ban.
+- Damaging HSBNE machines, tools, infrastructure to the extent where they require total replacement.
+- Attempting to cover up, hide or obfuscate an incident.
+- Circumventing any required induction.
+- Creating/Modifying HSBNE policy specifically to attack or retaliate to a member. Any kind of involvement of the HSBNE rules/policy (via modification etc) into a dispute between members.
