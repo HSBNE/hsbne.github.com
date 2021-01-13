@@ -66,6 +66,9 @@ These bans, in some cases, may be avoided by the member repairing/replacing the 
 	- For the purpose of this item, maintainers are defined as anyone who regularly performs work on the infrastructure item or that is listed on the Wiki page as a maintainer.
 - Accessing the site without signing in using the kiosk or paper register
 - Accessing the site and working on personal projects when not paid up as a member
+- Creating/Modifying HSBNE policy specifically to attack or retaliate to a member. Any kind of involvement of the HSBNE rules/policy (via modification etc) into a dispute between members.
+- Circumventing any required induction.
+
 
 #### Chemicals / Materials 
 - Using or storing a hazardous material or dangerous good in an unsafe manner / not in accordance with current
@@ -85,7 +88,7 @@ site procedures.
 - Abandoning maintenance by starting a repair and not either officially handing it over or completing it. 
 - Operating a repair in an unreasonable fashion, such as removing parts and not storing them safely, losing parts, etc.
 - Failing to secure the site appropriately (ie lock everything up).
-- Swiping on a tool for the purpose of allowing another person to use the tool, where that person cannot be reasonably be interpreted as your guest under the guest policy.
+- Swiping on a tool for the purpose of allowing another person to use the tool, where that person cannot be reasonably be interpreted as your guest under the guest policy, or for approved supervised use.
 - Failing to use PPE that is marked as mandatory on the wiki for a tool or an area.
 
 #### Electrical
@@ -108,5 +111,3 @@ site procedures.
 - Continuing to engage in activities onsite or online other than collecting stored items during a ban.
 - Damaging HSBNE machines, tools, infrastructure to the extent where they require total replacement.
 - Attempting to cover up, hide or obfuscate an incident.
-- Circumventing any required induction.
-- Creating/Modifying HSBNE policy specifically to attack or retaliate to a member. Any kind of involvement of the HSBNE rules/policy (via modification etc) into a dispute between members.
