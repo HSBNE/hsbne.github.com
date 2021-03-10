@@ -10,8 +10,17 @@ HSBNE Inc. has certain restrictions that apply at our current property. This pol
 
 * Any references made to **“site”**, **“on site”**, etc. refer to the HSBNE porthack campus located in Hamilton.
 * **Site modification** - is any alteration to walls, doors, fixtures, or any other part of our site that is permanent or cannot be easily reversed by any member.
+* **Area Downtime** - any modification to a HSBNE area (such as a cause area or other) that prevents a member from temporarily using any part of the area.
 * **Site Manager** - is someone who has been appointed by the landlord to act on behalf of them to help manage or maintain the site.
 * **Written notice** - a formal notice that can be delivered via email, discord or in person.
+
+# Area Downtime
+HSBNE Members expect that the site is available for use 24/7 as explained during their induction and on our website. This policy aims to avoid the dissapointment of showing up on site to find an area that is unable to be used. This is especially important for members who have to travel far to get to HSBNE or who make special arrangements/plans.
+
+* Members must be notified in writing of all changes to an area of HSBNE that may, or will, cause Area Downtime.
+* Other than in exceptional circumstances, at least 48 hours prior notice is required for Area Downtime notifications.
+* Members must be notified via the official communication method of the association of all unexpected or prolonged Area Downtime immediately (ie as soon as it's found out that Area Downtime is happening or will be extended).
+* All changes to an area of HSBNE that may, or will, cause Area Downtime should be planned to happen during times of low site use where reasonably practical, taking into account volunteer availability.
 
 # Site Modifications
 * All site modifications must be authorised.
