@@ -317,8 +317,11 @@ layout: default
         nomination, for re-election.
     4.  A member of the association may be appointed to a casual vacancy on the
         management committee under rule 21
-    5.  A member may not hold the same position on the management committee for
-        more than 2 consecutive full terms, where a term is agm to agm.
+    5.  A member may not hold the same position on the management committee for 
+	more than 2 consecutive full terms, where a term is agm to agm. A part 
+	term where a member who does not currently hold a position on the management
+	committee fills a vacancy as per section 22, does not count towards 
+	this requirement.
 
 20. #### Electing the management committee
 
