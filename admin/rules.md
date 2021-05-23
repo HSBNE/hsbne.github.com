@@ -290,6 +290,8 @@ layout: default
 
     1.  Participating in management committee meetings as the 'long memory' of
         the association.
+    2.  Landlord stand in; The Patron shall do a weekly (if possible) walk around the premises to identify any potential safety hazzards or violations and post them to the membership to get rectified before it becomes an issue with the property manager. 
+    3.  Manage donations being made to HSBNE. 
 
     It is strongly encouraged that the Patron will be a member whom -
 
