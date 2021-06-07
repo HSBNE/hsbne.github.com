@@ -67,26 +67,14 @@ Team volunteers may also be ejected by vote at general meeting or by vote of exe
 
 An example volunteer contract might be something like the following, however they should be written for each person.
 
-This example is wide ranging on purpose, and is 'too much', it is an example. Volunteers should
+https://docs.google.com/document/d/1zJwzdScFOEzIfZ4Gb_F_kzXrW6uZC1Qj0p-VpfwShz8/edit
+
+Please use this template to make team contracts. Team members (volunteers) sign their contract with them and their team leader,
+Team leaders sign their contract with the executive.
+
+This template is wide ranging on purpose, and is 'too much', it is an example. Volunteers should
 be given extremely reasonable workloads from a few hours a month up to whatever they're comfortable
 with.
-
-> I, ____________ of ____________ am committing to a volunteer role in the ___________ team.
-> As a member of this team, my responsibilities to be seen as an active, participating volunteer are:
->   * Attending at least every third meeting.
->   * Attending at least one working bee a quarter, if held.
->   * Completing tasks as delegated to me by the team in the task tracking system.
->
-> My specific responsibilities as a volunteer in this team are:
->   * Keeping the team area consumables stocked by performing stocktake once a month
->   * Maintaining **MACHINE** and ensuring it has no unreasonable downtime
->   * Running regular inductions on **MACHINE A** and **MACHINE B**
->   * Cleaning the shop once a fortnight
->   * To work on **Project X** and produce a monthly report detailing progress
->   * To perform the maintenance on all machines detailed in the wiki as 'weekly'
->
-> Signed: ___________ on __ / __ / __
-> Accepted: Meeting of team on __ / __ / __
 
 ## Team Leaders
 
