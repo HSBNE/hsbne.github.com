@@ -111,3 +111,4 @@ site procedures.
 - Continuing to engage in activities onsite or online other than collecting stored items during a ban.
 - Damaging HSBNE machines, tools, infrastructure to the extent where they require total replacement.
 - Attempting to cover up, hide or obfuscate an incident.
+- Making legal or other threats in an attempt to coerce, intimidate, or act in bad faith towards HSBNE or any member acting in the interest of HSBNE.
