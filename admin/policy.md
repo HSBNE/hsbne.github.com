@@ -24,6 +24,12 @@ As soon as practical, once a member is on site they must sign into the site. Whe
 
 Access to HSBNE facilities may be restricted until a member has signed in.
 
+## Miscellaneous rules regarding executive functions
+As per Section 23 (1) of our constitution, while executing their powers, the executive committee are subject to resolutions of the association carried at a general meeting. This section collects these various resolutions.
+
+### Entering into debt or significant monetary obligations
+The executive committee must not allow the organisation to take on any sort of debt, loan, line of credit, or similar obligation, with a total value of more than $2,000, without securing approval from the association in the form of a special resolution at a general meeting. This resolution must include all details of the proposal to be valid, including interest rates, terms and conditions, repayment timeframes and amounts, etc. This policy does not prevent the executive committee from entering into a payment plan or layby where it may be cancelled, and the full amount refunded at any time.
+
 ## EV Charging
 HSBNE would like to encourage the uptake of EVs (Electric Vehicles) as they have many clear environmental benefits. HSBNE has multiple members who are EV owners, or in the process of converting a vehicle to electric. There is also a good overlap between EV owners and the demographic/type of person who would be interested in joining HSBNE. By offering free EV charging to members, this is yet another incentive for people to become members of HSBNE.
 
