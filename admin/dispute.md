@@ -96,7 +96,7 @@ site procedures.
 - Leaving any potentially exposed voltage above 48v. Eg:
 	- Crushed extension leads
 	- Suicide cords
-- [Performing 'fractal burning' or 'lichtenburg' experiments](https://www.woodturner.org/Woodturner/Resources/Safety-Materials/Safety-Fractal-Burning-Lichtenburg-Burning.aspx).
+- [Performing 'fractal burning' or 'lichtenburg' experiments](https://www.woodturner.org/Woodturner/Resources/Safety-Materials/Safety-Fractal-Burning-Lichtenburg-Burning.aspx). [NSFW NSFL Story of Lichtenburg gone wrong](http://www.melissaistrong.com/how-quickly-life-changes.html)
 
 ### Schedule 3
 
