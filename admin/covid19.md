@@ -17,8 +17,7 @@ to keep them up to date.
 ### Social Distancing
 
 * Maintain Social Distancing, 1.5m or 6' from each other
-* The site limit will be dictated by government policy, and is currently
-set as 20 people on the site.
+* The site limit will be dictated by government policy
 * Each room/space at HSBNE will have a poster on its door showing the
 max capacity of that room, do not exceed this limit at any time.
 * Minimise physical contact
@@ -32,7 +31,7 @@ site for any reason.
 
 ### Hygeine Practices
 
-* Professional cleaners will be coming onsite biweekly.
+* Professional cleaners will be coming onsite weekly.
 * Members are required to wash hands when:
 	* Entering the site
 	* Before/After eating
@@ -60,16 +59,15 @@ notice will be doomshelved/binned.
 
 ### PPE
 
-HSBNE recommends the wearing of masks, but at this stage does not require them.
+HSBNE recommends the wearing of masks, and will require them as dictated by
+current government guidelines.
 
-### Closures and unavailable services
+### Guests and the Public
 
-* No guests are allowed onsite unless they have provided contact details via the member kiosk or sign in form.
-* No General Public will be allowed onsite.
-* Tuesday/Saturday Open Nights remain cancelled.
-* New member inductions will be by appointment.
-* Some areas will be closed and unavailable:
-	* The kitchen will be closed for all food preparation and storage
-	* The 'games room' will be utilised for overflow storage from implementing
-	social distancing furniture layouts and will be closed.
-	* The boneyard will remain closed.
+* Guests and the Public (tours etc) are required to use the QLD Covid app to check in.
+* We still require guests of members to sign in with the member kiosk or sign in form.
+
+### Events, Open Nights
+
+The site continues to operate normally when allowed by govt policy. Open nights/days and
+working bees etc will continue.
