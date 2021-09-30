@@ -328,11 +328,12 @@ layout: default
             candidate) to serve as a member of the management committee;
         2.  the nomination must be made
 
-            1.  at the annual general meeting or
+            1.  at the annual general meeting; or
             2.  at a meeting specially convened to replace a departing committee
                 member.
-
-        3.  each member of the association present and eligible to vote at the
+        3. before a nomination can be accepted, the candidate must disclose if they have been issued an infraction or ban by the executive committee within the last 10 years;
+        2. if the candidate has made a disclosure under section (3) above, they must also disclose each infraction or ban that they received, and the nature of it;
+        4.  each member of the association present and eligible to vote at the
         annual general meeting may vote for 1 candidate for each vacant position
         on the management committee;
 
