@@ -71,7 +71,7 @@ current government guidelines.
 
 ### Contact Tracing
 
-* Members must check in with the QLD Covid app.
+* Members must check in, either by the Kiosk or with the QLD Covid app.
 * Guests and the Public (tours etc) are required to use the QLD Covid app to check in.
 * We still require guests of members to sign in with the member kiosk or sign in form.
 
