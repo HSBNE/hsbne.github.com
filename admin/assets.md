@@ -12,8 +12,8 @@ and safety reasons.
 
 ## Human Version
 
-* Assets need to be 
-  * Documented in the wiki, 
+* Assets need to be
+  * Documented in the wiki,
   * Be tested and tagged
   * In the asset register
 * Don't throw broken things in the bin, they need to go through end-of-lifecycle so we can
@@ -21,6 +21,12 @@ and safety reasons.
 * When we sell things, it has to go to a vote where we decide the price, where the proceeds
   go, etc.
 * Once sold, all money has to go through the treasurer to be properly accounted.
+* Donations have to be accepted or rejected by executive or team leads.
+* Members must wait for explicit rejection to claim donations.
+* The person accepting a donation is responsible for the item. That means they have to follow
+  through and get it working, installed, WAD etc. (Or find someone who will).
+* Loaned items need to have an agreement signed so that everyone is clear on expectations.
+* Loaned items may be considered abandoned if the owner becomes uncontactable.
 
 ## Rules Version
 
@@ -90,4 +96,52 @@ and safety reasons.
     5. Section 92(3)
         1. This policy is overridden by the section of the rules relating to Section 92(3) of the Act
 
+3. #### Donated Assets
 
+    1. Donations are accepted by executive or team leads
+    2. The person who accepts the donation is responsible for (in a timely fashion)
+        1. Getting approval for and using appropriate storage
+        2. Bringing the donation to the HSBNE standard in this policy and/or;
+        3. Selling the donation
+    3. Donations should be assessed before being brought to site
+    4. Donations that are not approved, or are abandoned on site will be processed as garbage
+    5. Donations are explicitly accepted or rejected by the organisation
+        1. Where it rejects the donation, It may be made available to members
+        2. Members may not personally claim a donation untill it has been rejected by HSBNE
+    6. Donations must be recorded in the asset register as such, and detail who made the donation
+
+4. #### Loaned Assets
+
+    1. Loans are accepted by executive or team leads
+    2. Loans can only be accepted with the signing of a loan agreement
+        1. Loaned items predating this policy have 3 months from policy acceptance to sign a loan agreement
+            1. Past this deadline disposal may be attempted
+        2. A loan agreement must state at minimum:
+            1. The party responsible for costs for each: running, upkeep, accessories, consumables, and repairs
+            2. The party responsible for making for each: repairs, alterations, modifications
+            3. Any events or actions requiring consultation with the owner
+            4. The expectations in the event of damage or loss of the item
+            5. The term of the loan
+            6. The process should the owner abandon the item onsite
+                1. The specific terms of what constitutes abandoned, such as minimum contact effort and
+                   timeline
+            6. Any further expectations as decided at the time
+        3. Where a loan agreement is unclear or does not state terms, the defaults are:
+            1. Owner accepts that loaned items are 'at risk' in a shared environment
+                1. In the event of damage or loss, HSBNE does not guarantee any action
+                2. In the event of repair/alteration/modification, HSBNE is not required to act
+            2. HSBNE is responsible for running, upkeep and consumable cost
+            3. HSBNE may choose to pay for accessories and repairs, but is not liable.
+            4. HSBNE assumes it may repair or modify the item as reasonable
+            5. HSBNE will make reasonable effort to notify owner prior to any irreversable actions
+            6. Loans are assumed indefinite, ie without end date
+            7. 1 month notification for removal by owner is required
+            8. Loaned items are considered abandoned to HSBNE if the owner is uncontactable
+                1. Uncontactable is defined as no response over a 3 month period
+                    to at least 6 of each: phone, email, sms. (ie fortnightly attempts)
+                2. This applies only when item action must be taken, and is not a 'hearbeat'
+                3. Contact attempts will be recorded as maintenance events in asset register.
+        4. The loan agreement will be signed, dated and uploaded as a pdf to the asset register
+    3. Loaned assets must be recorded in the asset register, and detail the owner with contact details
+    4. Loaned assets cannot be sold; unless:
+    5. Loaned assets become HSBNE property if abandoned and fall under the rest of this policy
