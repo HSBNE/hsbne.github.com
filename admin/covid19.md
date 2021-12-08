@@ -6,17 +6,24 @@ layout: default
 # HSBNE's COVID19 Plan
 
 HSBNE is affected by COVID19 restrictions like any other
-organisation. When we are able to have the site open, this
-document outlines the guidelines and risk management procedures
+organisation. This document outlines the guidelines and risk management procedures
 we have put in place and expect all members to follow.
 
 As the situation can change rapidly, this policy will be updated
 by the exec as necessary and when changed will be emailed to members
 to keep them up to date.
+### Vaccination Requirements
+
+As per the QLD Government's
+[directions](https://www.health.qld.gov.au/system-governance/legislation/cho-public-health-directions-under-expanded-public-health-act-powers/public-health-and-social-measures-linked-to-vaccination-status-direction),
+HSBNE as a Community Group in Schedule 1B is not required to check the vaccination status
+of entrants to the facility. Persons on site are directed to continue
+with social distancing.
 
 ### Social Distancing
 
-* Maintain Social Distancing, 1.5m or 6' from each other
+* Maintain Social Distancing, according to current government regulations.
+  * Currently: 1 person per 2 square meters
 * The site limit will be dictated by government policy
 * Each room/space at HSBNE will have a poster on its door showing the
 max capacity of that room, do not exceed this limit at any time.
@@ -62,8 +69,9 @@ notice will be doomshelved/binned.
 HSBNE recommends the wearing of masks, and will require them as dictated by
 current government guidelines.
 
-### Guests and the Public
+### Contact Tracing
 
+* Members must check in with the QLD Covid app.
 * Guests and the Public (tours etc) are required to use the QLD Covid app to check in.
 * We still require guests of members to sign in with the member kiosk or sign in form.
 
