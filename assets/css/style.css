@@ -794,3 +794,28 @@ a:focus {
 #body {
     min-height: calc(100vh - 166px);
 }
+
+/* *** Reference Formatting *** */
+
+.references {
+    border-top: 1pt solid #c6c6c6;
+    border-bottom: 1pt solid #c6c6c6;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+.references p {
+    margin: 0px;
+}
+.reference {
+    vertical-align: super;
+    font-size: 0.5em;
+    color: #c6c6c6;
+}
+.references .reference, .references .reference a {
+    font-size: 6pt !important;
+    color: #c6c6c6 !important;
+}
+
+/* *** *** */
