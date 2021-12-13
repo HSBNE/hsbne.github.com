@@ -9,14 +9,6 @@ function main() {
                 social_tools: false,
                 overlay_gallery: true
             });
-            /* For now we're only using references on the "thespace" page. If we want to broaden the scope
-               of this functionality, this code might be better suited in main.js - JD 12/2021
-            */
-            $('.reference').click(function(e) {
-                if ($(this).closest('.references').length == 0) {
-                    e.stopPropagation();
-                }
-            });
         });
     }());
 
