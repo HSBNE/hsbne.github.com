@@ -1,11 +1,10 @@
+
 function main() {
 
     (function() {
         'use strict';
 
-
-
-        // Preloader */
+        // Preloader
         $(window).load(function() {
 
             // will first fade out the loading animation 
@@ -84,8 +83,6 @@ function main() {
             });
 
         });
-
-
 
         // jQuery Parallax
         function initParallax() {
