@@ -754,8 +754,7 @@ a:focus {
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active,
-.accordion:hover {
+.active, .accordion:hover {
     background-color: #ccc;
 }
 
@@ -769,7 +768,6 @@ a:focus {
 
 .happeningstream img {
 	padding-bottom: 1em;
-
 }
 
 .col #h5 {
@@ -803,4 +801,7 @@ a:focus {
 }
 i.fa {
     margin-right: 10px;
+}
+#page-top hr {
+    margin-top: 40px;
 }
