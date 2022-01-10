@@ -9,8 +9,6 @@ function main() {
                 social_tools: false,
                 overlay_gallery: true
             });
-
-            
         });
     }());
 
