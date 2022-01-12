@@ -20,6 +20,10 @@ Items can be added, removed, modified on the access register at any time by exec
 
 Some systems may have distinct levels of access which should be recorded as appropriate.
 
+### Sub Policy for specific resources:
+
+* [Google HSBNE Accounts](access-gsuite.html)
+
 ### Notification
 
 When a person is given access to a restricted resource they will be notified. When a person has restricted access removed, they will be notified which will include a reason for that removal. Notification may take any form, such as verbal or written.
