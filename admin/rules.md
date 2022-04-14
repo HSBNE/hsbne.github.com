@@ -315,8 +315,10 @@ layout: default
     3.  At each annual general meeting of the association, the members of the
         management committee agree to retire from office at a date no more than 
 	two months after the AGM.
-	During this time the outgoing management committee members will hand over 
-	policies and procedures as necessary to train the incoming executive.
+	During this time the outgoing management committee members will:
+		1. Ensure there is documentation for the new executive to follow to perform their tasks,
+		2. Train the new management committee on the processess of the role,
+		3. Ensure all legal documents and commitments are transfered appropriately.
     4.  A member of the association may be appointed to a casual vacancy on the
         management committee under rule 21
     5.  A member may not hold the same position on the management committee for
