@@ -313,8 +313,10 @@ layout: default
     2.  A member of the management committee must be a fully paid member of the
         association.
     3.  At each annual general meeting of the association, the members of the
-        management committee must retire from office, but are eligible, on
-        nomination, for re-election.
+        management committee agree to retire from office at a date no more than 
+	two months after the AGM.
+	During this time the outgoing management committee members will hand over 
+	policies and procedures as necessary to train the incoming executive.
     4.  A member of the association may be appointed to a casual vacancy on the
         management committee under rule 21
     5.  A member may not hold the same position on the management committee for
