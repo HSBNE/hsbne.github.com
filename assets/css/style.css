@@ -513,9 +513,37 @@ img.img-thumbnail.team-img {
     color: #777;
 }
 
+
+#links .thumbnail {
+  border: none;
+}
+#links .thumbnail h3 {
+  text-align: center;
+}
+#links .thumbnail .caption p {
+  font-size: 0.8em;
+  text-align: center;
+}
+#links .thumbnail .image{
+    position:relative;
+    overflow:hidden;
+    padding-bottom:100%;
+}
+#links .thumbnail .image img{
+      position: absolute;
+      max-width: 100%;
+      max-height: 100%;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%);
+}
+
 /* sponsors Section */
 #sponsors {
+    /* 
+     * This image never existed? its not in the history...
     background: url(../img/sponsors-bg.jpg);
+    */
     background-size: cover;
     background-attachment: fixed;
     /*color: #ddd;*/
@@ -792,16 +820,13 @@ a:focus {
 #body {
     min-height: calc(100vh - 166px);
 }
-#about .row:last-child {
-    display: block;
-    margin-top: 50px;
-}
-#about .row:last-child a[href] {
-    font-weight: bold;
-}
 i.fa {
     margin-right: 10px;
 }
 #page-top hr {
     margin-top: 40px;
+}
+
+#body.layout-default p img {
+  width: 100%
 }

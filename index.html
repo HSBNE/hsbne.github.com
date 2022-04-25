@@ -4,11 +4,6 @@ script: main.js
 ---
 <html lang="en">
 <body id="page-top">
-  <div id="preloader">
-    <div id="status">
-      <img src="assets/img/preloader.gif" height="64" width="64" alt="">
-    </div>
-  </div>
   <!-- Header -->
   <div id="intro">
     <div class="intro-body">
@@ -29,18 +24,52 @@ script: main.js
     <div class="container">
       <div class="row">
         <div class="col-md-6 col-sm-6 col-xs-12">
-          <div class="slider">
-            <div><img src="assets/img/carousel/00.jpg" class="img-responsive"></div>
-            <div><img src="assets/img/carousel/01.jpg" class="img-responsive"></div>
-            <div><img src="assets/img/carousel/02.jpg" class="img-responsive"></div>
-            <div><img src="assets/img/carousel/03.jpg" class="img-responsive"></div>
-            <div><img src="assets/img/carousel/04.jpg" class="img-responsive"></div>
-            <div><img src="assets/img/carousel/05.jpg" class="img-responsive"></div>
-            <div><img src="assets/img/carousel/06.jpg" class="img-responsive"></div>
-            <div><img src="assets/img/carousel/07.jpg" class="img-responsive"></div>
-            <div><img src="assets/img/carousel/08.jpg" class="img-responsive"></div>
-            <div><img src="assets/img/carousel/09.jpg" class="img-responsive"></div>
+          <div class="carousel slide" data-ride="carousel">
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="assets/img/carousel/00.jpg" class="img-responsive">
+                <div class="carousel-caption">
+                </div>
+              </div>
+              <div class="item">
+                <img src="assets/img/carousel/01.jpg" class="img-responsive">
+                <div class="carousel-caption">
+                </div>
+              </div>
+              <div class="item">
+                <img src="assets/img/carousel/02.jpg" class="img-responsive">
+                <div class="carousel-caption">
+                </div>
+              </div>
+              <div class="item">
+                <img src="assets/img/carousel/03.jpg" class="img-responsive">
+                <div class="carousel-caption">
+                </div>
+              </div>
+              <div class="item">
+                <img src="assets/img/carousel/06.jpg" class="img-responsive">
+                <div class="carousel-caption">
+                </div>
+              </div>
+              <div class="item">
+                <img src="assets/img/carousel/07.jpg" class="img-responsive">
+                <div class="carousel-caption">
+                </div>
+              </div>
+              <div class="item">
+                <img src="assets/img/carousel/08.jpg" class="img-responsive">
+                <div class="carousel-caption">
+                </div>
+              </div>
+              <div class="item">
+                <img src="assets/img/carousel/09.jpg" class="img-responsive">
+                <div class="carousel-caption">
+                </div>
+              </div>
+            </div>
           </div>
+          <br />
         </div>
         <div class="col-md-6">
           <div class="about-text">
@@ -58,41 +87,34 @@ script: main.js
           </div>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-6">
-          <h4><a href="/join">Become a member</a> and see what you can learn, teach, make and show.</h4>
-        </div>
-        <div class="col-md-6">
-          <h4>Got more questions? There's lots more to see on our <a href="/thespace">Visit Us</a> page.</h4>
-        </div>
-      </div>
     </div>
   </div>
   <div id="links">
     <div class="container">
       <hr>
-      <div class="section-title text-center">
-        <h2>How can I connect with HSBNE?</h2>
-      </div>
-      <div class="row" style="margin-top: 20px;">
-        <div class="col-sm-6 col-md-3">
-          <a href="https://discord.com/channels/400970379394285568/" target="hsbne_discord">
+      <div class="row">
+        <div class="col-sm-offset-3 col-md-offset-3 col-sm-2 col-md-2">
+          <a href="https://chat.hsbne.org/" target="_blank">
             <div class="thumbnail">
-              <img src="/assets/img/links/discord.png" style="margin-top: 2px; margin-bottom: 2px; padding: 30px;" alt="...">
+              <h3>Discord</h3>
+              <div class="image">
+                <img src="/assets/img/links/discord.png">
+              </div>
               <div class="caption">
-                <h3>HSBNE's Discord Server</h3>
-                <p>Continue your conversations with other members even when you're not in the space. There's always a conversation to join or start yourself here.</p>
+                <p>Come hang out and chat with us. Everyone is welcome to the community.</p>
               </div>
             </div>
           </a>
         </div>
-        <div class="col-sm-6 col-md-3">
-          <a href="https://forum.hsbne.org/" target="hsbne_discourse">
+        <div class="col-sm-2 col-md-2">
+          <a href="https://forum.hsbne.org/" target="_blank">
             <div class="thumbnail">
-              <img src="/assets/img/links/discourse.png" style="padding-left: 40px; padding-right: 40px; padding-top: 13px; padding-bottom: 13px;" alt="...">
+              <h3>Forum</h3>
+              <div class="image">
+                <img src="/assets/img/links/discourse.png">
+              </div>
               <div class="caption">
-                <h3>HSBNE's Discourse Forum</h3>
-                <p>Some discussions need some time to breathe, and Discord moves a bit too quickly for those kinds of discussions. Forum posts can wait until you're ready to participate.</p>
+                <p>Post on our forum, share your project, get help and ideas, keep your finger on the pulse of whats happening.</p>
               </div>
             </div>
           </a>
@@ -104,23 +126,19 @@ script: main.js
   <div id="areas">
     <div class="container">
       <hr>
-      <div class="section-title text-center">
-        <h2>What can I find at HSBNE?</h2>
-      </div>
       <div class="row">
         <div class="portfolio-items">
-          <h3> Common Areas </h3>
           <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
             <div class="portfolio-item">
               <div class="hover-bg">
                 <a href="/assets/img/site/greenroom1.jpg" title="Our clean building has a large common area devoted as a general workspace and hangout zone, and we call this the Green Room." rel="prettyPhoto[GreenRoom]">
                   <div class="hover-text">
-                    <h4>The Green Room</h4>
+                    <h4>Green Room</h4>
                   </div>
-                  <img src="/assets/img/site/greenroom1.jpg" class="img-responsive" alt="The Green Room">
+                  <img src="/assets/img/site/greenroom1.jpg" class="img-responsive" alt="Green Room">
                 </a>
                 <div class="hidden">
-                  <a href="/assets/img/site/greenroom2.jpg" rel="prettyPhoto[GreenRoom]" alt="The Green Room"></a>
+                  <a href="/assets/img/site/greenroom2.jpg" rel="prettyPhoto[GreenRoom]" alt="Green Room"></a>
                 </div>
               </div>
             </div>
@@ -130,12 +148,12 @@ script: main.js
               <div class="hover-bg">
                 <a href="/assets/img/site/classroom1.jpg" title="Our clean building has a large area devoted to running Inductions, Workshops and Classes and has a pretty chill library too.." rel="prettyPhoto[classroom]">
                   <div class="hover-text">
-                    <h4>The Classroom</h4>
+                    <h4>Classroom</h4>
                   </div>
-                  <img src="/assets/img/site/classroom1.jpg" class="img-responsive" alt="The Classroom">
+                  <img src="/assets/img/site/classroom1.jpg" class="img-responsive" alt="Classroom">
                 </a>
                 <div class="hidden">
-                  <a href="/assets/img/site/classroom2.jpg" rel="prettyPhoto[classroom]" alt="The Classroom"></a>
+                  <a href="/assets/img/site/classroom2.jpg" rel="prettyPhoto[classroom]" alt="Classroom"></a>
                 </div>
               </div>
             </div>
@@ -143,17 +161,17 @@ script: main.js
           <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
             <div class="portfolio-item">
               <div class="hover-bg">
-                <a href="/assets/img/site/hipster1.jpg" title="The Hipster Lounge is our front entryway and is the first part of the space you'll see after coming through our big blue doors. It contains displays of things made at the space and is a great area to relax in." rel="prettyPhoto[HipsterLounge]">
+                <a href="/assets/img/site/hipster1.jpg" title="Hipster Lounge is our front entryway and is the first part of the space you'll see after coming through our front doors. It contains displays of things made at the space and is a great area to relax in." rel="prettyPhoto[HipsterLounge]">
                   <div class="hover-text">
-                    <h4>The Hipster Lounge</h4>
+                    <h4>Hipster Lounge</h4>
                   </div>
-                  <img src="/assets/img/site/hipster1.jpg" class="img-responsive" alt="The Hipster lounge">
+                  <img src="/assets/img/site/hipster1.jpg" class="img-responsive" alt="Hipster lounge">
                 </a>
                 <div class="hidden">
-                  <a href="/assets/img/site/hipster2.jpg" rel="prettyPhoto[HipsterLounge]" alt="The Hipster lounge"></a>
-                  <a href="/assets/img/site/hipster3.jpg" rel="prettyPhoto[HipsterLounge]" alt="The Hipster lounge"></a>
-                  <a href="/assets/img/site/hipster4.jpg" rel="prettyPhoto[HipsterLounge]" alt="The Hipster lounge"></a>
-                  <a href="/assets/img/site/hipster5.jpg" rel="prettyPhoto[HipsterLounge]" alt="The Hipster lounge"></a>
+                  <a href="/assets/img/site/hipster2.jpg" rel="prettyPhoto[HipsterLounge]" alt="Hipster lounge"></a>
+                  <a href="/assets/img/site/hipster3.jpg" rel="prettyPhoto[HipsterLounge]" alt="Hipster lounge"></a>
+                  <a href="/assets/img/site/hipster4.jpg" rel="prettyPhoto[HipsterLounge]" alt="Hipster lounge"></a>
+                  <a href="/assets/img/site/hipster5.jpg" rel="prettyPhoto[HipsterLounge]" alt="Hipster lounge"></a>
                 </div>
               </div>
             </div>
@@ -163,9 +181,9 @@ script: main.js
               <div class="hover-bg">
                 <a href="/assets/img/site/kitchen1.jpg" title="Our clean building has a large area devoted to running Inductions, Workshops and Classes and has a pretty chill library too.." rel="prettyPhoto[kitchen]">
                   <div class="hover-text">
-                    <h4>The Kitchen</h4>
+                    <h4>Kitchen</h4>
                   </div>
-                  <img src="/assets/img/site/kitchen1.jpg" class="img-responsive" alt="The Kitchen">
+                  <img src="/assets/img/site/kitchen1.jpg" class="img-responsive" alt="Kitchen">
                 </a>
                 <div class="hidden">
                 </div>
@@ -190,27 +208,9 @@ script: main.js
           <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
             <div class="portfolio-item">
               <div class="hover-bg">
-                <a href="/assets/img/site/boneyard1.jpg" title="HSBNE accepts donations from businesses and our members quite regularly. We store these donations in a room known as the boneyard. If you're a member and you need to scavenge for a switch here or a motor there, the Boneyard is the place to look.." rel="prettyPhoto[Boneyard]">
-                  <div class="hover-text">
-                    <h4>The Boneyard</h4>
-                  </div>
-                  <img src="/assets/img/site/boneyard1.jpg" class="img-responsive" alt="The Boneyard">
-                </a>
-                <div class="hidden">
-                  <a href="/assets/img/site/boneyard2.jpg" rel="prettyPhoto[Boneyard]" alt="The Boneyard"></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="portfolio-items">
-          <h3> Special Interest Areas </h3>
-          <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
-            <div class="portfolio-item">
-              <div class="hover-bg">
                 <a href="/assets/img/site/blacksmithing1.jpg" title="Our Blacksmithing and Forging group provide a self maintained and intuitive area to practise the art of blacksmithing, metal forging and sand casting." rel="prettyPhoto[Blacksmithing]">
                   <div class="hover-text">
-                    <h4>The Forge </h4>
+                    <h4>Forge </h4>
                   </div>
                   <img src="/assets/img/site/blacksmithing1.jpg" class="img-responsive" alt="Blacksmithing">
                 </a>
@@ -253,9 +253,9 @@ script: main.js
           <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
             <div class="portfolio-item">
               <div class="hover-bg">
-                <a href="/assets/img/site/electronics1.jpg" title="The Electronics bench provides considerable amounts of both common and highly specialised Electronics related equipment and supplies. From soldering irons all the way through to oscilliscopes and even a reflow oven." rel="prettyPhoto[Electronics]">
+                <a href="/assets/img/site/electronics1.jpg" title="Electronics area provides considerable amounts of both common and highly specialised Electronics related equipment and supplies. From soldering irons all the way through to oscilliscopes and even a reflow oven." rel="prettyPhoto[Electronics]">
                   <div class="hover-text">
-                    <h4>Electronics Bench</h4>
+                    <h4>Electronics</h4>
                   </div>
                   <img src="/assets/img/site/electronics1.jpg" class="img-responsive" alt="Electronics">
                 </a>
@@ -331,10 +331,6 @@ script: main.js
           </div>
         </div>
       </div>
-    </div>
-  </div>
-  <div id="footer">
-    <div class="container">
     </div>
   </div>
 </body>
