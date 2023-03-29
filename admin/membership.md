@@ -41,21 +41,17 @@ If your site access is disabled, you must give the treasurer written notice of y
 
 
 ### Fee Structure
-#### Woofing Hacker
-##### Cost
-\$0 per month
-
-##### Special Requirements
-This membership level is capped at 10% of the total active membership. All members wishing to select this membership level must reach an agreement with the executive. To be eligible you must meet the requirements as set out in your agreement with the executive. The requirements usually involve a minimum amount of hours of volunteering for HSBNE per week. The executive can revoke your eligibility for this tier at any time with prior written notice.
 
 ---
 
-#### Starving Hacker
+#### Starving Volunteer
 ##### Cost
-\$30 per month, no further discounts
+\$30 per month
 
 ##### Special Requirements
 To be eligible for this membership level you must be a currently enrolled student at a registered educational institution (TAFE, University, etc), suffer from financial hardship or genuinely can’t afford the Standard Hacker level. The executive will ask for proof of your eligibility and may ask you to validate it every 6 months thereafter. You must complete the application form and return it within 7 days. Your responses will be assessed and you will be given written notice of the outcome.
+
+Only available to volunteers.
 
 ##### Current Eligibility Requirements
 You must meet one or more of the following requirements:
@@ -72,30 +68,18 @@ For the purposes of signing up, if a member has applied for this level they will
 
 ---
 
-#### Standard Hacker (Discount)
-##### Cost
-\$55 per month
-
-##### Special Requirements
-To be eligible for this membership level you must pay for at least 3 months in advance in one transaction (ie \$165 every 3 months).
-
----
-
-#### Standard Hacker
-##### Cost
+#### Volunteer
 \$60 per month
 
 ##### Special Requirements
-There are no special requirements for this membership level.
+
+Signing a volunteer agreement and actively completing tasks as defined by the agreement each month.
 
 ---
 
-#### Backer Hacker
+#### Member
 ##### Cost
 \$100 per month
-
-##### Special Requirements
-There are no special requirements for this membership level. Extra benefits of this level include a warm fuzzy feeling because you know you’re awesome for giving extra support to HSBNE.
 
 ## Terminating Memberships
 This section is relevant to section (9) of our constitution. There are various ways a membership may be terminated, either voluntarily or involuntarily.
