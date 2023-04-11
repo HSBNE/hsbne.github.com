@@ -827,6 +827,21 @@ i.fa {
     margin-top: 40px;
 }
 
-#body.layout-default p img {
+#body.layout-default p {
   width: 100%
+}
+
+.image-full-width {
+    width: 100%
+}
+
+.left-align {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.flex-container {
+    display: flex;
+    align-items: flex-start; /* Aligns the items to the top */
 }

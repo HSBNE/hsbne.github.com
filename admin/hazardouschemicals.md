@@ -19,7 +19,7 @@ A hazardous chemical is defined as a substance, mixture or article that satisfie
 
 A quick test to see if a chemical is considered hazardous, is to look for a GHS pictogram. The latest list is available on the United Nations website [here](http://www.unece.org/trans/danger/publi/ghs/pictograms.html), and a snapshot of current ones is below.
 
-![](pictograms.png)
+![](pictograms.png){: .image-full-width}
 
 ### Hazardous Chemical Policy
 
