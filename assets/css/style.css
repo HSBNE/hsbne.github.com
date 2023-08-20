@@ -210,6 +210,20 @@ hr {
     font-size: 18px;
 }
 
+#intro .banner {
+    width: 970px;
+    height: 70px;
+    border: solid;
+    border-color: #F3C131;
+    border-radius: 1rem;
+    border-width: 10px;
+    margin:auto;
+    background-color: #F3C131;
+    color: rgba(0,0,0,1);
+
+}
+
+
 @media(min-width:768px) {
     #intro {
         height: 75%;
