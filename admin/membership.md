@@ -66,7 +66,3 @@ The executive can decide to terminate a membership if the member is convicted of
 Before the executive terminates a membership, they should give the member a fair opportunity to show why their membership should not be terminated. The executive interprets “every opportunity to pay arrears or apply for fees to be waived” as up to 14 days after the due date. It is deemed that every opportunity has been given if arrangements or full payment is not made within 14 days after the due date.
 
 The Executive should give written notice to the member as soon as practical after the executive decides an outcome. The outcome and any information deemed reasonably necessary for context will be made available to the general membership via the official communications platform. If the member wishes to appeal, they must give written notice within 7 days of their membership being terminated. An appeal for a termination due to substantiated claims of illegal behaviour is not available.
-
-
-
-
