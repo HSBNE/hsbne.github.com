@@ -21,7 +21,7 @@ Whilst HSBNE is in Hibernation Mode, the normal process for a new person or prev
 During this time, prospective new members or supporters should:
 1. attend a HSBNE social or general meeting, which are currently held on [Discord](https://chat.hsbne.org/) every Tuesday evening at 8pm. 
 2. sign up via our member portal [\(https://portal.hsbne.org\)](https://portal.hsbne.org).
-4. pay their nominated support level fees in full and give written notice to the treasurer that they are a new member and have just made their initial payment.
+3. pay their nominated support level fees in full and give written notice to the treasurer that they are a new member and have just made their initial payment.
 
 Once the above process has been completed, the interested person becomes a member of the organisation as defined in our constitution. No access cards are currently being issued, however members can check their membership status via the [Portal](https://portal.hsbne.org). Note that the executive can reject an application for any reason.
 
