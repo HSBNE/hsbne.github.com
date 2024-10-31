@@ -29,3 +29,6 @@ Access to HSBNE facilities may be restricted until a member has signed in.
 Lifetime Members are members of HSBNE who have either accrued 10 years of membership or paid up in advance to accrue 10 years of membership. Lifetime Members do not have to pay for membership to maintain their voting/access rights. Paying in advance is calculated as 
 
     ( ( 10 * 12 ) - <accrued membership in months> ) * 55
+
+## Sub-leasing
+Sub-leasing is not allowed.
