@@ -388,44 +388,6 @@ ol.type li a:hover {
     background: #F44336;
 }
 
-.isotope-item {
-    z-index: 2
-}
-
-.isotope-hidden.isotope-item {
-    z-index: 1
-}
-
-.isotope,
-.isotope .isotope-item {
-    /* change duration value to whatever you like */
-    -webkit-transition-duration: 0.8s;
-    -moz-transition-duration: 0.8s;
-    transition-duration: 0.8s;
-}
-
-.isotope-item {
-    margin-right: -1px;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-}
-
-.isotope {
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    -webkit-transition-property: height, width;
-    -moz-transition-property: height, width;
-    transition-property: height, width;
-}
-
-.isotope .isotope-item {
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    -webkit-transition-property: -webkit-transform, opacity;
-    -moz-transition-property: -moz-transform, opacity;
-    transition-property: transform, opacity;
-}
-
 .portfolio-item {
     margin-bottom: 30px;
     height: 100%;
