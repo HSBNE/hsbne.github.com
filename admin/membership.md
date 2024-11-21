@@ -81,6 +81,13 @@ Signing a volunteer agreement and actively completing tasks as defined by the ag
 ##### Cost
 \$100 per month
 
+---
+
+#### Lifetime Membership
+Lifetime Members are members of HSBNE who have either accrued 10 years of membership or paid up in advance to accrue 10 years of membership. Lifetime Members do not have to pay for membership to maintain their voting/access rights. Paying in advance is calculated as 
+
+    ( ( 10 * 12 ) - <accrued membership in months> ) * 55
+
 ## Terminating Memberships
 This section is relevant to section (9) of our constitution. There are various ways a membership may be terminated, either voluntarily or involuntarily.
 

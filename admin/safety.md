@@ -4,6 +4,12 @@ layout: default
 published: true
 ---
 
+## Site Inductions
+A site induction must have been completed within the last 12 months before the facilities can be used. The site induction can be found on our [general membership and payments policy](./membership).
+ 
+## Site Sign In Register
+As soon as practical, once a member is on site they must sign into the site. When a member leaves, they must also sign out of the site. To sign into or out of site, the portal or kiosk can be used. Access to HSBNE facilities may be restricted until a member has signed in.
+
 ### WHS Legislation Note 
 As HSBNE does not employ anyone, it is not specifically required to adhere to WHS legislation as [as advised by Worksafe QLD](https://www.worksafe.qld.gov.au/laws-and-compliance/workplace-health-and-safety-laws/specific-obligations/non-profit-organisations-and-volunteers). That being said, we have some rules and basic principles of safety and provide PPE for members use. HSBNE encourages members to take all reasonable steps to protect their own safety as well as that of those around them by
 taking actions such as identifying and managing risks.
