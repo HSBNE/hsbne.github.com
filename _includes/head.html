@@ -1,0 +1,56 @@
+<head>
+  <title>{% if page.title %}{{ page.title }} - {% endif %} {% if page.layout == "meeting" and page.date != nil %}Meeting {{ page.date }} - {% endif %} {{ site.title }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}" />
+  {% endif %}
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Cloudflare Web Analytics -->
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "1e493d40d9854b60aa8774301e14717a"}'></script>
+  <!-- End Cloudflare Web Analytics -->
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous" />
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+  <!-- Stylesheet
+    ================================================== -->
+  <!-- <link rel="stylesheet" type="text/css" href="/assets/css/style.css" media="screen"> -->
+  <!-- <link rel="stylesheet" type="text/css" href="/assets/css/prettyPhoto.css"> -->
+  <!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'> -->
+  <!-- This probably needs to go. No relevabt on with 2025bootstrap<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"> -->
+  <!-- <link rel="alternate" type="application/rss+xml" href="http://blog.hsbne.org/rss"> -->
+  <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favico/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favico/apple-touch-icon-60x60.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favico/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favico/apple-touch-icon-76x76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favico/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favico/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favico/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favico/apple-touch-icon-152x152.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favico/apple-touch-icon-180x180.png" />
+  <link rel="icon" type="image/png" href="assets/img/favico/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="assets/img/favico/android-chrome-192x192.png" sizes="192x192" />
+  <link rel="icon" type="image/png" href="assets/img/favico/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/png" href="assets/img/favico/favicon-16x16.png" sizes="16x16" />
+  <link rel="mask-icon" href="assets/img/favico/safari-pinned-tab.svg" color="#5bbad5" />
+  <meta name="apple-mobile-web-app-title" content="HSBNE" />
+  <meta name="application-name" content="HSBNE" />
+  <meta name="msapplication-TileColor" content="#ffffff" />
+  <meta name="msapplication-TileImage" content="assets/img/favico/mstile-144x144.png" />
+  <meta name="theme-color" content="#ffffff" />
+  <!-- 14/04/2025 Ale. We need to check that the pages using this are still working after using the defer -->
+  <script defer src="https://kit.fontawesome.com/6883322a20.js" crossorigin="anonymous"></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DJ4X5YJ7SL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "G-DJ4X5YJ7SL");
+  </script>
+</head>
