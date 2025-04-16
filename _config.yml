@@ -6,4 +6,4 @@ title_legal: "HSBNE Inc"
 hostname: "hsbne.org"
 exclude: ["bin"]
 markdown: kramdown
-themre: none
+theme: null
