@@ -2,13 +2,14 @@
 <html lang="en">
   {% include head.html %}
   <body id="page-top">
-    {% include header.html %}
+    {% include navbar.html %}
     {{ content }}
-    
-    <!-- {% include script_inline.html %} We need to check if something of this is still need it-->
-    
+    {% comment %}
+    test
+    {# {% include script_inline.html %} #}  We need to check if something of this is still need it
+    test
+    {% endcomment %}
     {% include footer.html %}
-    <!-- prettier-ignore-end -->
     {% if page.script %}
     <script src="/assets/js/inline/{{ page.script }}"></script>
     {% endif %}
