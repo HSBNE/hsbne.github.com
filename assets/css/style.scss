@@ -1,17 +1,30 @@
+---
+---
+/* This is not needed since we are using bootstrap. Below we have the minimized version with the needed overrides. 
 body,
 html {
-    font-family: 'Open Sans', sans-serif;
-    text-rendering: optimizeLegibility !important;
-    -webkit-font-smoothing: antialiased !important;
+  font-family: "Open Sans", sans-serif;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  color: #777;
+  width: 100% !important;
+  height: 100% !important;
+} */
+
+ body {
+    font-family: "Open Sans", sans-serif;
     color: #777;
-    width: 100% !important;
-    height: 100% !important;
-}
+    // Optional tweaks for better font rendering 
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    
+  } 
 
+/* Removing so bootstrap can take over
 p {
-    font-size: 14px;
-}
-
+  font-size: 14px;
+} */
+ 
 a {
     color: #754747;
 }
@@ -25,6 +38,8 @@ a:focus {
 /* ul, ol {
 	list-style: none;
 } */
+/* these already exists on bootstrap 
+
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -44,7 +59,9 @@ a:focus {
 
 .clearfix {
     display: block;
-}
+} */
+
+/* Not in use 
 
 #preloader {
     position: fixed;
@@ -65,7 +82,7 @@ a:focus {
     height: 64px;
     margin: -32px 0 0 -32px;
     padding: 0;
-}
+} */
 
 ul,
 ol {
@@ -86,7 +103,7 @@ hr {
 }
 
 /* Navigation */
-.navbar-custom {
+/* .navbar-custom {
     padding: 0;
     border-bottom: 0;
     letter-spacing: 1px;
@@ -163,12 +180,12 @@ hr {
 .navbar-custom .nav li.active a:hover {
     color: #fff;
 }
-
+ */
 /* Home Section */
 #intro {
     display: table;
     width: 100%;
-    height: 100%;
+    height: 100vh;
     text-align: center;
     color: #fff;
     background: url(../img/services-bg.jpg) no-repeat center center fixed;
@@ -217,7 +234,7 @@ hr {
 
 @media(min-width:768px) {
     #intro {
-        height: 75%;
+        height: 75vh;
         padding: 0;
     }
 
