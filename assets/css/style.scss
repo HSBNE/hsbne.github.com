@@ -1,5 +1,9 @@
 ---
 ---
+@import "variables";
+@import "global";
+@import "home";
+@import "footer";
 /* This is not needed since we are using bootstrap. Below we have the minimized version with the needed overrides. 
 body,
 html {
@@ -11,29 +15,12 @@ html {
   height: 100% !important;
 } */
 
- body {
-    font-family: "Open Sans", sans-serif;
-    color: #777;
-    // Optional tweaks for better font rendering 
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    
-  } 
+
 
 /* Removing so bootstrap can take over
 p {
   font-size: 14px;
 } */
- 
-a {
-    color: #754747;
-}
-
-a:hover,
-a:focus {
-    text-decoration: none;
-    color: #F4D03F;
-}
 
 /* ul, ol {
 	list-style: none;
@@ -61,7 +48,7 @@ a:focus {
     display: block;
 } */
 
-/* Not in use 
+/*  Not in use 
 
 #preloader {
     position: fixed;
@@ -84,23 +71,12 @@ a:focus {
     padding: 0;
 } */
 
-ul,
+/* ul,
 ol {
     padding: 0 0 5 0;
     webkit-padding: 0;
     moz-padding: 0;
-}
-
-hr {
-    height: 4px;
-    width: 70px;
-    text-align: center;
-    position: relative;
-    background: #F44336;
-    margin: 0 auto;
-    margin-bottom: 30px;
-    border: 0;
-}
+} */
 
 /* Navigation */
 /* .navbar-custom {
@@ -182,78 +158,15 @@ hr {
 }
  */
 /* Home Section */
-#intro {
-    display: table;
-    width: 100%;
-    height: 100vh;
-    text-align: center;
-    color: #fff;
-    background: url(../img/services-bg.jpg) no-repeat center center fixed;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    border-bottom: solid #F44336;
-}
-
-#intro .intro-body {
-    display: table-cell;
-    vertical-align: middle;
-    background: rgba(0, 0, 0, 0.5);
-}
-
-#intro .intro-body H1 {
-    font-size: 76px;
-    font-weight: 700;
-    color: rgba(255, 255, 255, 0.8);
-    text-transform: uppercase;
-}
-
-#intro .intro-body .brand-heading {
-    color: #F44336;
-}
-
-#intro .intro-body .intro-text {
-    font-size: 18px;
-}
-
-#intro .banner {
-    width: 970px;
-    height: 70px;
-    border: solid;
-    border-color: #F3C131;
-    border-radius: 1rem;
-    border-width: 10px;
-    margin:auto;
-    background-color: #F3C131;
-    color: rgba(0,0,0,1);
-
-}
 
 
-@media(min-width:768px) {
-    #intro {
-        height: 75vh;
-        padding: 0;
-    }
-
-    #intro .intro-body .intro-text {
-        font-size: 18px;
-        letter-spacing: 1px;
-        margin-bottom: 3em;
-        color: rgba(255, 255, 255, 0.9);
-
-    }
-}
-
-.btn-default {
+/* .btn-default {
     color: #f6f6f6;
     background: #F44336;
     border: 0;
     padding: 12px 24px;
     margin: 0 8px;
-    font-size: 18px;
+    // font-size: 18px;
     transition: all 0.5s;
 }
 
@@ -264,65 +177,61 @@ hr {
 .btn-default.active {
     color: #f6f6f6;
     background-color: #F44336;
-}
+} */
 
-.section-title.center {
-    padding: 30px 0;
-}
+// .section-title.center {
+//     padding: 30px 0;
+// }
 
-.section-title h2,
-.section-title.center h2 {
-    margin-bottom: 30px;
-}
+// .section-title h2,
+// .section-title.center h2 {
+//     margin-bottom: 30px;
+// }
 
 /* About Section */
-#about {
-    padding: 5px 0;
+/* #about {
+    // padding: 5px 0;
     background: #f6f6f6;
-}
+} */
 
-#about .about-text {
-    margin-left: 10px;
-}
-
-#about H4 {
+/* #about H4 {
     font-size: 20px;
-}
+} */
 
-#about li {
+/* #about li {
     margin-bottom: 3px;
     list-style: none;
     padding: 0;
-    font-size: 13px;
-}
+     font-size: 13px;
+} */
 
-#about li:before {
-    content: "✓";
-    font-weight: 600;
-    padding-right: 10px;
-    color: #F44336;
-}
+// #about li:before {
+//     content: "✓";
+//     font-weight: 600;
+//     padding-right: 10px;
+//     color: #F44336;
+// }
 
-#about i.fa {
+/* #about i.fa {
     float: left;
     display: block;
     margin-right: 15px;
     color: #fff;
     font-size: 44px;
     text-shadow: 0 0 1px #666;
-}
+} */
 
-#about img {
-    margin-top: 20px;
-}
+// #about img {
+//     margin-top: 20px;
+// }
 
-#about p {
-    margin-top: 20px;
-    margin-bottom: 30px;
-}
+// #about p {
+//     margin-top: 20px;
+//     margin-bottom: 30px;
+// }
 
 /* causes Section */
-#causes {
+/* #causes {
     padding: 10px 0;
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/services-bg.jpg);
     background-size: cover;
@@ -355,10 +264,10 @@ hr {
     font-size: 36px;
     color: #F44336;
     transition: all 0.5s;
-}
+} */
 
 /* Gallery Section */
-#works {
+/* #works {
     padding: 10px 0;
     background: #f6f6f6;
 }
@@ -405,7 +314,7 @@ ol.type li a:hover {
     max-height: 190px;
     overflow: hidden;
     position: relative;
-}
+} 
 
 .hover-bg .hover-text {
     position: absolute;
@@ -471,10 +380,10 @@ ol.type li a:hover {
     font-size: 20px;
     padding: 5px;
     color: #F4D03F;
-}
+} */
 
 /* Team Section */
-#team {
+/* #team {
     padding: 140px 0;
     background: #e6e6e6;
 }
@@ -520,17 +429,17 @@ img.img-thumbnail.team-img {
       top: 50%;
       left: 50%;
       transform: translateX(-50%) translateY(-50%);
-}
+} */
 
 /* sponsors Section */
-#sponsors {
-    /* 
-     * This image never existed? its not in the history...
+/* #sponsors {
+     
+    // * This image never existed? its not in the history...
     background: url(../img/sponsors-bg.jpg);
-    */
+    
     background-size: cover;
     background-attachment: fixed;
-    /*color: #ddd;*/
+    //color: #ddd;
     padding: 50px 0;
     background: #333;
     color: #FFFDE7;
@@ -563,7 +472,7 @@ img.img-thumbnail.team-img {
 }
 
 /* Contact Section */
-#contact {
+/* #contact {
     padding: 50px 0 100px 0;
     background: #f6f6f6;
 }
@@ -642,9 +551,9 @@ label {
 #contact .btn-default:focus {
     color: #f6f6f6;
     background: #F44336;
-}
+} */
 
-.btn:active,
+/* .btn:active,
 .btn.active {
     background-image: none;
     outline: 0;
@@ -661,9 +570,9 @@ a:focus,
 .btn.active.focus {
     outline: none;
     outline-offset: none;
-}
+} */
 
-#contact .social ul {
+/* #contact .social ul {
     margin-top: 30px;
 }
 
@@ -682,10 +591,10 @@ a:focus,
 
 #contact .social i.fa:hover {
     color: #F44336;
-}
+} */
 
 /* Footer Section*/
-#footer {
+/* #footer {
     background: #333;
     color: #FFFDE7;
     padding: 20px 0;
@@ -703,23 +612,25 @@ a:focus {
 }
 
 #footer p {
-    font-size: 13px;
+    //font-size: 13px;
     margin-top: 10px;
 }
+ */
 
+ /* 
 @media (max-width: 768px) {
     .hover-bg .hover-text {
         padding: 20%;
     }
-}
+} */
 
-@media (max-width: 640px) {
+/* @media (max-width: 640px) {
     #intro .intro-body H1 {
         font-size: 5em;
     }
-}
+} */
 
-.slider {
+/* .slider {
     max-height: 300px !important;
 }
 
@@ -750,28 +661,28 @@ a:focus {
     width: auto;
     height: 5em;
     margin-bottom: 0.5em;
-}
+} */
 
 /* Style the buttons that are used to open and close the accordion panel */
-.accordion {
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-    font-size: 20px;
+// .accordion {
+//     cursor: pointer;
+//     padding: 18px;
+//     width: 100%;
+//     text-align: left;
+//     border: none;
+//     outline: none;
+//     transition: 0.4s;
+//     font-size: 20px;
 
-}
+// }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .accordion:hover {
+/* .active, .accordion:hover {
     background-color: #ccc;
-}
+} */
 
 /* Style the accordion panel. Note: hidden by default */
-.panel {
+/* .panel {
     padding: 0 18px;
     background-color: white;
     display: none;
@@ -786,20 +697,20 @@ a:focus {
     vertical-align: bottom !important;
     display: none;
 }
+ */
+// .row {
+//     display: flex;
+//     flex-wrap: wrap;
+//     /* equal height of the children */
+// }
 
-.row {
-    display: flex;
-    flex-wrap: wrap;
-    /* equal height of the children */
-}
+// .col {
+//     flex: 2 1 15%;
+//     /* additionally, equal width */
+//     margin: 0.5em;
+// }
 
-.col {
-    flex: 2 1 15%;
-    /* additionally, equal width */
-    margin: 0.5em;
-}
-
-#body {
+/* #body {
     min-height: calc(100vh - 166px);
 }
 i.fa {
@@ -811,19 +722,19 @@ i.fa {
 
 #body.layout-default p {
   width: 100%
-}
+} */
 
-.image-full-width {
-    width: 100%
-}
+// .image-full-width {
+//     width: 100%
+// }
 
-.left-align {
-    float: left;
-    margin-right: 10px;
-    margin-bottom: 10px;
-}
+// .left-align {
+//     float: left;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+// }
 
-.flex-container {
-    display: flex;
-    align-items: flex-start; /* Aligns the items to the top */
-}
+// .flex-container {
+//     display: flex;
+//     align-items: flex-start; /* Aligns the items to the top */
+// }

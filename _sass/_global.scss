@@ -1,0 +1,45 @@
+body {
+  font-family: $font-stack;
+  color: $text-color;
+  // Optional tweaks for better font rendering
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+//Links
+a {
+  color: $link-color;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+  color: $link-hover-color;
+}
+//buttons
+.hsbne-btn {
+    color: $button-text-color;
+    background-color: $button-color;
+    transition: box-shadow 0.5s ease-in-out, background-color 0.5s ease-in-out;
+  }
+  
+  .hsbne-btn:hover,
+  .hsbne-btn:focus,
+  .hsbne-btn:active {
+    color: $button-text-color;
+    background-color: darken($button-color, 5%);
+    box-shadow: 0 0 10px 2px $hsbne-red;
+  }
+
+  //Extras
+  hr {
+    height: 4px;
+    width: 70px;
+    text-align: center;
+    position: relative;
+    background: $hsbne-red;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border: 0;
+}
