@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title>Lending -   HSBNE</title>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Stylesheet -->
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous" />
+  <!-- Boostrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  <!-- Custom Styles -->
+  <link rel="stylesheet" type="text/css" href="/assets/css/style.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap-breakpoint.css" media="screen" />
+  
+
+  <!-- This probably needs to go. No relevabt on with 2025bootstrap<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"> -->
+  <!-- <link rel="alternate" type="application/rss+xml" href="http://blog.hsbne.org/rss"> -->
+  <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favico/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favico/apple-touch-icon-60x60.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favico/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favico/apple-touch-icon-76x76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favico/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favico/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favico/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favico/apple-touch-icon-152x152.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favico/apple-touch-icon-180x180.png" />
+  <link rel="icon" type="image/png" href="assets/img/favico/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="assets/img/favico/android-chrome-192x192.png" sizes="192x192" />
+  <link rel="icon" type="image/png" href="assets/img/favico/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/png" href="assets/img/favico/favicon-16x16.png" sizes="16x16" />
+  <link rel="mask-icon" href="assets/img/favico/safari-pinned-tab.svg" color="#5bbad5" />
+  <meta name="apple-mobile-web-app-title" content="HSBNE" />
+  <meta name="application-name" content="HSBNE" />
+  <meta name="msapplication-TileColor" content="#ffffff" />
+  <meta name="msapplication-TileImage" content="assets/img/favico/mstile-144x144.png" />
+  <meta name="theme-color" content="#ffffff" />
+  <!-- Bootstrap -->
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+  <!-- Cloudflare Web Analytics -->
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "1e493d40d9854b60aa8774301e14717a"}'></script>
+  <!-- 14/04/2025 Ale. We need to check that the pages using this are still working after using the defer -->
+  <script defer src="https://kit.fontawesome.com/6883322a20.js" crossorigin="anonymous"></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DJ4X5YJ7SL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "G-DJ4X5YJ7SL");
+  </script>
+</head>
+
+  <body id="page-top">
+    <!-- Navigation -->
+<nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark" role="navigation">
+  <div class="container">
+    <a class="navbar-brand fw-semibold" href="/"> <img src="/assets/img/favico/favicon-32x32.png" class="float-start img-fluid" height="20" width="20" /> HSBNE</a>
+    <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#nav"><div class="navbar-toggler-icon"></div></button>
+    <div class="collapse navbar-collapse" id="nav">
+      <ul class="navbar-nav ms-auto">
+        <!-- <li class="nav-item"><a href="/visit" class="nav-link">Visit Us</a></li> -->
+        <li class="nav-item"><a href="/join" class="nav-link">Sign Up</a></li>
+        <!-- <li class="nav-item"><a href="/explore" class="nav-link">Our Tools</a></li> -->
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Our Tools </a>
+          <ul class="dropdown-menu dropdown-menu-dark">
+            <li><a class="dropdown-item" href="/explore/woodworking">Woodworking</a></li>
+            <li><a class="dropdown-item" href="/explore/digifab">Laser cutting & 3D printing</a></li>
+            <li><a class="dropdown-item" href="/explore/metalworking">Metalworking</a></li>
+            <li><a class="dropdown-item" href="/explore/electronics">Electronics</a></li>
+            <li><a class="dropdown-item" href="/explore/craftpunk">Arts & Crafts</a></li>
+          </ul>
+        </li>
+
+        <!-- <li class="nav-item"><a href="https://portal.hsbne.org/" target="_blank" class="nav-link">Login</a></li> -->
+        <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Members </a>
+          <ul class="dropdown-menu dropdown-menu-dark">
+            <li>
+              <a class="dropdown-item" href="https://portal.hsbne.org/" target="_blank">Portal Login</a>
+            </li>
+            <li><a class="dropdown-item" href="https://forum.hsbne.org/" target="_blank">Forum</a></li>
+            <li><a class="dropdown-item" href="https://wiki.hsbne.org/tools/home" target="_blank">Wiki</a></li>
+            <li><a class="dropdown-item" href="/admin">Rules</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a href="https://facebook.hsbne.org/" class="nav-link" target="_blank"><i class="bi bi-facebook fs" aria-hidden="true"></i></a>
+        </li>
+        <li class="nav-item">
+          <a href="https://instagram.hsbne.org" class="nav-link" target="_blank"><i class="bi bi-instagram" aria-hidden="true"></i></a>
+        </li>
+        <li class="nav-item">
+          <a href="https://twitter.hsbne.org" class="nav-link" target="_blank"><i class="bi bi-twitter-x" aria-hidden="true"></i></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <h1 id="lending">Lending</h1>
+
+<h2 id="summary">Summary</h2>
+
+<p>Members sometimes request to be loaned HSBNE assets, this policy outlines what happens when they do.</p>
+
+<h2 id="human-version">Human Version</h2>
+
+<ul>
+  <li>We don’t loan assets as normal business</li>
+  <li>You can make a special request
+    <ul>
+      <li>You have to ask the appropriate team lead, or if none, the executive.</li>
+      <li>There must be a loan agreement signed</li>
+      <li>The asset must be documented before/after with pictures or video</li>
+      <li>The loan will be tracked by the asset register</li>
+      <li>You will be required to make good on any damage or issues, and if a bond is taken, that may be
+used to make good the item</li>
+    </ul>
+  </li>
+  <li>If you’re a team member, you can take items off site for maintenance/repair reasons. You must:
+    <ul>
+      <li>Get the ok from team lead</li>
+      <li>Create a maintenance item in the asset register stating you’re taking it offsite, with expected return date.</li>
+      <li>Check out the asset under your name</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="rules-version">Rules Version</h2>
+
+<ol>
+  <li>
+    <h4 id="by-default-hsbne-does-not-loan-assets">By Default, HSBNE does not Loan Assets</h4>
+
+    <ol>
+      <li>In normal circumstances, HSBNE does not loan assets.</li>
+    </ol>
+  </li>
+  <li>
+    <h4 id="special-requests">Special Requests</h4>
+
+    <ol>
+      <li>Members may make special request for exception to be loaned an asset.</li>
+      <li>The decision is made by, in order: Team Lead for the asset; Executive</li>
+      <li>Loans must be documented by a signed Loan Agreement, uploaded as pdf to the asset register
+        <ol>
+          <li>Executive must make available a loan agreement template</li>
+          <li>Loan agreement defacto includes:
+            <ol>
+              <li>Item to be returned in same or better condition</li>
+              <li>Borrower to pay to return item to state when loaned</li>
+              <li>Where asset value is in excess of $500, a bond must be paid</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li>Loans must be tracked by the asset register ‘check out’ feature</li>
+      <li>Asset must be thoroughly documented with pictures or video upon leaving and reacceptance</li>
+      <li>Loaned asset can only be reaccepted by person who approved loan, or in their absense, executive member
+        <ol>
+          <li>Loaned assets must be explicitly accepted</li>
+          <li>Any bonds or other conditions will be executed in a timely fashion upon reacception.</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <h4 id="loans-for-maintenance">Loans for Maintenance</h4>
+
+    <ol>
+      <li>Team Members may make request to take an asset off site for the purposes of maintenance or upgrade.</li>
+      <li>Team Leads or Executive may approve this.</li>
+      <li>If it is the Team Lead requesting approval, they must get approval from Executive.</li>
+      <li>The asset will have a maintenance action opened on it in the asset manager that details
+        <ol>
+          <li>Who approved it</li>
+          <li>What maintenance or upgrades are expected to happen</li>
+          <li>When the asset is expected to return</li>
+        </ol>
+      </li>
+      <li>The asset will be checked out in the asset register to the team member while it is offsite</li>
+      <li>There is no requirement for a bond</li>
+      <li>It is the approvers responsibility to ensure the item is returned by the loanee in a timely manner
+        <ol>
+          <li>Returned items must be explicitly accepted by approver or in their absense, executive member.</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Loans for HSBNE Projects</p>
+
+    <ol>
+      <li>Loans may be made under the rules of <code class="language-plaintext highlighter-rouge">3: Loans for Maintenance</code> where a member needs an item offsite
+in order to progress a project for HSBNE’s interests.
+        <ol>
+          <li>The maintenance log will be used to detail the reason/project that the item is offsite, instead of
+expected maintenance.</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+    
+    <div id="footer" class="bg-dark">
+  <div class="container text-center pt-5 pb-3">
+    <div class="row mb-3">
+      <div class="col-4 mx-auto d-flex justify-content-evenly fs-1">
+        <a href="https://facebook.hsbne.org/" aria-label="Facebook"><i class="bi bi-facebook fs"></i></a>
+        <a href="https://instagram.hsbne.org" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://twitter.hsbne.org" aria-label="Twitter"><i class="bi bi-twitter-x"></i></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <p class="small mb-0 fw-light">Hackerspace Brisbane acknowledges the Yuggera and Turrbal peoples, the Traditional Custodians of the Country on which we meet, and pay our respect to Elders past, present and emerging. We honour and respect their continued cultural and spiritual relationship to their Traditional Lands and Waters and recognise their contribution to society.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+  </body>
+</html>
