@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
-  <body id="page-top">
-    {% include navbar.html %}
-    {{ content }}
-    {% comment %}
-    test
-    {# {% include script_inline.html %} #}  We need to check if something of this is still need it
-    test
+  <body id="page-top" class="d-flex flex-column min-vh-100">
+    <main class="flex-fill">
+      {% include navbar.html %}
+      {{ content }}
+    </main>
+    
+    {% comment %} 
+    {% include script_inline.html %}
+    We need to check if something of this is still need it test
     {% endcomment %}
     {% include footer.html %}
+    
     {% if page.script %}
     <script src="/assets/js/inline/{{ page.script }}"></script>
     {% endif %}
