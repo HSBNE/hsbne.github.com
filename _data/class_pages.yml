@@ -1,0 +1,17 @@
+# Key-value pairs for reusable class names to keep our styles manageable.
+# The pairs on this file are meant to be used on all the HTML pages except index.html
+# For the time being, we are not implementing this for the markup pages.
+
+container_main: "container my-5"
+
+h1: "fw-semibold"
+h2: "fw-semibold mb-3"
+
+row_title: "row mb-3"
+
+# Used for tools on the shop pages
+
+row_tool: "row justify-content-evenly my-5"
+col_tool_text: "col-md-7 col-12 mt-4"
+col_tool_pic: "col-md-5 col-12"
+
