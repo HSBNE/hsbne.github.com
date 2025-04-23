@@ -1,6 +1,6 @@
 ---
 title: Privileged Access Policy
-layout: default
+layout: admin
 published: true
 ---
 

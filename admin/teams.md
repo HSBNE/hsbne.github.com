@@ -1,6 +1,6 @@
 ---
 title: Teams
-layout: default
+layout: admin
 ---
 
 # Teams

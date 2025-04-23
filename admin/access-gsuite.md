@@ -1,8 +1,9 @@
 ---
 title: Google HSBNE Account Access
-layout: default
+layout: admin
 published: true
 ---
+# Google HSBNE Account Access
 
 ## Summary
 

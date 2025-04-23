@@ -1,8 +1,9 @@
 ---
 title: Policies
-layout: default
+layout: admin
 ---
 
+# Policies
 ## Overview
 This is a master list of policies or by-laws at HSBNE that fall outside the scope of the official HSBNE Rules. These are a working part of the HSBNE infrastructure and social contract. By-laws can be made by vote at a general meeting, or by the Executive Committee[^1].
 

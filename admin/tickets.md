@@ -1,8 +1,9 @@
 ---
 title: Tickets
-layout: default
+layout: admin
 ---
 
+# Tickets
 
 ## Overview
 

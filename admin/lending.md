@@ -1,6 +1,6 @@
 ---
 title: Lending
-layout: default
+layout: admin
 ---
 
 # Lending

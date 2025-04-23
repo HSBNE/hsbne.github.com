@@ -1,15 +1,17 @@
 ---
 title: Procedure for borrowing the HSBNE Trailer
-layout: default
+layout: admin
 ---
 
-# Steps
+# Procedure for Borrowing the HSBNE Trailer
+
+## Steps
 
 1. Email the exec with time, date and copy of driver’s license.
 2. After receiving written approval, trailer can be used.
 3. After using the trailer, send a follow-up email to confirm the trailer is back onsite. 
 
-# Rules for borrowing the trailer
+## Rules for borrowing the trailer
 
 1. The trailer is for use by active HSBNE members only. 
 2. Members need to notify the Exec team via email when using or borrowing the trailer to avoid double-booking. 
@@ -25,7 +27,7 @@ layout: default
 
 All references to email are to the address [executive@hsbne.org](mailto:executive@hsbne.org).
 
-# Purposes of having a HSBNE trailer
+## Purposes of having a HSBNE trailer
 
 * For active members to move projects to and from the space.
 * For active members to use for personal movement needs.
@@ -33,7 +35,7 @@ All references to email are to the address [executive@hsbne.org](mailto:executiv
 
 
 
-# Short-term borrowing only 
+## Short-term borrowing only 
 
 * Less than 24 hours
 * No deposit required

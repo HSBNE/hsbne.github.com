@@ -1,9 +1,11 @@
 ---
-title: Policies
-layout: default
+title: Membership
+layout: admin
 ---
 
-# Introduction
+# Membership
+
+## Introduction
 The HSBNE Inc. constitution allows the management committee to create policies around the process of handling new memberships, fees/dues, the admission/rejection of new memberships, terminating memberships and various other minor things. This document clarifies various procedures and rules. It also documents the executive’s interpretation of the constitution where applicable.
 
 ## Definitions

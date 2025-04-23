@@ -1,9 +1,9 @@
 ---
 title: Electrical Safety & Faults at HSBNE
-layout: default
+layout: admin
 ---
 
-# Electrical Safety & Faults
+# Electrical Safety & Faults at HSBNE
 
 HSBNE Prioritises safety, especially electrical safety. To give clear requirements / procedure,
 this policy outlines expectations and steps.

@@ -1,8 +1,9 @@
 ---
 title: Safety Policy
-layout: default
+layout: admin
 published: true
 ---
+# Safety
 
 ## Site Inductions
 A site induction must have been completed within the last 12 months before the facilities can be used. The site induction can be found on our [general membership and payments policy](./membership).
