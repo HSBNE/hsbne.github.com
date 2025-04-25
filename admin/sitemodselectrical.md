@@ -1,8 +1,10 @@
 ---
 title: Site Modifications and Electrical Work
-layout: default
+layout: admin
 published: true
 ---
+
+# Site Modification and Electrical Work
 
 HSBNE Inc. has certain restrictions that apply at our current property. This policy outlines the responsibilities that all members have to ensure we comply with our lease. It also details certain procedures around making site modifications or performing electrical work. Anyone found to be in violation of this policy will receive a ban consistent with the current ban schedule unless exceptional circumstances have occurred.
 

@@ -1,6 +1,6 @@
 ---
 title: Dress and Presentation
-layout: default
+layout: admin
 published: true
 ---
 

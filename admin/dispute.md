@@ -1,8 +1,10 @@
 ---
 title: Dispute Resolution
-layout: default
+layout: admin
 published: true
 ---
+
+# Dispute Resolution
 
 Bad behaviour at HSBNE is unacceptable. By being a part of our community you
 give up certain freedoms in order for our community to run smoothly.

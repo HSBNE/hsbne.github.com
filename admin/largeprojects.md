@@ -1,6 +1,6 @@
 ---
 title: Large Projects
-layout: default
+layout: admin
 published: true
 ---
 

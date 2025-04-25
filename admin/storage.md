@@ -1,7 +1,9 @@
 ---
 title: Member Storage at HSBNE
-layout: default
+layout: admin
 ---
+
+# Storage
 
 There are several forms of storage for members at HSBNE. The group [provides members with crated temporary project storage in the lockable storage area](/admin/meeting/20130115.html), and it also allows members to 'park' projects for specified periods of time. There are also External Storage options available.
 

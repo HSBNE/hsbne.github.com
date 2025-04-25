@@ -1,6 +1,6 @@
 ---
 title: Assets
-layout: default
+layout: admin
 ---
 
 # Assets

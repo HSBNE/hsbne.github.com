@@ -33,7 +33,7 @@ function main() {
     });
     */
 
-
+    /*
     $(document).ready(function() {
         $("a[rel^='prettyPhoto']").prettyPhoto({
             social_tools: false,
@@ -41,6 +41,7 @@ function main() {
             overlay_gallery: true
         });
     });
+    */
 
   }());
 

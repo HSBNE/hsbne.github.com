@@ -1,11 +1,12 @@
 ---
 title: Policy Process
-layout: default
+layout: admin   
 ---
 
+# Policy Process
 Stop, Metatime. This document outlines how policy and constitutional changes happen.
 
-# General
+## General
 
 All policy or constitutional changes must go to a meeting with specific wording in a pull request. If the wording is updated at the meeting, it must be updated in the pull request and go to meeting again. The pull request must be updated with the meeting notes of the meeting where it is approved.
 
@@ -13,7 +14,7 @@ There will be no voting on any changes without specific known wording. No voting
 
 Any policy or rule changes are NOT in effect until they exist on the main website.
 
-# Constitutional Rule Changes
+## Constitutional Rule Changes
 
 Rule changes will NOT be merged until the [paperwork for the office of fair trading](https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/associations-charities-and-non-for-profits/incorporated-associations/incorporated-associations-forms-and-fees#changing-rules) is completed.
 
@@ -24,7 +25,7 @@ To reiterate, the process for rules is the below howto, except after step 10 are
 3. Wait for approval response.
 4. Merge the Pull Request.
 
-# How-To
+## How-To
 
 1. Fork the hsbne website
 2. Navigate to the admin directory, and pick a file to edit or make a new file.

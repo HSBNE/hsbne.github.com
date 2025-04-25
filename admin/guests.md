@@ -1,7 +1,8 @@
 ---
 title: Guests at HSBNE
-layout: default
+layout: admin
 ---
+# Guests at HSBNE
 
 HSBNE is for the benefit of the community, not just its members. We allow guests on our campus and limited use of our facilities however we reserve the right to ask guests to leave at any time. This document aims to clarify the expectations and limits of being a guest at HSBNE.
 

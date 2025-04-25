@@ -1,0 +1,14 @@
+$footer-text-color: rgba(255, 255, 255, 0.55); // Same as navbar text color
+
+#footer {
+  color: $footer-text-color; // Applying the same text color as navbar
+
+  a {
+    color: $footer-text-color; // Links will use the same soft white as text
+
+    &:hover,
+    &:focus {
+      color: rgba(255, 255, 255, 0.75); // Slightly lighter on hover, similar to navbar hover effect
+    }
+  }
+}

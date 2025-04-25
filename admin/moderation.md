@@ -1,10 +1,10 @@
 ---
 title: Moderation
-layout: default
+layout: admin
 published: true
 ---
 
-## Moderation at HSBNE
+# Moderation at HSBNE
 
 HSBNE has a number of community communication platforms available to members and the general public. In order to keep these methods civil and productive, our moderation policy lays out the powers of people who are recognised as Moderators and the process of becoming a Moderator.
 

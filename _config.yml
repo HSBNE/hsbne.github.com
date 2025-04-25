@@ -4,6 +4,6 @@ title: "HSBNE"
 title_long: "Hackerspace Brisbane"
 title_legal: "HSBNE Inc"
 hostname: "hsbne.org"
-exclude: ['bin']
+exclude: ["bin", "docker-compose.yml", "Gemfile", "Gemfile.lock", "README.md", "RunLocally.bat"]
 markdown: kramdown
-
+theme: null

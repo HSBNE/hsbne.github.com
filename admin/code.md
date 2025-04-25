@@ -1,7 +1,9 @@
 ---
 title: Code of conduct
-layout: default
+layout: admin
 ---
+
+# Code of Conduct
 
 #### Be Considerate
 

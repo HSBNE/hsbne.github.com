@@ -1,8 +1,10 @@
 ---
 title: Alcohol & Drugs
-layout: default
+layout: admin
 published: true
 ---
+
+# Alcohol and Drugs
 
 ## Summary
 

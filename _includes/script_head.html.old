@@ -1,3 +1,4 @@
+<!-- To be deleted. Leaving now convenience until we fully heal the website -->
 <title>
     {% if page.title %}{{ page.title }} - {% endif %} {% if page.layout == "meeting" and page.date != nil %}Meeting {{ page.date }} - {% endif %} {{ site.title }}
 </title>

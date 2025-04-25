@@ -1,7 +1,8 @@
 ---
 title: Safe Space Policy
-layout: default
+layout: admin
 ---
+# Safe Space Policy
 
 ### HSBNE is a Safe Space
 

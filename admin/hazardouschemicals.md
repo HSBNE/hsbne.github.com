@@ -1,11 +1,11 @@
 ---
 title: Hazardous Chemicals, and Disposal
-layout: default
+layout: admin
 published: true
 ---
 
 
-## HSBNE : Hazardous Chemicals, and Disposal
+# Hazardous Chemicals, and Disposal
 
 
 Hazardous chemicals in their many forms are well recognised as a threat to the environment. In response to this threat, The government at all levels have issued directives and guidelines for the storage and handling of these chemicals. 
