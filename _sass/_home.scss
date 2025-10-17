@@ -1,6 +1,6 @@
 #intro {
   position: relative;
-  height: 100vh;
+  height: calc(100vh - 56px); // 56px is the height of the navbar, This is a bit of a hack to make it fit the viewport
   background: url(../img/services-bg.jpg) no-repeat center center fixed;
   background-size: cover;
 
@@ -31,13 +31,44 @@
   }
 }
 
-@media (min-width: 768px) {
-  #intro {
-    height: 75vh;
-    padding: 0;
-  }
-}
+// @media (min-width: 768px) {
+//   #intro {
+//     height: 100vh; //height: 75vh;
+//     padding: 0;
+//   }
+// }
 
 .home-odd {
     background: $hsbne-light-grey;
+}
+
+.scroll-indicator {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: rgba(255, 255, 255, 0.85);
+  background: rgba(0, 0, 0, 0.45);
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  z-index: 3;
+  animation: bounce 2s infinite;
+
+  /* ✨ fade behaviour */
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.scroll-indicator.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translate(-50%, 0); }
+  50% { transform: translate(-50%, -6px); }
 }
