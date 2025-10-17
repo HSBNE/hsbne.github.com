@@ -1,6 +1,6 @@
 #intro {
   position: relative;
-  /* height: 100vh; */
+  height: 100vh;
   background: url(../img/services-bg.jpg) no-repeat center center fixed;
   background-size: cover;
 
@@ -31,14 +31,12 @@
   }
 }
 
-/*
 @media (min-width: 768px) {
   #intro {
     height: 75vh;
     padding: 0;
   }
 }
-*/
 
 .home-odd {
     background: $hsbne-light-grey;
