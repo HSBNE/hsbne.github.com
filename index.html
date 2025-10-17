@@ -14,7 +14,13 @@ script: main.js
         <a class="btn hsbne-btn btn-lg" href="join.html">Join Us</a>
       </div>
     </div>
+
   </div>
+<div class="scroll-indicator">
+  <span>Scroll down</span>
+  <i class="bi bi-chevron-down"></i>
+</div>
+
 </div>
 <!-- About Section -->
 <div id="about" class="home-odd">
@@ -32,7 +38,7 @@ script: main.js
         <ul class="list-unstyled">
           <li><a href="explore/woodworking">Woodworking</a></li>
           <li><a href="explore/digifab">Digital Fabrication</a></li>
-          <li><a href="explore/metalworking">Metalworking</a></li>
+          <li><a href="explore/metalshop">Metalworking</a></li>
           <li><a href="explore/electronics">Electronics</a></li>
           <li><a href="explore/craftpunk">Crafts</a></li>
         </ul>
@@ -40,23 +46,53 @@ script: main.js
     </div>
   </div>
 </div>
-<div id="open-nights">
+<div id="open-days">
   <div class="container py-5">
     <div class="row">
       <div class="col text-start">
-        <h2 class="display-4 mb-0 fw-semibold">Open Nights</h2>
-        <p class="fw-light mb-5 ms-1">Come and get to know the community and our place</p>
+        <h2 class="display-4 mb-0 fw-semibold">Open Days</h2>
+        <p class="fw-light mb-0 ms-1">Visit during the day and explore what we do</p>
+      </div>
+    </div>
+    <div class="row my-4">
+      <div class="col">
+        <img src="/assets/img/index/open-day.jpg" class="img-fluid rounded hsbne-shadow-dark" alt="Open Nights at HSBNE">
       </div>
     </div>
     <div class="row">
       <div class="text-center">
-        <p class="fw-medium mb-5">The best way to get to know us is by visiting during one of our Open Nights. Every Tuesday, we open our doors to the public. You're welcome to come by, meet our members, and see what we’re all about. A guided tour of the Workshop starts at 6:30 pm, though people begin arriving from around 5 pm.</p>
-        <a class="btn hsbne-btn btn-lg" href="https://hsbnetour.eventbrite.com.au/" target="_blank">Book a Tour</a>
+        <p class="fw-medium mb-5">Every <strong>Saturday from 10 am – 2 pm</strong>, our doors are open to the public.  
+          Come for a tour at <strong>11 am</strong>, stay for a chat, and enjoy pizza around <strong>12:30 pm</strong>.  
+          It’s the perfect time to see the space in action and meet our members. </p>
+        <a class="btn hsbne-btn btn-lg" href="https://hsbneopendays.eventbrite.com.au/" target="_blank">Book a tour</a>
       </div>
     </div>
   </div>
 </div>
-<div id="talk-with-us" class="home-odd">
+<div id="open-nights" class="home-odd">
+  <div class="container py-5">
+    <div class="row">
+      <div class="col text-start">
+        <h2 class="display-4 mb-0 fw-semibold">Open Nights</h2>
+        <p class="fw-light mb-0 ms-1">Drop in after hours and see the space come alive</p>
+      </div>
+    </div>
+    <div class="row my-4">
+      <div class="col">
+        <img src="/assets/img/index/open-night.jpg" class="img-fluid rounded hsbne-shadow-dark" alt="Open Nights at HSBNE">
+      </div>
+    </div>
+    <div class="row">
+      <div class="text-center">
+        <p class="fw-medium mb-5">Every <strong>Tuesday evening</strong>, HSBNE opens its doors for the public to explore, chat, and create.  
+          Members start arriving from <strong>5 pm</strong>, and a guided tour of the workshop begins at <strong>6:30 pm</strong>.  
+          Whether you’re curious or already building something — come hang out!</p>
+        <a class="btn hsbne-btn btn-lg" href="https://hsbnetour.eventbrite.com.au/" target="_blank">Book a tour</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="talk-with-us">
   <div class="container py-5">
     <div class="row">
       <div class="col text-start">
@@ -86,3 +122,16 @@ script: main.js
     </div>
   </div>
 </div>
+
+<script>
+  const scrollIndicator = document.querySelector('.scroll-indicator');
+
+  window.addEventListener('scroll', () => {
+    const triggerHeight = window.innerHeight * 0.05; // fade after ~10% scroll
+    if (window.scrollY > triggerHeight) {
+      scrollIndicator.classList.add('hidden');
+    } else {
+      scrollIndicator.classList.remove('hidden');
+    }
+  });
+</script>
