@@ -72,3 +72,15 @@
   0%, 100% { transform: translate(-50%, 0); }
   50% { transform: translate(-50%, -6px); }
 }
+
+// carousel styles
+
+.carousel-caption h5,
+.carousel-caption p {
+  text-shadow: 0 2px 8px rgb(0, 0, 0);
+}
+
+.carousel-control-next i,
+.carousel-control-prev i {
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.8));
+}
