@@ -20,7 +20,7 @@ This section is relevant to section (6) and (8) of our constitution. The current
 
 The interested person must:
 
-1. attend HSBNE for a site tour. This can happen during a normal open day/night or some other time.
+1. attend HSBNE for a site tour. This can happen during a norma day/night tour or some other time.
 2. sign up via our member portal (https://portal.hsbne.org).
 3. book in and successfully complete an induction. Successfully completing an induction requires that the interested person:
     1. sit through an induction session run by a member of the executive or by someone who has been appointed by the executive. The material covered is up to the discretion of the person running the induction and is based on the content in the new member's guide.
